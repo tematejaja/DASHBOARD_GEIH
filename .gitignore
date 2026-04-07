@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C, extensions
+*.so
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Data and Outputs
+GEIH/
+output/
+*.parquet
+*.csv
+*.json
+*.xlsx
+*.zip
+*.sav
+
+# Temp files
+*.log
+*.txt
+*.md.bak
+audit_tmp*.py
+audit_*_res*.txt
+audit_dane_res.txt
+audit_dashboard_results.txt
+audit_exhaustivo_results.txt
+audit_mincer.txt
+audit_results.txt
+output_classes.json
+output_classes_err.json
+
+# Omitir archivos temporales de mac
+.DS_Store
+
+# Streamlit
+.streamlit/credentials.toml
