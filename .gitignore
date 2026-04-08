@@ -1,4 +1,4 @@
-# Python
+﻿# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -29,6 +29,7 @@ output/
 # Temp files
 *.log
 *.txt
+!requirements.txt
 *.md.bak
 audit_tmp*.py
 audit_*_res*.txt
@@ -45,3 +46,4 @@ output_classes_err.json
 
 # Streamlit
 .streamlit/credentials.toml
+
