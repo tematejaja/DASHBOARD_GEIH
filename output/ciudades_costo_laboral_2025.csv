@@ -1,0 +1,416 @@
+index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,Ciudad,Año
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",3200000,4928000,2.25,3.46,Arauca,2025
+4,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Arauca,2025
+3,Actividades financieras y de seguros,2300000,3542000,1.62,2.49,Arauca,2025
+11,Información y comunicaciones,1500000,2310000,1.05,1.62,Arauca,2025
+12,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Arauca,2025
+0,Comercio y reparación de vehículos,1300000,2002000,0.91,1.41,Arauca,2025
+10,Industrias manufactureras,1200000,1848000,0.84,1.3,Arauca,2025
+6,Construcción,1000000,1540000,0.7,1.08,Arauca,2025
+5,Transporte y almacenamiento,1000000,1540000,0.7,1.08,Arauca,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.7,1.08,Arauca,2025
+7,Alojamiento y servicios de comida,900000,1386000,0.63,0.97,Arauca,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.56,0.87,Arauca,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.56,0.87,Arauca,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Armenia,2025
+5,Actividades financieras y de seguros,2200000,3388000,1.55,2.38,Armenia,2025
+12,Información y comunicaciones,2000000,3080000,1.4,2.16,Armenia,2025
+1,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Armenia,2025
+2,Industrias manufactureras,1423500,2192190,1.0,1.54,Armenia,2025
+11,Construcción,1423500,2192190,1.0,1.54,Armenia,2025
+4,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Armenia,2025
+7,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Armenia,2025
+6,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Armenia,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Armenia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1400000,2156000,0.98,1.51,Armenia,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,0.91,1.41,Armenia,2025
+9,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Armenia,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.4,2.16,Barranquilla A.M.,2025
+5,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Barranquilla A.M.,2025
+12,Información y comunicaciones,1800000,2772000,1.26,1.95,Barranquilla A.M.,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",1600000,2464000,1.12,1.73,Barranquilla A.M.,2025
+0,Industrias manufactureras,1500000,2310000,1.05,1.62,Barranquilla A.M.,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.05,1.62,Barranquilla A.M.,2025
+11,Actividades inmobiliarias,1465000,2256100,1.03,1.58,Barranquilla A.M.,2025
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1425000,2194500,1.0,1.54,Barranquilla A.M.,2025
+3,Transporte y almacenamiento,1400000,2156000,0.98,1.51,Barranquilla A.M.,2025
+6,Comercio y reparación de vehículos,1400000,2156000,0.98,1.51,Barranquilla A.M.,2025
+10,Construcción,1350000,2079000,0.95,1.46,Barranquilla A.M.,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.7,1.08,Barranquilla A.M.,2025
+8,Alojamiento y servicios de comida,1000000,1540000,0.7,1.08,Barranquilla A.M.,2025
+5,Información y comunicaciones,3200000,4928000,2.25,3.46,Bogotá D.C.,2025
+6,Actividades financieras y de seguros,3060000,4712400,2.15,3.31,Bogotá D.C.,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",3000000,4620000,2.11,3.25,Bogotá D.C.,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",2000000,3080000,1.4,2.16,Bogotá D.C.,2025
+10,Actividades inmobiliarias,1700000,2618000,1.19,1.84,Bogotá D.C.,2025
+7,Construcción,1600000,2464000,1.12,1.73,Bogotá D.C.,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1600000,2464000,1.12,1.73,Bogotá D.C.,2025
+1,Transporte y almacenamiento,1500000,2310000,1.05,1.62,Bogotá D.C.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1500000,2310000,1.05,1.62,Bogotá D.C.,2025
+4,Industrias manufactureras,1500000,2310000,1.05,1.62,Bogotá D.C.,2025
+2,Comercio y reparación de vehículos,1500000,2310000,1.05,1.62,Bogotá D.C.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1500000,2310000,1.05,1.62,Bogotá D.C.,2025
+9,Alojamiento y servicios de comida,1423500,2192190,1.0,1.54,Bogotá D.C.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Bucaramanga A.M.,2025
+11,Información y comunicaciones,2500000,3850000,1.76,2.7,Bucaramanga A.M.,2025
+1,Actividades financieras y de seguros,2300000,3542000,1.62,2.49,Bucaramanga A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1680000,2587200,1.18,1.82,Bucaramanga A.M.,2025
+9,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Bucaramanga A.M.,2025
+8,Construcción,1500000,2310000,1.05,1.62,Bucaramanga A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1437000,2212980,1.01,1.55,Bucaramanga A.M.,2025
+0,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Bucaramanga A.M.,2025
+4,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Bucaramanga A.M.,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Bucaramanga A.M.,2025
+7,Industrias manufactureras,1423500,2192190,1.0,1.54,Bucaramanga A.M.,2025
+3,Alojamiento y servicios de comida,1423000,2191420,1.0,1.54,Bucaramanga A.M.,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1400000,2156000,0.98,1.51,Bucaramanga A.M.,2025
+11,Actividades financieras y de seguros,2600000,4004000,1.83,2.81,Cali A.M.,2025
+7,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,1.69,2.6,Cali A.M.,2025
+10,Información y comunicaciones,2200000,3388000,1.55,2.38,Cali A.M.,2025
+6,"Agricultura, ganadería, caza, silvicultura y pesca",1900000,2926000,1.33,2.06,Cali A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",1623500,2500190,1.14,1.76,Cali A.M.,2025
+12,Actividades inmobiliarias,1623500,2500190,1.14,1.76,Cali A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1600000,2464000,1.12,1.73,Cali A.M.,2025
+5,Industrias manufactureras,1500000,2310000,1.05,1.62,Cali A.M.,2025
+4,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Cali A.M.,2025
+2,Construcción,1423500,2192190,1.0,1.54,Cali A.M.,2025
+8,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Cali A.M.,2025
+1,Alojamiento y servicios de comida,1300000,2002000,0.91,1.41,Cali A.M.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.84,1.3,Cali A.M.,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.55,2.38,Cartagena,2025
+12,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Cartagena,2025
+10,Información y comunicaciones,1500000,2310000,1.05,1.62,Cartagena,2025
+1,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Cartagena,2025
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Cartagena,2025
+7,Industrias manufactureras,1423500,2192190,1.0,1.54,Cartagena,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Cartagena,2025
+2,Alojamiento y servicios de comida,1400000,2156000,0.98,1.51,Cartagena,2025
+3,Transporte y almacenamiento,1300000,2002000,0.91,1.41,Cartagena,2025
+4,Construcción,1200000,1848000,0.84,1.3,Cartagena,2025
+6,Comercio y reparación de vehículos,1200000,1848000,0.84,1.3,Cartagena,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.7,1.08,Cartagena,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.63,0.97,Cartagena,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,1.69,2.6,Cúcuta A.M.,2025
+10,Actividades financieras y de seguros,1623500,2500190,1.14,1.76,Cúcuta A.M.,2025
+11,Información y comunicaciones,1623500,2500190,1.14,1.76,Cúcuta A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Cúcuta A.M.,2025
+1,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Cúcuta A.M.,2025
+8,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Cúcuta A.M.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,0.98,1.51,Cúcuta A.M.,2025
+0,Construcción,1300000,2002000,0.91,1.41,Cúcuta A.M.,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,0.84,1.3,Cúcuta A.M.,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.84,1.3,Cúcuta A.M.,2025
+5,Transporte y almacenamiento,1200000,1848000,0.84,1.3,Cúcuta A.M.,2025
+6,Industrias manufactureras,1200000,1848000,0.84,1.3,Cúcuta A.M.,2025
+7,Alojamiento y servicios de comida,1000000,1540000,0.7,1.08,Cúcuta A.M.,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",3000000,4620000,2.11,3.25,Florencia,2025
+9,Actividades financieras y de seguros,2100000,3234000,1.48,2.27,Florencia,2025
+11,Información y comunicaciones,1800000,2772000,1.26,1.95,Florencia,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.19,1.84,Florencia,2025
+12,Actividades inmobiliarias,1650000,2541000,1.16,1.79,Florencia,2025
+1,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Florencia,2025
+8,Industrias manufactureras,1300000,2002000,0.91,1.41,Florencia,2025
+2,Construcción,1300000,2002000,0.91,1.41,Florencia,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",1080000,1663200,0.76,1.17,Florencia,2025
+4,Transporte y almacenamiento,1000000,1540000,0.7,1.08,Florencia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.7,1.08,Florencia,2025
+0,Alojamiento y servicios de comida,1000000,1540000,0.7,1.08,Florencia,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.7,1.08,Florencia,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Ibagué,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.4,2.16,Ibagué,2025
+10,Actividades financieras y de seguros,1800000,2772000,1.26,1.95,Ibagué,2025
+11,Información y comunicaciones,1600000,2464000,1.12,1.73,Ibagué,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",1500000,2310000,1.05,1.62,Ibagué,2025
+8,Industrias manufactureras,1423500,2192190,1.0,1.54,Ibagué,2025
+12,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Ibagué,2025
+2,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Ibagué,2025
+3,Construcción,1423500,2192190,1.0,1.54,Ibagué,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1400000,2156000,0.98,1.51,Ibagué,2025
+0,Transporte y almacenamiento,1400000,2156000,0.98,1.51,Ibagué,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,0.91,1.41,Ibagué,2025
+4,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Ibagué,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Inírida,2025
+10,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Inírida,2025
+11,Actividades inmobiliarias,1800000,2772000,1.26,1.95,Inírida,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.19,1.84,Inírida,2025
+2,Construcción,1600000,2464000,1.12,1.73,Inírida,2025
+6,Industrias manufactureras,1600000,2464000,1.12,1.73,Inírida,2025
+5,Comercio y reparación de vehículos,1500000,2310000,1.05,1.62,Inírida,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.05,1.62,Inírida,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1423500,2192190,1.0,1.54,Inírida,2025
+0,Transporte y almacenamiento,1400000,2156000,0.98,1.51,Inírida,2025
+3,Alojamiento y servicios de comida,1400000,2156000,0.98,1.51,Inírida,2025
+8,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.56,0.87,Inírida,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Leticia,2025
+10,Actividades financieras y de seguros,2300000,3542000,1.62,2.49,Leticia,2025
+9,Información y comunicaciones,2000000,3080000,1.4,2.16,Leticia,2025
+12,Actividades inmobiliarias,2000000,3080000,1.4,2.16,Leticia,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.26,1.95,Leticia,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1700000,2618000,1.19,1.84,Leticia,2025
+8,Industrias manufactureras,1500000,2310000,1.05,1.62,Leticia,2025
+2,Comercio y reparación de vehículos,1500000,2310000,1.05,1.62,Leticia,2025
+4,Construcción,1334000,2054360,0.94,1.44,Leticia,2025
+6,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Leticia,2025
+0,Transporte y almacenamiento,1000000,1540000,0.7,1.08,Leticia,2025
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.63,0.97,Leticia,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.56,0.87,Leticia,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Manizales A.M.,2025
+11,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Manizales A.M.,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.4,2.16,Manizales A.M.,2025
+3,Información y comunicaciones,1773500,2731190,1.25,1.92,Manizales A.M.,2025
+8,Construcción,1500000,2310000,1.05,1.62,Manizales A.M.,2025
+4,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Manizales A.M.,2025
+2,Alojamiento y servicios de comida,1423500,2192190,1.0,1.54,Manizales A.M.,2025
+1,Industrias manufactureras,1423500,2192190,1.0,1.54,Manizales A.M.,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1423500,2192190,1.0,1.54,Manizales A.M.,2025
+7,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Manizales A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Manizales A.M.,2025
+10,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Manizales A.M.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Manizales A.M.,2025
+7,Información y comunicaciones,3000000,4620000,2.11,3.25,Medellín A.M.,2025
+10,Actividades financieras y de seguros,2850000,4389000,2.0,3.08,Medellín A.M.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Medellín A.M.,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1900000,2926000,1.33,2.06,Medellín A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1850000,2849000,1.3,2.0,Medellín A.M.,2025
+6,Actividades inmobiliarias,1800000,2772000,1.26,1.95,Medellín A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1800000,2772000,1.26,1.95,Medellín A.M.,2025
+0,Industrias manufactureras,1623500,2500190,1.14,1.76,Medellín A.M.,2025
+1,Construcción,1623000,2499420,1.14,1.76,Medellín A.M.,2025
+5,Transporte y almacenamiento,1600000,2464000,1.12,1.73,Medellín A.M.,2025
+4,Comercio y reparación de vehículos,1500000,2310000,1.05,1.62,Medellín A.M.,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1450000,2233000,1.02,1.57,Medellín A.M.,2025
+8,Alojamiento y servicios de comida,1423590,2192329,1.0,1.54,Medellín A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",3000000,4620000,2.11,3.25,Mitú,2025
+3,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Mitú,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1600000,2464000,1.12,1.73,Mitú,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.05,1.62,Mitú,2025
+11,Información y comunicaciones,1423500,2192190,1.0,1.54,Mitú,2025
+1,Comercio y reparación de vehículos,1400000,2156000,0.98,1.51,Mitú,2025
+2,Alojamiento y servicios de comida,1000000,1540000,0.7,1.08,Mitú,2025
+7,Industrias manufactureras,1000000,1540000,0.7,1.08,Mitú,2025
+10,Construcción,1000000,1540000,0.7,1.08,Mitú,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.63,0.97,Mitú,2025
+12,Actividades inmobiliarias,800000,1232000,0.56,0.87,Mitú,2025
+5,Transporte y almacenamiento,700000,1078000,0.49,0.76,Mitú,2025
+6,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.42,0.65,Mitú,2025
+12,Actividades inmobiliarias,5000000,7700000,3.51,5.41,Mocoa,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",3500000,5390000,2.46,3.79,Mocoa,2025
+3,Actividades financieras y de seguros,2200000,3388000,1.55,2.38,Mocoa,2025
+5,Transporte y almacenamiento,1800000,2772000,1.26,1.95,Mocoa,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.26,1.95,Mocoa,2025
+4,Construcción,1600000,2464000,1.12,1.73,Mocoa,2025
+1,Industrias manufactureras,1500000,2310000,1.05,1.62,Mocoa,2025
+11,Información y comunicaciones,1500000,2310000,1.05,1.62,Mocoa,2025
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1500000,2310000,1.05,1.62,Mocoa,2025
+8,Comercio y reparación de vehículos,1300000,2002000,0.91,1.41,Mocoa,2025
+2,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Mocoa,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,0.84,1.3,Mocoa,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.63,0.97,Mocoa,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2600000,4004000,1.83,2.81,Montería,2025
+12,Actividades financieras y de seguros,1500000,2310000,1.05,1.62,Montería,2025
+2,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Montería,2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Montería,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Montería,2025
+11,Información y comunicaciones,1423500,2192190,1.0,1.54,Montería,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Montería,2025
+6,Comercio y reparación de vehículos,1350000,2079000,0.95,1.46,Montería,2025
+1,Industrias manufactureras,1200000,1848000,0.84,1.3,Montería,2025
+5,Construcción,1080000,1663200,0.76,1.17,Montería,2025
+3,Transporte y almacenamiento,900000,1386000,0.63,0.97,Montería,2025
+4,Alojamiento y servicios de comida,900000,1386000,0.63,0.97,Montería,2025
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",820000,1262800,0.58,0.89,Montería,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,1.69,2.6,Pasto,2025
+8,Actividades financieras y de seguros,1800000,2772000,1.26,1.95,Pasto,2025
+11,Información y comunicaciones,1600000,2464000,1.12,1.73,Pasto,2025
+12,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Pasto,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1423000,2191420,1.0,1.54,Pasto,2025
+9,Construcción,1280000,1971200,0.9,1.38,Pasto,2025
+4,Comercio y reparación de vehículos,1200000,1848000,0.84,1.3,Pasto,2025
+7,Industrias manufactureras,1000000,1540000,0.7,1.08,Pasto,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",960000,1478400,0.67,1.04,Pasto,2025
+2,Alojamiento y servicios de comida,900000,1386000,0.63,0.97,Pasto,2025
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.63,0.97,Pasto,2025
+1,Transporte y almacenamiento,850000,1309000,0.6,0.92,Pasto,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.56,0.87,Pasto,2025
+0,Actividades financieras y de seguros,2400000,3696000,1.69,2.6,Pereira A.M.,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",2332200,3591588,1.64,2.52,Pereira A.M.,2025
+10,Información y comunicaciones,1850000,2849000,1.3,2.0,Pereira A.M.,2025
+8,Construcción,1600000,2464000,1.12,1.73,Pereira A.M.,2025
+9,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Pereira A.M.,2025
+1,Transporte y almacenamiento,1500000,2310000,1.05,1.62,Pereira A.M.,2025
+4,Industrias manufactureras,1450000,2233000,1.02,1.57,Pereira A.M.,2025
+2,Comercio y reparación de vehículos,1424000,2192960,1.0,1.54,Pereira A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1424000,2192960,1.0,1.54,Pereira A.M.,2025
+5,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Pereira A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Pereira A.M.,2025
+7,Alojamiento y servicios de comida,1423000,2191420,1.0,1.54,Pereira A.M.,2025
+11,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1400000,2156000,0.98,1.51,Pereira A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2700000,4158000,1.9,2.92,Popayán,2025
+1,Actividades financieras y de seguros,2500000,3850000,1.76,2.7,Popayán,2025
+2,Información y comunicaciones,2500000,3850000,1.76,2.7,Popayán,2025
+12,Actividades inmobiliarias,1500000,2310000,1.05,1.62,Popayán,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Popayán,2025
+3,Comercio y reparación de vehículos,1300000,2002000,0.91,1.41,Popayán,2025
+7,Construcción,1200000,1848000,0.84,1.3,Popayán,2025
+6,Industrias manufactureras,1200000,1848000,0.84,1.3,Popayán,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.7,1.08,Popayán,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.7,1.08,Popayán,2025
+10,Transporte y almacenamiento,1000000,1540000,0.7,1.08,Popayán,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",960000,1478400,0.67,1.04,Popayán,2025
+9,Alojamiento y servicios de comida,884000,1361360,0.62,0.96,Popayán,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",2700000,4158000,1.9,2.92,Puerto Carreño,2025
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",2670000,4111800,1.88,2.89,Puerto Carreño,2025
+6,Actividades financieras y de seguros,1800000,2772000,1.26,1.95,Puerto Carreño,2025
+11,Información y comunicaciones,1623500,2500190,1.14,1.76,Puerto Carreño,2025
+0,Comercio y reparación de vehículos,1300000,2002000,0.91,1.41,Puerto Carreño,2025
+3,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Puerto Carreño,2025
+2,Construcción,1200000,1848000,0.84,1.3,Puerto Carreño,2025
+9,Industrias manufactureras,1200000,1848000,0.84,1.3,Puerto Carreño,2025
+7,Transporte y almacenamiento,1200000,1848000,0.84,1.3,Puerto Carreño,2025
+12,Actividades inmobiliarias,1100000,1694000,0.77,1.19,Puerto Carreño,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.7,1.08,Puerto Carreño,2025
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.56,0.87,Puerto Carreño,2025
+8,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.42,0.65,Puerto Carreño,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Quibdó,2025
+10,Actividades inmobiliarias,1700000,2618000,1.19,1.84,Quibdó,2025
+11,Información y comunicaciones,1500000,2310000,1.05,1.62,Quibdó,2025
+12,Actividades financieras y de seguros,1500000,2310000,1.05,1.62,Quibdó,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1400000,2156000,0.98,1.51,Quibdó,2025
+2,Comercio y reparación de vehículos,1300000,2002000,0.91,1.41,Quibdó,2025
+7,Construcción,1200000,1848000,0.84,1.3,Quibdó,2025
+8,Industrias manufactureras,1000000,1540000,0.7,1.08,Quibdó,2025
+1,Transporte y almacenamiento,900000,1386000,0.63,0.97,Quibdó,2025
+5,Alojamiento y servicios de comida,900000,1386000,0.63,0.97,Quibdó,2025
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",900000,1386000,0.63,0.97,Quibdó,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.49,0.76,Quibdó,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",400000,616000,0.28,0.43,Quibdó,2025
+4,"Administración pública y defensa, educación y atención de la salud humana",2600000,4004000,1.83,2.81,Riohacha,2025
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.4,2.16,Riohacha,2025
+9,Actividades financieras y de seguros,1700000,2618000,1.19,1.84,Riohacha,2025
+10,Información y comunicaciones,1600000,2464000,1.12,1.73,Riohacha,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Riohacha,2025
+12,Actividades inmobiliarias,1100000,1694000,0.77,1.19,Riohacha,2025
+1,Comercio y reparación de vehículos,1000000,1540000,0.7,1.08,Riohacha,2025
+6,Construcción,900000,1386000,0.63,0.97,Riohacha,2025
+0,Transporte y almacenamiento,900000,1386000,0.63,0.97,Riohacha,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.56,0.87,Riohacha,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.56,0.87,Riohacha,2025
+7,Alojamiento y servicios de comida,720000,1108800,0.51,0.78,Riohacha,2025
+5,Industrias manufactureras,450000,693000,0.32,0.49,Riohacha,2025
+6,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,San Andrés,2025
+2,"Suministro de electricidad, gas, agua y gestión de desechos^",2500000,3850000,1.76,2.7,San Andrés,2025
+1,Información y comunicaciones,2000000,3080000,1.4,2.16,San Andrés,2025
+10,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,San Andrés,2025
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1800000,2772000,1.26,1.95,San Andrés,2025
+12,Actividades inmobiliarias,1700000,2618000,1.19,1.84,San Andrés,2025
+8,Industrias manufactureras,1650000,2541000,1.16,1.79,San Andrés,2025
+9,Comercio y reparación de vehículos,1623500,2500190,1.14,1.76,San Andrés,2025
+7,Construcción,1623500,2500190,1.14,1.76,San Andrés,2025
+3,Alojamiento y servicios de comida,1623000,2499420,1.14,1.76,San Andrés,2025
+4,Transporte y almacenamiento,1600000,2464000,1.12,1.73,San Andrés,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1500000,2310000,1.05,1.62,San Andrés,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,San Andrés,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",3000000,4620000,2.11,3.25,San José del Guaviare,2025
+9,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,San José del Guaviare,2025
+12,Actividades inmobiliarias,1986000,3058440,1.4,2.15,San José del Guaviare,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1680000,2587200,1.18,1.82,San José del Guaviare,2025
+11,Información y comunicaciones,1623000,2499420,1.14,1.76,San José del Guaviare,2025
+6,Construcción,1450000,2233000,1.02,1.57,San José del Guaviare,2025
+3,Comercio y reparación de vehículos,1400000,2156000,0.98,1.51,San José del Guaviare,2025
+8,Transporte y almacenamiento,1300000,2002000,0.91,1.41,San José del Guaviare,2025
+2,Industrias manufactureras,1200000,1848000,0.84,1.3,San José del Guaviare,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1100000,1694000,0.77,1.19,San José del Guaviare,2025
+1,Alojamiento y servicios de comida,1000000,1540000,0.7,1.08,San José del Guaviare,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.7,1.08,San José del Guaviare,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.7,1.08,San José del Guaviare,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Santa Marta,2025
+10,Actividades financieras y de seguros,1800000,2772000,1.26,1.95,Santa Marta,2025
+8,Información y comunicaciones,1800000,2772000,1.26,1.95,Santa Marta,2025
+9,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Santa Marta,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1450000,2233000,1.02,1.57,Santa Marta,2025
+5,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Santa Marta,2025
+6,Industrias manufactureras,1423500,2192190,1.0,1.54,Santa Marta,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1423500,2192190,1.0,1.54,Santa Marta,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Santa Marta,2025
+2,Alojamiento y servicios de comida,1400000,2156000,0.98,1.51,Santa Marta,2025
+3,Transporte y almacenamiento,1400000,2156000,0.98,1.51,Santa Marta,2025
+7,Construcción,1200000,1848000,0.84,1.3,Santa Marta,2025
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1112000,1712480,0.78,1.2,Santa Marta,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.62,2.49,Sincelejo,2025
+9,Actividades financieras y de seguros,1500000,2310000,1.05,1.62,Sincelejo,2025
+11,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Sincelejo,2025
+12,Información y comunicaciones,1423500,2192190,1.0,1.54,Sincelejo,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Sincelejo,2025
+2,Comercio y reparación de vehículos,1000000,1540000,0.7,1.08,Sincelejo,2025
+6,Construcción,800000,1232000,0.56,0.87,Sincelejo,2025
+4,Transporte y almacenamiento,800000,1232000,0.56,0.87,Sincelejo,2025
+5,Industrias manufactureras,800000,1232000,0.56,0.87,Sincelejo,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",640000,985600,0.45,0.69,Sincelejo,2025
+0,Alojamiento y servicios de comida,600000,924000,0.42,0.65,Sincelejo,2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.42,0.65,Sincelejo,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",560000,862400,0.39,0.61,Sincelejo,2025
+6,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Todas (Panorama Nacional),2025
+12,Información y comunicaciones,2500000,3850000,1.76,2.7,Todas (Panorama Nacional),2025
+11,Actividades financieras y de seguros,2500000,3850000,1.76,2.7,Todas (Panorama Nacional),2025
+3,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Todas (Panorama Nacional),2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.05,1.62,Todas (Panorama Nacional),2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Todas (Panorama Nacional),2025
+7,Construcción,1423500,2192190,1.0,1.54,Todas (Panorama Nacional),2025
+2,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Todas (Panorama Nacional),2025
+4,Industrias manufactureras,1423500,2192190,1.0,1.54,Todas (Panorama Nacional),2025
+5,Transporte y almacenamiento,1400000,2156000,0.98,1.51,Todas (Panorama Nacional),2025
+9,Alojamiento y servicios de comida,1140000,1755600,0.8,1.23,Todas (Panorama Nacional),2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1050000,1617000,0.74,1.14,Todas (Panorama Nacional),2025
+1,"Agricultura, ganadería, caza, silvicultura y pesca",900000,1386000,0.63,0.97,Todas (Panorama Nacional),2025
+8,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Tunja,2025
+9,Actividades financieras y de seguros,2000000,3080000,1.4,2.16,Tunja,2025
+10,Información y comunicaciones,2000000,3080000,1.4,2.16,Tunja,2025
+2,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Tunja,2025
+0,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Tunja,2025
+11,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Tunja,2025
+7,Construcción,1423500,2192190,1.0,1.54,Tunja,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Tunja,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Tunja,2025
+12,Industrias manufactureras,1423500,2192190,1.0,1.54,Tunja,2025
+1,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,0.91,1.41,Tunja,2025
+3,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Tunja,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1050000,1617000,0.74,1.14,Tunja,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.55,2.38,Valledupar,2025
+10,Información y comunicaciones,1700000,2618000,1.19,1.84,Valledupar,2025
+11,Actividades financieras y de seguros,1680000,2587200,1.18,1.82,Valledupar,2025
+9,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Valledupar,2025
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Valledupar,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,0.98,1.51,Valledupar,2025
+2,Comercio y reparación de vehículos,1400000,2156000,0.98,1.51,Valledupar,2025
+4,Industrias manufactureras,1200000,1848000,0.84,1.3,Valledupar,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,0.84,1.3,Valledupar,2025
+7,Construcción,1200000,1848000,0.84,1.3,Valledupar,2025
+5,Transporte y almacenamiento,1000000,1540000,0.7,1.08,Valledupar,2025
+1,Alojamiento y servicios de comida,960000,1478400,0.67,1.04,Valledupar,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.56,0.87,Valledupar,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.76,2.7,Villavicencio,2025
+4,Actividades financieras y de seguros,1950000,3003000,1.37,2.11,Villavicencio,2025
+1,Información y comunicaciones,1800000,2772000,1.26,1.95,Villavicencio,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1500000,2310000,1.05,1.62,Villavicencio,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1423500,2192190,1.0,1.54,Villavicencio,2025
+3,Comercio y reparación de vehículos,1423500,2192190,1.0,1.54,Villavicencio,2025
+6,Transporte y almacenamiento,1423500,2192190,1.0,1.54,Villavicencio,2025
+8,Actividades inmobiliarias,1423500,2192190,1.0,1.54,Villavicencio,2025
+7,Industrias manufactureras,1423500,2192190,1.0,1.54,Villavicencio,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1423500,2192190,1.0,1.54,Villavicencio,2025
+10,Construcción,1423500,2192190,1.0,1.54,Villavicencio,2025
+5,Alojamiento y servicios de comida,1200000,1848000,0.84,1.3,Villavicencio,2025
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.84,1.3,Villavicencio,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,1.97,3.03,Yopal,2025
+9,Actividades financieras y de seguros,2500000,3850000,1.76,2.7,Yopal,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",2050000,3157000,1.44,2.22,Yopal,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1700000,2618000,1.19,1.84,Yopal,2025
+12,Información y comunicaciones,1620000,2494800,1.14,1.75,Yopal,2025
+0,Actividades inmobiliarias,1600000,2464000,1.12,1.73,Yopal,2025
+6,Transporte y almacenamiento,1500000,2310000,1.05,1.62,Yopal,2025
+7,Industrias manufactureras,1500000,2310000,1.05,1.62,Yopal,2025
+3,Comercio y reparación de vehículos,1425000,2194500,1.0,1.54,Yopal,2025
+5,Construcción,1423500,2192190,1.0,1.54,Yopal,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1400000,2156000,0.98,1.51,Yopal,2025
+1,Alojamiento y servicios de comida,1323500,2038190,0.93,1.43,Yopal,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.84,1.3,Yopal,2025

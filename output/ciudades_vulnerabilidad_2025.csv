@@ -1,0 +1,231 @@
+index,Rama,IVI,Ocupados_miles,Ciudad,Año
+0,Comercio y reparación de vehículos,33.2,7,Arauca,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",4.9,7,Arauca,2025
+4,Transporte y almacenamiento,36.7,9,Armenia,2025
+6,Alojamiento y servicios de comida,34.2,14,Armenia,2025
+7,Construcción,32.2,11,Armenia,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.5,13,Armenia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",29.4,13,Armenia,2025
+1,Comercio y reparación de vehículos,27.1,31,Armenia,2025
+2,Industrias manufactureras,20.4,14,Armenia,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",6.9,21,Armenia,2025
+3,Transporte y almacenamiento,39.9,97,Barranquilla A.M.,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.9,106,Barranquilla A.M.,2025
+8,Alojamiento y servicios de comida,33.6,79,Barranquilla A.M.,2025
+9,Construcción,31.6,71,Barranquilla A.M.,2025
+6,Comercio y reparación de vehículos,29.8,196,Barranquilla A.M.,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",20.5,78,Barranquilla A.M.,2025
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",20.3,20,Barranquilla A.M.,2025
+0,Industrias manufactureras,17.1,115,Barranquilla A.M.,2025
+11,Información y comunicaciones,10.1,15,Barranquilla A.M.,2025
+10,Actividades inmobiliarias,9.3,13,Barranquilla A.M.,2025
+5,Actividades financieras y de seguros,8.6,17,Barranquilla A.M.,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",7.1,116,Barranquilla A.M.,2025
+1,Transporte y almacenamiento,30.1,338,Bogotá D.C.,2025
+9,Alojamiento y servicios de comida,29.3,284,Bogotá D.C.,2025
+2,Comercio y reparación de vehículos,26.1,753,Bogotá D.C.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",25.7,344,Bogotá D.C.,2025
+7,Construcción,22.7,245,Bogotá D.C.,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",21.4,70,Bogotá D.C.,2025
+4,Industrias manufactureras,18.3,553,Bogotá D.C.,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",15.0,558,Bogotá D.C.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",13.8,32,Bogotá D.C.,2025
+10,Actividades inmobiliarias,9.0,103,Bogotá D.C.,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",7.8,689,Bogotá D.C.,2025
+5,Información y comunicaciones,7.4,171,Bogotá D.C.,2025
+6,Actividades financieras y de seguros,4.2,171,Bogotá D.C.,2025
+0,Transporte y almacenamiento,38.3,60,Bucaramanga A.M.,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",29.7,52,Bucaramanga A.M.,2025
+3,Alojamiento y servicios de comida,26.1,49,Bucaramanga A.M.,2025
+4,Comercio y reparación de vehículos,24.7,125,Bucaramanga A.M.,2025
+7,Industrias manufactureras,21.7,80,Bucaramanga A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",20.7,54,Bucaramanga A.M.,2025
+8,Construcción,19.5,35,Bucaramanga A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",18.1,11,Bucaramanga A.M.,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",15.8,11,Bucaramanga A.M.,2025
+9,Actividades inmobiliarias,7.0,15,Bucaramanga A.M.,2025
+11,Información y comunicaciones,7.0,11,Bucaramanga A.M.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",6.5,90,Bucaramanga A.M.,2025
+1,Actividades financieras y de seguros,4.7,16,Bucaramanga A.M.,2025
+5,Transporte y almacenamiento,36.4,82,Cali A.M.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.3,119,Cali A.M.,2025
+1,Alojamiento y servicios de comida,27.0,91,Cali A.M.,2025
+2,Construcción,23.6,75,Cali A.M.,2025
+4,Comercio y reparación de vehículos,22.7,233,Cali A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",20.5,97,Cali A.M.,2025
+6,Industrias manufactureras,14.6,170,Cali A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",13.2,18,Cali A.M.,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",13.0,8,Cali A.M.,2025
+12,Actividades inmobiliarias,8.2,23,Cali A.M.,2025
+10,Información y comunicaciones,7.9,23,Cali A.M.,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",7.2,154,Cali A.M.,2025
+11,Actividades financieras y de seguros,6.1,23,Cali A.M.,2025
+4,Transporte y almacenamiento,40.2,59,Cartagena,2025
+3,Comercio y reparación de vehículos,35.4,78,Cartagena,2025
+5,Construcción,34.9,35,Cartagena,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.8,49,Cartagena,2025
+2,Alojamiento y servicios de comida,30.0,49,Cartagena,2025
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.2,34,Cartagena,2025
+7,Industrias manufactureras,21.4,34,Cartagena,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",18.0,9,Cartagena,2025
+1,Actividades inmobiliarias,11.0,8,Cartagena,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",6.2,54,Cartagena,2025
+6,Transporte y almacenamiento,50.8,36,Cúcuta A.M.,2025
+0,Construcción,46.7,33,Cúcuta A.M.,2025
+5,Alojamiento y servicios de comida,44.6,36,Cúcuta A.M.,2025
+7,Industrias manufactureras,43.9,64,Cúcuta A.M.,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",39.7,37,Cúcuta A.M.,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",38.6,34,Cúcuta A.M.,2025
+1,Comercio y reparación de vehículos,36.1,109,Cúcuta A.M.,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",34.0,6,Cúcuta A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",22.2,11,Cúcuta A.M.,2025
+10,Actividades financieras y de seguros,17.5,6,Cúcuta A.M.,2025
+8,Actividades inmobiliarias,15.1,5,Cúcuta A.M.,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",10.1,52,Cúcuta A.M.,2025
+4,Transporte y almacenamiento,49.2,6,Florencia,2025
+2,Construcción,40.5,5,Florencia,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",36.3,6,Florencia,2025
+0,Alojamiento y servicios de comida,36.0,6,Florencia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.0,6,Florencia,2025
+1,Comercio y reparación de vehículos,31.7,16,Florencia,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",9.6,15,Florencia,2025
+0,Transporte y almacenamiento,31.2,11,Ibagué,2025
+3,Construcción,30.3,16,Ibagué,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.3,17,Ibagué,2025
+4,Alojamiento y servicios de comida,26.2,13,Ibagué,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",26.0,11,Ibagué,2025
+2,Comercio y reparación de vehículos,20.3,28,Ibagué,2025
+8,Industrias manufactureras,16.8,10,Ibagué,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",11.2,5,Ibagué,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",4.3,25,Ibagué,2025
+7,Transporte y almacenamiento,28.3,17,Manizales A.M.,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.5,21,Manizales A.M.,2025
+2,Alojamiento y servicios de comida,25.6,19,Manizales A.M.,2025
+4,Comercio y reparación de vehículos,24.5,44,Manizales A.M.,2025
+8,Construcción,21.5,16,Manizales A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",15.7,30,Manizales A.M.,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",12.5,5,Manizales A.M.,2025
+1,Industrias manufactureras,10.3,37,Manizales A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",6.6,36,Manizales A.M.,2025
+3,Información y comunicaciones,6.5,7,Manizales A.M.,2025
+10,Actividades financieras y de seguros,4.3,5,Manizales A.M.,2025
+5,Transporte y almacenamiento,34.1,190,Medellín A.M.,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.6,183,Medellín A.M.,2025
+8,Alojamiento y servicios de comida,25.3,158,Medellín A.M.,2025
+4,Comercio y reparación de vehículos,24.6,408,Medellín A.M.,2025
+1,Construcción,21.7,146,Medellín A.M.,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",20.2,13,Medellín A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",17.7,36,Medellín A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",16.0,228,Medellín A.M.,2025
+0,Industrias manufactureras,14.3,377,Medellín A.M.,2025
+6,Actividades inmobiliarias,9.0,41,Medellín A.M.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",8.8,272,Medellín A.M.,2025
+7,Información y comunicaciones,7.2,57,Medellín A.M.,2025
+10,Actividades financieras y de seguros,6.3,57,Medellín A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",3.0,6,Mocoa,2025
+2,Transporte y almacenamiento,52.0,19,Montería,2025
+3,Alojamiento y servicios de comida,33.7,16,Montería,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.9,22,Montería,2025
+4,Construcción,29.5,11,Montería,2025
+1,Industrias manufactureras,28.1,12,Montería,2025
+5,Comercio y reparación de vehículos,27.3,40,Montería,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.1,13,Montería,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",6.0,34,Montería,2025
+1,Transporte y almacenamiento,49.9,17,Pasto,2025
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.7,15,Pasto,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.5,16,Pasto,2025
+4,Comercio y reparación de vehículos,33.3,39,Pasto,2025
+6,Industrias manufactureras,32.7,12,Pasto,2025
+7,Construcción,31.9,7,Pasto,2025
+2,Alojamiento y servicios de comida,30.3,13,Pasto,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",10.2,30,Pasto,2025
+1,Transporte y almacenamiento,31.7,21,Pereira A.M.,2025
+11,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",29.7,29,Pereira A.M.,2025
+7,Alojamiento y servicios de comida,25.9,26,Pereira A.M.,2025
+2,Comercio y reparación de vehículos,24.0,68,Pereira A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.3,31,Pereira A.M.,2025
+8,Construcción,19.9,28,Pereira A.M.,2025
+5,"Agricultura, ganadería, caza, silvicultura y pesca",18.5,5,Pereira A.M.,2025
+4,Industrias manufactureras,16.3,44,Pereira A.M.,2025
+9,Actividades inmobiliarias,15.4,6,Pereira A.M.,2025
+10,Información y comunicaciones,9.5,5,Pereira A.M.,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",8.7,42,Pereira A.M.,2025
+0,Actividades financieras y de seguros,4.9,6,Pereira A.M.,2025
+4,Transporte y almacenamiento,48.1,11,Popayán,2025
+5,Construcción,38.4,8,Popayán,2025
+7,Alojamiento y servicios de comida,34.3,12,Popayán,2025
+3,Industrias manufactureras,33.9,8,Popayán,2025
+1,Comercio y reparación de vehículos,32.0,27,Popayán,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.0,11,Popayán,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.7,10,Popayán,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",9.1,26,Popayán,2025
+1,Comercio y reparación de vehículos,31.1,6,Quibdó,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",5.2,8,Quibdó,2025
+0,Transporte y almacenamiento,52.2,8,Riohacha,2025
+4,Alojamiento y servicios de comida,38.7,5,Riohacha,2025
+1,Comercio y reparación de vehículos,38.0,10,Riohacha,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.0,7,Riohacha,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",6.3,11,Riohacha,2025
+0,Alojamiento y servicios de comida,10.5,5,San Andrés,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",9.4,5,San José del Guaviare,2025
+7,Construcción,42.3,19,Santa Marta,2025
+3,Transporte y almacenamiento,41.4,26,Santa Marta,2025
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.7,20,Santa Marta,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",29.6,20,Santa Marta,2025
+5,Comercio y reparación de vehículos,28.6,42,Santa Marta,2025
+6,Industrias manufactureras,26.9,12,Santa Marta,2025
+2,Alojamiento y servicios de comida,25.6,25,Santa Marta,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",6.1,30,Santa Marta,2025
+4,Transporte y almacenamiento,56.0,16,Sincelejo,2025
+6,Construcción,43.0,8,Sincelejo,2025
+0,Alojamiento y servicios de comida,36.7,11,Sincelejo,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.6,13,Sincelejo,2025
+5,Industrias manufactureras,34.8,8,Sincelejo,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.6,7,Sincelejo,2025
+2,Comercio y reparación de vehículos,31.9,26,Sincelejo,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",7.8,19,Sincelejo,2025
+5,Transporte y almacenamiento,38.6,1820,Todas (Panorama Nacional),2025
+1,"Agricultura, ganadería, caza, silvicultura y pesca",37.0,3386,Todas (Panorama Nacional),2025
+9,Alojamiento y servicios de comida,31.7,1834,Todas (Panorama Nacional),2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.0,1992,Todas (Panorama Nacional),2025
+2,Comercio y reparación de vehículos,30.0,4104,Todas (Panorama Nacional),2025
+7,Construcción,29.1,1605,Todas (Panorama Nacional),2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",24.3,617,Todas (Panorama Nacional),2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.6,1812,Todas (Panorama Nacional),2025
+4,Industrias manufactureras,21.3,2609,Todas (Panorama Nacional),2025
+3,Actividades inmobiliarias,10.0,322,Todas (Panorama Nacional),2025
+12,Información y comunicaciones,8.1,406,Todas (Panorama Nacional),2025
+6,"Administración pública y defensa, educación y atención de la salud humana",7.8,2883,Todas (Panorama Nacional),2025
+11,Actividades financieras y de seguros,6.8,436,Todas (Panorama Nacional),2025
+1,Transporte y almacenamiento,29.9,5,Tunja,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",26.6,5,Tunja,2025
+2,Alojamiento y servicios de comida,24.9,6,Tunja,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",23.0,7,Tunja,2025
+0,Comercio y reparación de vehículos,21.9,17,Tunja,2025
+5,Construcción,20.6,6,Tunja,2025
+6,"Administración pública y defensa, educación y atención de la salud humana",3.7,21,Tunja,2025
+5,Transporte y almacenamiento,46.9,19,Valledupar,2025
+7,Construcción,33.0,17,Valledupar,2025
+1,Alojamiento y servicios de comida,32.6,16,Valledupar,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.4,25,Valledupar,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.2,13,Valledupar,2025
+2,Comercio y reparación de vehículos,29.8,48,Valledupar,2025
+4,Industrias manufactureras,28.5,15,Valledupar,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",6.7,34,Valledupar,2025
+4,Transporte y almacenamiento,40.0,20,Villavicencio,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.7,23,Villavicencio,2025
+7,Construcción,32.4,23,Villavicencio,2025
+3,Alojamiento y servicios de comida,32.2,27,Villavicencio,2025
+2,Comercio y reparación de vehículos,30.0,64,Villavicencio,2025
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",29.9,20,Villavicencio,2025
+5,Industrias manufactureras,26.3,19,Villavicencio,2025
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",20.5,6,Villavicencio,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",9.8,36,Villavicencio,2025
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.0,6,Yopal,2025
+5,Transporte y almacenamiento,31.5,6,Yopal,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",29.7,7,Yopal,2025
+0,Alojamiento y servicios de comida,28.9,8,Yopal,2025
+4,Construcción,27.9,7,Yopal,2025
+2,Comercio y reparación de vehículos,27.2,18,Yopal,2025
+6,Industrias manufactureras,24.1,6,Yopal,2025
+7,"Administración pública y defensa, educación y atención de la salud humana",4.9,14,Yopal,2025

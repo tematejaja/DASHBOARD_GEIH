@@ -18,7 +18,6 @@ ENV/
 
 # Data and Outputs
 GEIH/
-output/
 *.parquet
 *.csv
 *.json
@@ -47,3 +46,8 @@ output_classes_err.json
 # Streamlit
 .streamlit/credentials.toml
 
+
+# Permitir output/ para deploy
+!output/
+!output/*.csv
+!output/*.json

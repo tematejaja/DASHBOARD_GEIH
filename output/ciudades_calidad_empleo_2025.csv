@@ -1,0 +1,416 @@
+index,Rama,ICE,Ocupados_M,Ciudad,Año
+12,Actividades inmobiliarias,100.0,5.482373122333333e-05,Arauca,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",93.78054079823332,0.0073890614778444165,Arauca,2025
+4,Actividades financieras y de seguros,89.93761391368646,0.00081636127469,Arauca,2025
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",85.68632232846497,0.0015986975978046663,Arauca,2025
+11,Información y comunicaciones,82.1332995987475,0.00032102564469749993,Arauca,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",62.60311696928632,0.0034929986162614167,Arauca,2025
+0,Comercio y reparación de vehículos,56.974543418864265,0.006563770855574,Arauca,2025
+7,Construcción,55.3362080362105,0.003476349166850417,Arauca,2025
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",54.93402655569564,0.0034426943938309167,Arauca,2025
+10,Industrias manufactureras,51.32071549376642,0.0013023151814658335,Arauca,2025
+6,Transporte y almacenamiento,49.694030416464194,0.002907307246142583,Arauca,2025
+8,Alojamiento y servicios de comida,49.09870148178566,0.003945930486323333,Arauca,2025
+2,"Agricultura, ganadería, caza, silvicultura y pesca",34.83729060219792,0.001784329801224167,Arauca,2025
+5,Actividades financieras y de seguros,92.0667290831256,0.0023739216771895837,Armenia,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",91.73744044381668,0.020935020849417334,Armenia,2025
+12,Información y comunicaciones,90.75546731176183,0.0034691294144697502,Armenia,2025
+6,Actividades inmobiliarias,83.97455650874586,0.00382154611477275,Armenia,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",82.08485573618627,0.0023789033433683337,Armenia,2025
+2,Industrias manufactureras,73.9472827288516,0.014321338340420084,Armenia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",67.02041672604724,0.012978008278907084,Armenia,2025
+4,"Agricultura, ganadería, caza, silvicultura y pesca",67.0198381483801,0.0039895859706744995,Armenia,2025
+1,Comercio y reparación de vehículos,65.92407875266963,0.031412161575358165,Armenia,2025
+11,Construcción,62.75383152795676,0.010957577135910584,Armenia,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",61.44314015684128,0.013443930832145332,Armenia,2025
+7,Transporte y almacenamiento,60.745420338804344,0.00913721725133625,Armenia,2025
+9,Alojamiento y servicios de comida,55.45640881551789,0.013732536179805748,Armenia,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",90.32365941769905,0.11580921336854834,Barranquilla A.M.,2025
+12,Información y comunicaciones,88.60927685904092,0.014604623159785,Barranquilla A.M.,2025
+5,Actividades financieras y de seguros,88.05357956314207,0.016568625535713335,Barranquilla A.M.,2025
+11,Actividades inmobiliarias,87.94899213544552,0.0131223273937225,Barranquilla A.M.,2025
+0,Industrias manufactureras,77.6557883859154,0.11526873563328917,Barranquilla A.M.,2025
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",76.80284410148812,0.019920503348534166,Barranquilla A.M.,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",75.78514566294183,0.07815897901151332,Barranquilla A.M.,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",73.94494757047563,0.0035570390249075,Barranquilla A.M.,2025
+10,Construcción,63.30172010878178,0.0711620491009975,Barranquilla A.M.,2025
+6,Comercio y reparación de vehículos,61.7562064749594,0.196292153951185,Barranquilla A.M.,2025
+3,Transporte y almacenamiento,56.75397177714964,0.09664776784853334,Barranquilla A.M.,2025
+8,Alojamiento y servicios de comida,52.35537102290155,0.07852412737305334,Barranquilla A.M.,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.905615512919965,0.10615991293196166,Barranquilla A.M.,2025
+6,Actividades financieras y de seguros,94.4199797258241,0.17077279393606665,Bogotá D.C.,2025
+5,Información y comunicaciones,91.49895130640321,0.17068193362547499,Bogotá D.C.,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",89.76157097053189,0.6890782315217083,Bogotá D.C.,2025
+10,Actividades inmobiliarias,88.64267702059597,0.10305110338145,Bogotá D.C.,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",81.10514709933415,0.5584773714946667,Bogotá D.C.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",79.69347963265344,0.03212320549700833,Bogotá D.C.,2025
+4,Industrias manufactureras,75.46877036327963,0.5532130340079,Bogotá D.C.,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",74.21736882839926,0.069523398817025,Bogotá D.C.,2025
+7,Construcción,71.51766170761977,0.24495294415243335,Bogotá D.C.,2025
+1,Transporte y almacenamiento,66.59406822219677,0.3380315040914917,Bogotá D.C.,2025
+2,Comercio y reparación de vehículos,65.47801287993556,0.7525754597893833,Bogotá D.C.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",62.925497564575586,0.34389651431699997,Bogotá D.C.,2025
+9,Alojamiento y servicios de comida,55.293500886624635,0.2842393714569584,Bogotá D.C.,2025
+1,Actividades financieras y de seguros,94.08291136743493,0.016293134051334167,Bucaramanga A.M.,2025
+9,Actividades inmobiliarias,91.78893919918721,0.015237749709486667,Bucaramanga A.M.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",91.73271946482775,0.09046072627429867,Bucaramanga A.M.,2025
+11,Información y comunicaciones,91.145771916188,0.0111752615500075,Bucaramanga A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",80.57550495141625,0.010791020433701665,Bucaramanga A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",75.45569532397879,0.05355559767474583,Bucaramanga A.M.,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",74.62024545137227,0.0107907364831975,Bucaramanga A.M.,2025
+7,Industrias manufactureras,71.25348169916704,0.08015735787771584,Bucaramanga A.M.,2025
+8,Construcción,69.61060385657143,0.034610078250976506,Bucaramanga A.M.,2025
+4,Comercio y reparación de vehículos,67.44318479195668,0.12530614373186919,Bucaramanga A.M.,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.021039955817976,0.052378973184452,Bucaramanga A.M.,2025
+0,Transporte y almacenamiento,57.8666024115579,0.06022651083509167,Bucaramanga A.M.,2025
+3,Alojamiento y servicios de comida,56.975305937398026,0.04901881498296749,Bucaramanga A.M.,2025
+11,Actividades financieras y de seguros,91.03305657005362,0.023187148944426417,Cali A.M.,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",89.75823799717895,0.15413263709111583,Cali A.M.,2025
+10,Información y comunicaciones,89.4128499856723,0.023212028340216666,Cali A.M.,2025
+12,Actividades inmobiliarias,88.15102653292975,0.02293006072415417,Cali A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",83.73358826374545,0.017788583714814166,Cali A.M.,2025
+6,Industrias manufactureras,78.55717620757544,0.17032677135063418,Cali A.M.,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",74.68678150279891,0.007710765048639999,Cali A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.49496248051035,0.0965106255062411,Cali A.M.,2025
+4,Comercio y reparación de vehículos,68.35413683222777,0.2325302002076811,Cali A.M.,2025
+2,Construcción,64.50578664465242,0.07514318153413292,Cali A.M.,2025
+5,Transporte y almacenamiento,58.6560600826102,0.08197969788806815,Cali A.M.,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",55.75931209745624,0.11900739534227349,Cali A.M.,2025
+1,Alojamiento y servicios de comida,55.508334900857534,0.090592892704324,Cali A.M.,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",92.20881426803238,0.053846238888975835,Cartagena,2025
+10,Información y comunicaciones,90.13943984847486,0.004281546938314999,Cartagena,2025
+1,Actividades inmobiliarias,88.06979900971153,0.0077417278686783345,Cartagena,2025
+12,Actividades financieras y de seguros,86.16791132165473,0.0044810696757974985,Cartagena,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",81.45957700446405,0.009127260877079166,Cartagena,2025
+7,Industrias manufactureras,76.51218467123095,0.03382442929913833,Cartagena,2025
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",70.91543356149798,0.033755735270989164,Cartagena,2025
+2,Alojamiento y servicios de comida,65.46587183787908,0.049344974569541664,Cartagena,2025
+5,Construcción,63.28779618683269,0.035444954167635837,Cartagena,2025
+3,Comercio y reparación de vehículos,59.87970215552806,0.0779681836591425,Cartagena,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",59.87931898130897,0.0016040102166266666,Cartagena,2025
+4,Transporte y almacenamiento,58.747811246162776,0.058546571074566664,Cartagena,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",53.77991253519031,0.04880711337156501,Cartagena,2025
+9,"Administración pública y defensa, educación y atención de la salud humana",87.72017596125309,0.051572401801591665,Cúcuta A.M.,2025
+11,Información y comunicaciones,84.25445926417387,0.004862409975139999,Cúcuta A.M.,2025
+8,Actividades inmobiliarias,82.45538346621342,0.005089677461246667,Cúcuta A.M.,2025
+10,Actividades financieras y de seguros,80.1466137984282,0.0062292732727325,Cúcuta A.M.,2025
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",75.91054250226894,0.010985282626785832,Cúcuta A.M.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",60.12990451950244,0.005705573025843333,Cúcuta A.M.,2025
+1,Comercio y reparación de vehículos,57.82355990743218,0.1091678844202325,Cúcuta A.M.,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.191979889514954,0.033908875262948335,Cúcuta A.M.,2025
+7,Industrias manufactureras,51.1753336547622,0.06373880150977834,Cúcuta A.M.,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",50.50962416092727,0.03657326908992667,Cúcuta A.M.,2025
+0,Construcción,49.68536551202516,0.03289671364233916,Cúcuta A.M.,2025
+6,Transporte y almacenamiento,46.95896972346064,0.03561842741820584,Cúcuta A.M.,2025
+5,Alojamiento y servicios de comida,46.54906113153521,0.03557889496400917,Cúcuta A.M.,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",89.56412037169864,0.014858268325106666,Florencia,2025
+9,Actividades financieras y de seguros,88.36042743483733,0.0012789855197726668,Florencia,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",84.6408489983691,0.0010749020080338336,Florencia,2025
+12,Actividades inmobiliarias,81.29810019144817,0.000323915310584,Florencia,2025
+11,Información y comunicaciones,79.6722665900907,0.0007415077914411667,Florencia,2025
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",61.42009691731957,0.0058010413492468335,Florencia,2025
+1,Comercio y reparación de vehículos,59.720144336289074,0.015900156284090337,Florencia,2025
+8,Industrias manufactureras,53.86974103321099,0.0033845322620061668,Florencia,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.62482834264911,0.006373006255999167,Florencia,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",51.40049783611473,0.0013419180407033332,Florencia,2025
+2,Construcción,50.64617512386598,0.005130346229389666,Florencia,2025
+4,Transporte y almacenamiento,47.310557127086675,0.005981320379396667,Florencia,2025
+0,Alojamiento y servicios de comida,46.274122392672226,0.0055501546816007505,Florencia,2025
+11,Información y comunicaciones,94.61527766261686,0.002095318344753583,Ibagué,2025
+10,Actividades financieras y de seguros,94.40006337581187,0.002712177534717083,Ibagué,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",94.33272582469971,0.025061432602088166,Ibagué,2025
+12,Actividades inmobiliarias,92.0771245036423,0.0019116308310405835,Ibagué,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",87.5548930956457,0.005045859682528749,Ibagué,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",75.82262843797398,0.001893177994554,Ibagué,2025
+8,Industrias manufactureras,75.4007967127841,0.009668461554054666,Ibagué,2025
+2,Comercio y reparación de vehículos,72.3734439835772,0.028076182019296084,Ibagué,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.95067303840021,0.016912981243479498,Ibagué,2025
+3,Construcción,66.63032350206343,0.016481152553417748,Ibagué,2025
+0,Transporte y almacenamiento,65.8216315247909,0.010782635274344834,Ibagué,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",64.8547460249898,0.011221220158717165,Ibagué,2025
+4,Alojamiento y servicios de comida,58.30426767105293,0.012993671235436665,Ibagué,2025
+10,Actividades financieras y de seguros,100.0,3.584644222283333e-05,Inírida,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",98.14322261108515,0.002154026799252083,Inírida,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",84.84202632379616,0.00011618811770725003,Inírida,2025
+11,Actividades inmobiliarias,70.0,3.85584797325e-06,Inírida,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.12854388206742,0.00037070872959750007,Inírida,2025
+2,Construcción,60.931032484329215,0.0008386765798363332,Inírida,2025
+5,Comercio y reparación de vehículos,60.85139277834962,0.0018203510045153332,Inírida,2025
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",60.60434667019917,0.0002571288918143334,Inírida,2025
+6,Industrias manufactureras,59.06418076027591,0.00041922585301908333,Inírida,2025
+3,Alojamiento y servicios de comida,53.004482953632426,0.0005709672866255835,Inírida,2025
+0,Transporte y almacenamiento,47.79707395968816,0.0019681840975616666,Inírida,2025
+8,"Agricultura, ganadería, caza, silvicultura y pesca",39.362444772350855,0.0005048888987681667,Inírida,2025
+10,Actividades financieras y de seguros,95.86126171660437,0.00011568759890566666,Leticia,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",95.48466610742652,0.00453104474779,Leticia,2025
+9,Información y comunicaciones,91.98697386316171,4.868091343616666e-05,Leticia,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",85.10303990448868,0.00013632758283591665,Leticia,2025
+12,Actividades inmobiliarias,70.0,1.1590511040000001e-05,Leticia,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",69.2972104822791,0.0007202157682303335,Leticia,2025
+2,Comercio y reparación de vehículos,67.55501420881895,0.002906839988007917,Leticia,2025
+8,Industrias manufactureras,66.80351030926646,0.0003918672605229166,Leticia,2025
+6,Alojamiento y servicios de comida,59.699117183225084,0.00135169538302925,Leticia,2025
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",58.21662001281975,0.0016318362921653334,Leticia,2025
+4,Construcción,51.01753148303385,0.0009511943826503334,Leticia,2025
+0,Transporte y almacenamiento,48.48615567430002,0.0034634601633574996,Leticia,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",43.69843958577718,0.0003798345150960834,Leticia,2025
+11,Actividades financieras y de seguros,94.07664721812857,0.0051782661124645,Manizales A.M.,2025
+3,Información y comunicaciones,91.75824535291139,0.006601450579716416,Manizales A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",91.66342185931555,0.036036445647183994,Manizales A.M.,2025
+1,Industrias manufactureras,86.1906106888629,0.036503747133404,Manizales A.M.,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",86.16154895105193,0.005274816963569084,Manizales A.M.,2025
+10,Actividades inmobiliarias,86.01955393976016,0.0034810182398857495,Manizales A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",81.29126280155641,0.029616778832684505,Manizales A.M.,2025
+8,Construcción,71.53898316449747,0.016069236958751915,Manizales A.M.,2025
+7,Transporte y almacenamiento,68.29251076658707,0.017007884172018168,Manizales A.M.,2025
+4,Comercio y reparación de vehículos,67.52164748645077,0.04361655974549509,Manizales A.M.,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",65.68543994423159,0.00295853948810575,Manizales A.M.,2025
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",62.21228551476394,0.020689702799156585,Manizales A.M.,2025
+2,Alojamiento y servicios de comida,56.712730495712115,0.01874115077045308,Manizales A.M.,2025
+10,Actividades financieras y de seguros,92.69796753729509,0.05701849585208083,Medellín A.M.,2025
+7,Información y comunicaciones,91.64969474900737,0.05686684023510084,Medellín A.M.,2025
+2,"Administración pública y defensa, educación y atención de la salud humana",89.28077201618187,0.27210315518182504,Medellín A.M.,2025
+6,Actividades inmobiliarias,88.8674438401401,0.04064148026260083,Medellín A.M.,2025
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",80.56629038750472,0.22811007839126832,Medellín A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",80.30917171304637,0.03589947088860167,Medellín A.M.,2025
+0,Industrias manufactureras,79.91538604619588,0.37749214908922835,Medellín A.M.,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",72.15405227955009,0.012791813726901666,Medellín A.M.,2025
+1,Construcción,72.02041327486185,0.14606223901328835,Medellín A.M.,2025
+4,Comercio y reparación de vehículos,68.25823513724217,0.4082510018832733,Medellín A.M.,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",63.234513337617194,0.1826938604972,Medellín A.M.,2025
+5,Transporte y almacenamiento,62.528405793186835,0.189847383821075,Medellín A.M.,2025
+8,Alojamiento y servicios de comida,62.31120990152558,0.15835445189264583,Medellín A.M.,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",94.70816748532378,0.002094708282802133,Mitú,2025
+3,Actividades financieras y de seguros,84.20287222895854,5.964833533609167e-05,Mitú,2025
+11,Información y comunicaciones,84.18056337543972,8.649741831991667e-06,Mitú,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",76.05185824585531,0.00011188099674033334,Mitú,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",67.21804568960465,0.00012545831538014998,Mitú,2025
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",57.05688090277072,0.00052803719952295,Mitú,2025
+1,Comercio y reparación de vehículos,55.470129951272106,0.0006436229762221167,Mitú,2025
+7,Industrias manufactureras,55.161080750901824,0.000136930178590875,Mitú,2025
+10,Construcción,52.997966471716765,0.0004091563214134667,Mitú,2025
+6,"Agricultura, ganadería, caza, silvicultura y pesca",50.15863691783581,6.928248352658333e-05,Mitú,2025
+5,Transporte y almacenamiento,50.050199181323606,0.0006124502927176668,Mitú,2025
+12,Actividades inmobiliarias,50.0,3.3651135295833334e-06,Mitú,2025
+2,Alojamiento y servicios de comida,48.98792926251736,0.0005185757447916249,Mitú,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",96.75540281641015,0.005753746291358667,Mocoa,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",95.04796176045767,0.00024025963423866665,Mocoa,2025
+3,Actividades financieras y de seguros,90.23170130704428,0.00032318252472433336,Mocoa,2025
+12,Actividades inmobiliarias,84.50043851695376,5.3350792861e-05,Mocoa,2025
+5,Transporte y almacenamiento,77.31913197242059,0.0007088121620401667,Mocoa,2025
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",66.50037162155665,0.0008602093783945,Mocoa,2025
+4,Construcción,66.20371503834114,0.0031092082784479167,Mocoa,2025
+11,Información y comunicaciones,64.28937342063125,0.00013055955704541666,Mocoa,2025
+1,Industrias manufactureras,59.78222322527703,0.0004114560512776666,Mocoa,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.38075517180176,0.00186441480634725,Mocoa,2025
+8,Comercio y reparación de vehículos,57.29002309543081,0.0023048644536131668,Mocoa,2025
+2,Alojamiento y servicios de comida,52.209572257655346,0.0011114601427100002,Mocoa,2025
+9,"Agricultura, ganadería, caza, silvicultura y pesca",44.61292876876637,0.0002947162470236667,Mocoa,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",91.93169285547036,0.03409455889862609,Montería,2025
+10,Información y comunicaciones,85.19772180602475,0.002183594923293167,Montería,2025
+2,Actividades inmobiliarias,84.3712680609646,0.0013975361517450833,Montería,2025
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",78.38661689524201,0.0034095771297683332,Montería,2025
+12,Actividades financieras y de seguros,78.26376447645951,0.003769025505659333,Montería,2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",70.61145001203087,0.01253474924033575,Montería,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",67.1061310685474,0.002025405234204917,Montería,2025
+1,Industrias manufactureras,63.94126411740538,0.01233201676517225,Montería,2025
+6,Comercio y reparación de vehículos,63.2992906082262,0.040374009558053,Montería,2025
+5,Construcción,56.51745934564721,0.010774672383178582,Montería,2025
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.944096349102566,0.021626699324845663,Montería,2025
+4,Alojamiento y servicios de comida,49.917249549324524,0.01569714167676525,Montería,2025
+3,Transporte y almacenamiento,46.55119171036263,0.01891456962142725,Montería,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",86.82559020183722,0.030386790966960415,Pasto,2025
+8,Actividades financieras y de seguros,83.0665176125218,0.0029956379235695,Pasto,2025
+11,Información y comunicaciones,80.9105851886066,0.0022020032376486665,Pasto,2025
+12,Actividades inmobiliarias,72.19244491587973,0.00190853473867275,Pasto,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",68.74350486583394,0.003380863497712167,Pasto,2025
+9,Construcción,58.849311708674335,0.007293205624608499,Pasto,2025
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.672774018708736,0.014601342416618333,Pasto,2025
+4,Comercio y reparación de vehículos,57.009376477873545,0.03915175006124649,Pasto,2025
+7,Industrias manufactureras,54.38045189788633,0.01170192116815575,Pasto,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",51.98530950786796,0.00203633843328975,Pasto,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",50.02846536284523,0.01596371740609317,Pasto,2025
+2,Alojamiento y servicios de comida,49.82322434422023,0.013344746591514833,Pasto,2025
+1,Transporte y almacenamiento,45.87549284024845,0.01674331188296667,Pasto,2025
+0,Actividades financieras y de seguros,93.67753328766179,0.005636018201975917,Pereira A.M.,2025
+10,Información y comunicaciones,89.71805682360049,0.00529904986649825,Pereira A.M.,2025
+3,"Administración pública y defensa, educación y atención de la salud humana",89.49649911247393,0.04193952505215717,Pereira A.M.,2025
+9,Actividades inmobiliarias,81.5559298175853,0.006266815001593667,Pereira A.M.,2025
+4,Industrias manufactureras,79.08080795577914,0.043879694246203915,Pereira A.M.,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",76.13287928457348,0.004336361666225583,Pereira A.M.,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.49113920203216,0.03087697317451658,Pereira A.M.,2025
+8,Construcción,72.29398687460198,0.0276177673200445,Pereira A.M.,2025
+5,"Agricultura, ganadería, caza, silvicultura y pesca",72.11300359380269,0.005145134778201584,Pereira A.M.,2025
+2,Comercio y reparación de vehículos,68.02519518022332,0.0682354390530726,Pereira A.M.,2025
+1,Transporte y almacenamiento,64.73457128612733,0.021239730009875668,Pereira A.M.,2025
+7,Alojamiento y servicios de comida,59.09912306479691,0.026268544605233504,Pereira A.M.,2025
+11,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.70023640748233,0.028780521922910834,Pereira A.M.,2025
+1,Actividades financieras y de seguros,92.1808040057128,0.002323448285223167,Popayán,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",88.71388989571794,0.026149757681194333,Popayán,2025
+2,Información y comunicaciones,88.5361967342493,0.002451045370318,Popayán,2025
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",72.83319414283699,0.0016123069262320834,Popayán,2025
+12,Actividades inmobiliarias,71.92602884148226,0.0013147464178761667,Popayán,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",62.89502710366928,0.010040567717026916,Popayán,2025
+3,Comercio y reparación de vehículos,57.864263615814096,0.02661828216409975,Popayán,2025
+6,Industrias manufactureras,54.93573366791353,0.007590533800439667,Popayán,2025
+8,Construcción,54.89291157490409,0.008136429074948666,Popayán,2025
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",54.38647409096949,0.011289003886474667,Popayán,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",50.34561418600448,0.00225222178434725,Popayán,2025
+7,Transporte y almacenamiento,48.433183103382525,0.011359264100893085,Popayán,2025
+10,Alojamiento y servicios de comida,47.509590241447306,0.011974909733645416,Popayán,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",94.39640092412868,0.0024548451524504166,Puerto Carreño,2025
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",93.23110732444263,0.0001271097085085,Puerto Carreño,2025
+6,Actividades financieras y de seguros,92.36334494927945,9.080679699074999e-05,Puerto Carreño,2025
+11,Información y comunicaciones,89.9134502912488,1.2014045926166667e-05,Puerto Carreño,2025
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",56.50725302512022,0.0003711104996844999,Puerto Carreño,2025
+2,Construcción,53.910706996918854,0.0006579916969253333,Puerto Carreño,2025
+8,"Agricultura, ganadería, caza, silvicultura y pesca",51.965878480863026,0.0003253193700340833,Puerto Carreño,2025
+12,Actividades inmobiliarias,50.0,3.2228981117500004e-06,Puerto Carreño,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",49.98628220676379,0.0005308498877167501,Puerto Carreño,2025
+0,Comercio y reparación de vehículos,47.57481646889924,0.0012980964367362501,Puerto Carreño,2025
+9,Industrias manufactureras,45.126241908787655,0.00041589204268316663,Puerto Carreño,2025
+7,Transporte y almacenamiento,44.711587447959204,0.0006508885671554999,Puerto Carreño,2025
+3,Alojamiento y servicios de comida,38.59177729317904,0.0007770725575205834,Puerto Carreño,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",93.12778854125078,0.008151396117567166,Quibdó,2025
+5,Información y comunicaciones,84.01679091084333,0.00027734713236341667,Quibdó,2025
+12,Actividades financieras y de seguros,82.92434611157748,0.0003897210722820833,Quibdó,2025
+11,Actividades inmobiliarias,78.70558769958352,2.8252012782416666e-05,Quibdó,2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.40625212865768,0.0013957118750113334,Quibdó,2025
+2,Comercio y reparación de vehículos,60.7225401578618,0.006363941972597333,Quibdó,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",55.74572170572256,0.004734546547193333,Quibdó,2025
+7,Industrias manufactureras,55.68031670440978,0.0013398980642876667,Quibdó,2025
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",54.441176079520936,0.0021833585051476666,Quibdó,2025
+9,Construcción,53.07041980302365,0.0028573016474688333,Quibdó,2025
+6,Alojamiento y servicios de comida,52.21758585929018,0.0023050710099000835,Quibdó,2025
+1,Transporte y almacenamiento,48.750619038993015,0.0033351888282176665,Quibdó,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",44.80579574464211,0.0003576178541737499,Quibdó,2025
+4,"Administración pública y defensa, educación y atención de la salud humana",91.37347770202705,0.011459668220254418,Riohacha,2025
+10,Información y comunicaciones,86.6412522761935,0.0005913539960874166,Riohacha,2025
+9,Actividades financieras y de seguros,84.21218792062122,0.0009691073032341667,Riohacha,2025
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",79.96080778364409,0.002297053003371333,Riohacha,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.9263213398086,0.003550740586711167,Riohacha,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",56.4590744769845,0.007361856325466499,Riohacha,2025
+12,Actividades inmobiliarias,54.83038681478416,0.0001116588952095,Riohacha,2025
+6,Construcción,54.183277374235075,0.004892546088564584,Riohacha,2025
+1,Comercio y reparación de vehículos,53.57452309940239,0.010402600117707167,Riohacha,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",52.827917063051835,0.0007302910422805834,Riohacha,2025
+5,Industrias manufactureras,51.999988223389124,0.00495330627700275,Riohacha,2025
+7,Alojamiento y servicios de comida,51.03649102681819,0.005282018954912084,Riohacha,2025
+0,Transporte y almacenamiento,45.812820581058325,0.008204910703542333,Riohacha,2025
+1,Información y comunicaciones,97.45174221182292,0.00028302031768883334,San Andrés,2025
+10,Actividades financieras y de seguros,97.40922064235049,0.00029214983746983335,San Andrés,2025
+6,"Administración pública y defensa, educación y atención de la salud humana",95.94981576770198,0.0035886833891751665,San Andrés,2025
+2,"Suministro de electricidad, gas, agua y gestión de desechos^",95.73684752692954,0.00045094174443616663,San Andrés,2025
+11,Actividades inmobiliarias,88.43665893685085,0.0001395373608445,San Andrés,2025
+3,Alojamiento y servicios de comida,85.80470323599816,0.00515188933196025,San Andrés,2025
+9,Comercio y reparación de vehículos,85.30896294768924,0.004358613889924667,San Andrés,2025
+8,Industrias manufactureras,82.51589192903326,0.0007957603277863333,San Andrés,2025
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",76.5052199761525,0.0014148441749481668,San Andrés,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",73.11950315449093,0.0015935401293113332,San Andrés,2025
+7,Construcción,72.42908701347632,0.00103681786575025,San Andrés,2025
+4,Transporte y almacenamiento,67.56072662088567,0.0017587148961790001,San Andrés,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",57.684714203552915,0.00011833821715391667,San Andrés,2025
+9,Actividades financieras y de seguros,92.56818919840151,0.00013937640464999998,San José del Guaviare,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",87.83270340580785,0.005257732597869166,San José del Guaviare,2025
+11,Información y comunicaciones,84.64840491878613,0.00019594448697816665,San José del Guaviare,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",77.50411646521815,0.00057699030340975,San José del Guaviare,2025
+12,Actividades inmobiliarias,72.9450011807461,2.40900047275e-05,San José del Guaviare,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",60.03510038240609,0.0012242767530254168,San José del Guaviare,2025
+6,Construcción,57.358585245512664,0.0021922560279684167,San José del Guaviare,2025
+8,Transporte y almacenamiento,54.080968878911264,0.001525723269532,San José del Guaviare,2025
+3,Comercio y reparación de vehículos,53.20735368357349,0.004989963984313666,San José del Guaviare,2025
+2,Industrias manufactureras,51.68834531334109,0.0013082749308548336,San José del Guaviare,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.15980340126447,0.002371033111785583,San José del Guaviare,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",48.27269298855706,0.0012768981535950833,San José del Guaviare,2025
+1,Alojamiento y servicios de comida,44.387973648775095,0.0027184508832975834,San José del Guaviare,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",91.93280381690961,0.030441491091336998,Santa Marta,2025
+8,Información y comunicaciones,90.03621538373253,0.0023160670574966665,Santa Marta,2025
+10,Actividades financieras y de seguros,88.73654978463792,0.0032599746316402498,Santa Marta,2025
+9,Actividades inmobiliarias,85.99484981513831,0.003548008924083333,Santa Marta,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",83.81152188056477,0.0044521898078897495,Santa Marta,2025
+6,Industrias manufactureras,68.21672864598983,0.01194066509157325,Santa Marta,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",68.13944678228891,0.020169410548792416,Santa Marta,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",66.40404461642403,0.003000841855913917,Santa Marta,2025
+2,Alojamiento y servicios de comida,64.57712483817073,0.02463754365504325,Santa Marta,2025
+5,Comercio y reparación de vehículos,64.38633629614102,0.0415868670335455,Santa Marta,2025
+3,Transporte y almacenamiento,56.988877235661974,0.026328270535067002,Santa Marta,2025
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",56.67407305704244,0.020004754390596253,Santa Marta,2025
+7,Construcción,55.58927241340097,0.019419795597362163,Santa Marta,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",88.81321642927857,0.019250958669547586,Sincelejo,2025
+12,Información y comunicaciones,84.35389043889681,0.001022945666977,Sincelejo,2025
+9,Actividades financieras y de seguros,76.86428181369403,0.0020650991756995833,Sincelejo,2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",76.20652870770574,0.0017771188486303334,Sincelejo,2025
+11,Actividades inmobiliarias,75.10967275799543,0.00059958545018225,Sincelejo,2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.17990794330709,0.006590317912903,Sincelejo,2025
+2,Comercio y reparación de vehículos,56.93912939554178,0.02642630207832317,Sincelejo,2025
+5,Industrias manufactureras,53.17045633114991,0.008316844221301,Sincelejo,2025
+6,Construcción,52.25044483078176,0.008048276272952168,Sincelejo,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",47.91995909344002,0.013426177706306917,Sincelejo,2025
+7,"Agricultura, ganadería, caza, silvicultura y pesca",47.863514088033185,0.0014836292412801668,Sincelejo,2025
+0,Alojamiento y servicios de comida,44.57894301737218,0.01064359485186975,Sincelejo,2025
+4,Transporte y almacenamiento,41.99818892720264,0.015591979970016,Sincelejo,2025
+11,Actividades financieras y de seguros,90.96264868940364,0.43621274085501177,Todas (Panorama Nacional),2025
+12,Información y comunicaciones,90.19650603209342,0.40619864477972,Todas (Panorama Nacional),2025
+6,"Administración pública y defensa, educación y atención de la salud humana",89.77824892933637,2.883498646965862,Todas (Panorama Nacional),2025
+3,Actividades inmobiliarias,87.05477430575603,0.3219598148515138,Todas (Panorama Nacional),2025
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",73.16444367358376,1.8118460083671133,Todas (Panorama Nacional),2025
+4,Industrias manufactureras,71.59546877713255,2.60932404385044,Todas (Panorama Nacional),2025
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",71.02518590727591,0.6167356829725418,Todas (Panorama Nacional),2025
+7,Construcción,62.532553461951665,1.6046069266152119,Todas (Panorama Nacional),2025
+2,Comercio y reparación de vehículos,60.554529999207205,4.10440310854699,Todas (Panorama Nacional),2025
+5,Transporte y almacenamiento,57.91028504150816,1.8197436759704233,Todas (Panorama Nacional),2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",55.85014721947425,1.9915203355676798,Todas (Panorama Nacional),2025
+9,Alojamiento y servicios de comida,52.27538305759306,1.834416960437299,Todas (Panorama Nacional),2025
+1,"Agricultura, ganadería, caza, silvicultura y pesca",51.57862200814273,3.3861031391773357,Todas (Panorama Nacional),2025
+10,Información y comunicaciones,95.9984235396328,0.0016258409119110002,Tunja,2025
+9,Actividades financieras y de seguros,95.19271984233005,0.00192781257167225,Tunja,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",94.91624019117789,0.021151622768600834,Tunja,2025
+11,Actividades inmobiliarias,87.71066661358516,0.00126486172620125,Tunja,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",79.63501799089053,0.0015629859408899168,Tunja,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",72.90278344179103,0.007131423281389333,Tunja,2025
+7,Construcción,69.63895327742003,0.0061709359501290004,Tunja,2025
+0,Comercio y reparación de vehículos,69.45519311366041,0.016893599406089414,Tunja,2025
+12,Industrias manufactureras,68.50642524417687,0.004140061589218083,Tunja,2025
+2,Transporte y almacenamiento,66.29981949858814,0.005324399116720833,Tunja,2025
+1,"Agricultura, ganadería, caza, silvicultura y pesca",61.56875512103317,0.0012045817991816665,Tunja,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",60.87175717414781,0.005057115682161833,Tunja,2025
+3,Alojamiento y servicios de comida,56.4876195886415,0.005857313240968333,Tunja,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",91.39814419096815,0.0336116648676655,Valledupar,2025
+10,Información y comunicaciones,80.69001920872336,0.002560808824759833,Valledupar,2025
+9,Actividades inmobiliarias,78.13322059614126,0.0014089060915625001,Valledupar,2025
+11,Actividades financieras y de seguros,75.31860441841316,0.0037326163038836667,Valledupar,2025
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",73.40087557451861,0.003810948359495,Valledupar,2025
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",64.75652670248296,0.013113202166404084,Valledupar,2025
+4,Industrias manufactureras,61.78698446300651,0.014691049306197582,Valledupar,2025
+12,"Agricultura, ganadería, caza, silvicultura y pesca",59.9523360466832,0.0019554979417674167,Valledupar,2025
+7,Construcción,59.37595457417484,0.016571877053414084,Valledupar,2025
+2,Comercio y reparación de vehículos,59.30747353213231,0.047700874601516584,Valledupar,2025
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",52.540224795276835,0.02492716511719525,Valledupar,2025
+1,Alojamiento y servicios de comida,51.49019888589049,0.01578077607929325,Valledupar,2025
+5,Transporte y almacenamiento,48.4880696667745,0.019323749846698084,Valledupar,2025
+4,Actividades financieras y de seguros,89.58531797343835,0.003366837903935,Villavicencio,2025
+0,"Administración pública y defensa, educación y atención de la salud humana",87.45773964689894,0.03579003254825575,Villavicencio,2025
+1,Información y comunicaciones,85.58731209623706,0.0038754390680805,Villavicencio,2025
+8,Actividades inmobiliarias,81.96054807891497,0.004717429178914166,Villavicencio,2025
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",76.60997055463663,0.0061568072655856666,Villavicencio,2025
+11,"Agricultura, ganadería, caza, silvicultura y pesca",65.31574878286234,0.0037538782388858334,Villavicencio,2025
+7,Industrias manufactureras,63.81539067101857,0.01894217075712617,Villavicencio,2025
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",63.08586820110463,0.01953107761573,Villavicencio,2025
+3,Comercio y reparación de vehículos,60.94281185559607,0.06372851828233625,Villavicencio,2025
+6,Transporte y almacenamiento,55.14704175025331,0.020017496483455,Villavicencio,2025
+10,Construcción,54.61247096043633,0.023176459396226666,Villavicencio,2025
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",53.828710348895015,0.023171572135212752,Villavicencio,2025
+5,Alojamiento y servicios de comida,48.68662602734252,0.02707574910053425,Villavicencio,2025
+8,"Administración pública y defensa, educación y atención de la salud humana",93.75930301802953,0.014188368124843335,Yopal,2025
+12,Información y comunicaciones,91.12402851770518,0.0008731406511075001,Yopal,2025
+9,Actividades financieras y de seguros,90.91877224689838,0.0013455171676458335,Yopal,2025
+0,Actividades inmobiliarias,88.95385758607279,0.0008996276984733334,Yopal,2025
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",86.43015808899928,0.002523988064401667,Yopal,2025
+10,"Agricultura, ganadería, caza, silvicultura y pesca",67.50828887271715,0.002717237175445833,Yopal,2025
+7,Industrias manufactureras,67.38010148232907,0.006304562908580833,Yopal,2025
+6,Transporte y almacenamiento,66.42712164827293,0.005940688032494167,Yopal,2025
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",65.748365566767,0.0074765220853124995,Yopal,2025
+3,Comercio y reparación de vehículos,62.27711577507089,0.017805582279309166,Yopal,2025
+5,Construcción,61.030096186887576,0.0072593640934016665,Yopal,2025
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",55.89090471536829,0.005899538807088334,Yopal,2025
+1,Alojamiento y servicios de comida,52.736509301643366,0.008335522670063334,Yopal,2025
