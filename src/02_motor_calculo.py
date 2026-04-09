@@ -345,8 +345,7 @@ def generar_datos_dashboard(ruta_data="GEIH", ruta_output="output"):
         all_salarios.append(df_salarios)
         
         # Generar estadisticas avanzadas (Gini, Jovenes, Costos, Formalidad, Brecha Genero)
-        if anio == 2025:
-            calcular_estadisticas_ciudades_avanzadas(df, anio, config, ruta_output)
+        calcular_estadisticas_ciudades_avanzadas(df, anio, config, ruta_output)
 
     print("\n[*] Exportando DataFrames Consolidados...")
     df_all_kpis_raw = pd.concat(all_kpis, ignore_index=True)

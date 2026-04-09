@@ -1,0 +1,322 @@
+[
+    {
+        "Año":2024,
+        "Ciudad":"Arauca",
+        "Gini":0.3805,
+        "Joven_TD_joven_%":42.7,
+        "Joven_Ocupados_joven_M":0.01,
+        "Joven_PEA_joven_M":0.01,
+        "CV_TD_joven_%":7.1,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Armenia",
+        "Gini":0.4147,
+        "Joven_TD_joven_%":17.8,
+        "Joven_Ocupados_joven_M":0.03,
+        "Joven_PEA_joven_M":0.03,
+        "CV_TD_joven_%":7.0,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Barranquilla A.M.",
+        "Gini":0.4618,
+        "Joven_TD_joven_%":22.2,
+        "Joven_Ocupados_joven_M":0.18,
+        "Joven_PEA_joven_M":0.23,
+        "CV_TD_joven_%":5.3,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Bogotá D.C.",
+        "Gini":0.503,
+        "Joven_TD_joven_%":17.4,
+        "Joven_Ocupados_joven_M":0.88,
+        "Joven_PEA_joven_M":1.06,
+        "CV_TD_joven_%":5.7,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Bucaramanga A.M.",
+        "Gini":0.4055,
+        "Joven_TD_joven_%":15.0,
+        "Joven_Ocupados_joven_M":0.13,
+        "Joven_PEA_joven_M":0.15,
+        "CV_TD_joven_%":6.8,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Cali A.M.",
+        "Gini":0.4387,
+        "Joven_TD_joven_%":18.1,
+        "Joven_Ocupados_joven_M":0.24,
+        "Joven_PEA_joven_M":0.29,
+        "CV_TD_joven_%":5.7,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Cartagena",
+        "Gini":0.4424,
+        "Joven_TD_joven_%":23.7,
+        "Joven_Ocupados_joven_M":0.07,
+        "Joven_PEA_joven_M":0.1,
+        "CV_TD_joven_%":5.3,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Cúcuta A.M.",
+        "Gini":0.4129,
+        "Joven_TD_joven_%":20.9,
+        "Joven_Ocupados_joven_M":0.09,
+        "Joven_PEA_joven_M":0.12,
+        "CV_TD_joven_%":5.6,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Florencia",
+        "Gini":0.4497,
+        "Joven_TD_joven_%":22.1,
+        "Joven_Ocupados_joven_M":0.02,
+        "Joven_PEA_joven_M":0.02,
+        "CV_TD_joven_%":6.0,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Ibagué",
+        "Gini":0.4063,
+        "Joven_TD_joven_%":16.0,
+        "Joven_Ocupados_joven_M":0.03,
+        "Joven_PEA_joven_M":0.03,
+        "CV_TD_joven_%":7.9,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Inírida",
+        "Gini":0.3717,
+        "Joven_TD_joven_%":15.0,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":18.8,
+        "Precisión_DANE":"⚠️⚠️ Precisión baja"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Leticia",
+        "Gini":0.351,
+        "Joven_TD_joven_%":8.8,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":25.8,
+        "Precisión_DANE":"❌ No confiable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Manizales A.M.",
+        "Gini":0.4259,
+        "Joven_TD_joven_%":17.1,
+        "Joven_Ocupados_joven_M":0.04,
+        "Joven_PEA_joven_M":0.05,
+        "CV_TD_joven_%":6.2,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Medellín A.M.",
+        "Gini":0.4696,
+        "Joven_TD_joven_%":15.7,
+        "Joven_Ocupados_joven_M":0.46,
+        "Joven_PEA_joven_M":0.55,
+        "CV_TD_joven_%":5.6,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Mitú",
+        "Gini":0.4193,
+        "Joven_TD_joven_%":10.7,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":19.7,
+        "Precisión_DANE":"⚠️⚠️ Precisión baja"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Mocoa",
+        "Gini":0.3866,
+        "Joven_TD_joven_%":36.3,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":10.5,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Montería",
+        "Gini":0.4852,
+        "Joven_TD_joven_%":21.4,
+        "Joven_Ocupados_joven_M":0.04,
+        "Joven_PEA_joven_M":0.05,
+        "CV_TD_joven_%":6.4,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Pasto",
+        "Gini":0.5093,
+        "Joven_TD_joven_%":20.3,
+        "Joven_Ocupados_joven_M":0.03,
+        "Joven_PEA_joven_M":0.03,
+        "CV_TD_joven_%":6.1,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Pereira A.M.",
+        "Gini":0.3813,
+        "Joven_TD_joven_%":17.6,
+        "Joven_Ocupados_joven_M":0.06,
+        "Joven_PEA_joven_M":0.07,
+        "CV_TD_joven_%":6.0,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Popayán",
+        "Gini":0.4831,
+        "Joven_TD_joven_%":21.3,
+        "Joven_Ocupados_joven_M":0.02,
+        "Joven_PEA_joven_M":0.03,
+        "CV_TD_joven_%":6.4,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Puerto Carreño",
+        "Gini":0.4286,
+        "Joven_TD_joven_%":22.0,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":13.6,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Quibdó",
+        "Gini":0.4365,
+        "Joven_TD_joven_%":37.9,
+        "Joven_Ocupados_joven_M":0.01,
+        "Joven_PEA_joven_M":0.01,
+        "CV_TD_joven_%":4.3,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Riohacha",
+        "Gini":0.4797,
+        "Joven_TD_joven_%":25.7,
+        "Joven_Ocupados_joven_M":0.01,
+        "Joven_PEA_joven_M":0.02,
+        "CV_TD_joven_%":6.0,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"San Andrés",
+        "Gini":0.2754,
+        "Joven_TD_joven_%":21.3,
+        "Joven_Ocupados_joven_M":0.0,
+        "Joven_PEA_joven_M":0.0,
+        "CV_TD_joven_%":10.8,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"San José del Guaviare",
+        "Gini":0.4819,
+        "Joven_TD_joven_%":16.5,
+        "Joven_Ocupados_joven_M":0.01,
+        "Joven_PEA_joven_M":0.01,
+        "CV_TD_joven_%":12.9,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Santa Marta",
+        "Gini":0.3819,
+        "Joven_TD_joven_%":18.9,
+        "Joven_Ocupados_joven_M":0.04,
+        "Joven_PEA_joven_M":0.05,
+        "CV_TD_joven_%":6.9,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Sincelejo",
+        "Gini":0.4976,
+        "Joven_TD_joven_%":23.6,
+        "Joven_Ocupados_joven_M":0.02,
+        "Joven_PEA_joven_M":0.03,
+        "CV_TD_joven_%":6.3,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Todas (Panorama Nacional)",
+        "Gini":0.4859,
+        "Joven_TD_joven_%":17.4,
+        "Joven_Ocupados_joven_M":5.06,
+        "Joven_PEA_joven_M":6.13,
+        "CV_TD_joven_%":1.1,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Tunja",
+        "Gini":0.4475,
+        "Joven_TD_joven_%":17.6,
+        "Joven_Ocupados_joven_M":0.01,
+        "Joven_PEA_joven_M":0.02,
+        "CV_TD_joven_%":7.4,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Valledupar",
+        "Gini":0.4146,
+        "Joven_TD_joven_%":21.6,
+        "Joven_Ocupados_joven_M":0.04,
+        "Joven_PEA_joven_M":0.05,
+        "CV_TD_joven_%":6.9,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Villavicencio",
+        "Gini":0.4703,
+        "Joven_TD_joven_%":14.6,
+        "Joven_Ocupados_joven_M":0.06,
+        "Joven_PEA_joven_M":0.06,
+        "CV_TD_joven_%":7.2,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    },
+    {
+        "Año":2024,
+        "Ciudad":"Yopal",
+        "Gini":0.4038,
+        "Joven_TD_joven_%":13.8,
+        "Joven_Ocupados_joven_M":0.02,
+        "Joven_PEA_joven_M":0.02,
+        "CV_TD_joven_%":14.2,
+        "Precisión_DANE":"⚠️  Precisión aceptable"
+    }
+]

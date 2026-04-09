@@ -1,0 +1,412 @@
+index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,Ciudad,Año
+5,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.38,2.13,Arauca,2024
+11,Actividades financieras y de seguros,1500000,2310000,1.15,1.78,Arauca,2024
+3,Información y comunicaciones,1300000,2002000,1.0,1.54,Arauca,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Arauca,2024
+0,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,Arauca,2024
+2,Construcción,900000,1386000,0.69,1.07,Arauca,2024
+4,Comercio y reparación de vehículos,900000,1386000,0.69,1.07,Arauca,2024
+1,Transporte y almacenamiento,800000,1232000,0.62,0.95,Arauca,2024
+10,"Agricultura, ganadería, caza, silvicultura y pesca",750000,1155000,0.58,0.89,Arauca,2024
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",750000,1155000,0.58,0.89,Arauca,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",650000,1001000,0.5,0.77,Arauca,2024
+9,Industrias manufactureras,600000,924000,0.46,0.71,Arauca,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",2450000,3773000,1.88,2.9,Armenia,2024
+11,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Armenia,2024
+0,Información y comunicaciones,1800000,2772000,1.38,2.13,Armenia,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.15,1.78,Armenia,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Armenia,2024
+10,Industrias manufactureras,1300000,2002000,1.0,1.54,Armenia,2024
+2,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Armenia,2024
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Armenia,2024
+7,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Armenia,2024
+12,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Armenia,2024
+9,Construcción,1300000,2002000,1.0,1.54,Armenia,2024
+4,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,0.89,1.37,Armenia,2024
+5,Alojamiento y servicios de comida,1000000,1540000,0.77,1.18,Armenia,2024
+1,Información y comunicaciones,2200000,3388000,1.69,2.61,Barranquilla A.M.,2024
+0,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.54,2.37,Barranquilla A.M.,2024
+7,Actividades financieras y de seguros,1600000,2464000,1.23,1.9,Barranquilla A.M.,2024
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1460000,2248400,1.12,1.73,Barranquilla A.M.,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,1.08,1.66,Barranquilla A.M.,2024
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Barranquilla A.M.,2024
+10,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Barranquilla A.M.,2024
+3,Industrias manufactureras,1300000,2002000,1.0,1.54,Barranquilla A.M.,2024
+5,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Barranquilla A.M.,2024
+9,Construcción,1200000,1848000,0.92,1.42,Barranquilla A.M.,2024
+4,Comercio y reparación de vehículos,1200000,1848000,0.92,1.42,Barranquilla A.M.,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.69,1.07,Barranquilla A.M.,2024
+6,Alojamiento y servicios de comida,800000,1232000,0.62,0.95,Barranquilla A.M.,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",3000000,4620000,2.31,3.55,Bogotá D.C.,2024
+9,Actividades financieras y de seguros,3000000,4620000,2.31,3.55,Bogotá D.C.,2024
+12,Información y comunicaciones,3000000,4620000,2.31,3.55,Bogotá D.C.,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1700000,2618000,1.31,2.01,Bogotá D.C.,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1600000,2464000,1.23,1.9,Bogotá D.C.,2024
+10,Actividades inmobiliarias,1520000,2340800,1.17,1.8,Bogotá D.C.,2024
+4,Transporte y almacenamiento,1500000,2310000,1.15,1.78,Bogotá D.C.,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1462000,2251480,1.12,1.73,Bogotá D.C.,2024
+3,Construcción,1450000,2233000,1.12,1.72,Bogotá D.C.,2024
+8,Comercio y reparación de vehículos,1400000,2156000,1.08,1.66,Bogotá D.C.,2024
+2,Industrias manufactureras,1400000,2156000,1.08,1.66,Bogotá D.C.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Bogotá D.C.,2024
+5,Alojamiento y servicios de comida,1300000,2002000,1.0,1.54,Bogotá D.C.,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2225000,3426500,1.71,2.64,Bucaramanga A.M.,2024
+12,Actividades financieras y de seguros,2200000,3388000,1.69,2.61,Bucaramanga A.M.,2024
+8,Información y comunicaciones,1800000,2772000,1.38,2.13,Bucaramanga A.M.,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.38,2.13,Bucaramanga A.M.,2024
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1400000,2156000,1.08,1.66,Bucaramanga A.M.,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+3,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+0,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+6,Alojamiento y servicios de comida,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+5,Industrias manufactureras,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+9,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+11,Construcción,1300000,2002000,1.0,1.54,Bucaramanga A.M.,2024
+10,Actividades financieras y de seguros,2270000,3495800,1.75,2.69,Cali A.M.,2024
+8,Información y comunicaciones,2000000,3080000,1.54,2.37,Cali A.M.,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.54,2.37,Cali A.M.,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1462000,2251480,1.12,1.73,Cali A.M.,2024
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,1.08,1.66,Cali A.M.,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Cali A.M.,2024
+6,Industrias manufactureras,1300000,2002000,1.0,1.54,Cali A.M.,2024
+3,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Cali A.M.,2024
+5,Construcción,1300000,2002000,1.0,1.54,Cali A.M.,2024
+9,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Cali A.M.,2024
+11,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Cali A.M.,2024
+2,Alojamiento y servicios de comida,1200000,1848000,0.92,1.42,Cali A.M.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1100000,1694000,0.85,1.3,Cali A.M.,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.54,2.37,Cartagena,2024
+11,Información y comunicaciones,1750000,2695000,1.35,2.07,Cartagena,2024
+9,Actividades financieras y de seguros,1600000,2464000,1.23,1.9,Cartagena,2024
+1,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Cartagena,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Cartagena,2024
+10,Industrias manufactureras,1300000,2002000,1.0,1.54,Cartagena,2024
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Cartagena,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Cartagena,2024
+5,Transporte y almacenamiento,1200000,1848000,0.92,1.42,Cartagena,2024
+4,Alojamiento y servicios de comida,1160000,1786400,0.89,1.37,Cartagena,2024
+7,Comercio y reparación de vehículos,1160000,1786400,0.89,1.37,Cartagena,2024
+0,Construcción,1000000,1540000,0.77,1.18,Cartagena,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.62,0.95,Cartagena,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2312000,3560480,1.78,2.74,Cúcuta A.M.,2024
+8,Actividades financieras y de seguros,1800000,2772000,1.38,2.13,Cúcuta A.M.,2024
+11,Información y comunicaciones,1500000,2310000,1.15,1.78,Cúcuta A.M.,2024
+5,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Cúcuta A.M.,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Cúcuta A.M.,2024
+9,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Cúcuta A.M.,2024
+7,Industrias manufactureras,1200000,1848000,0.92,1.42,Cúcuta A.M.,2024
+0,Construcción,1200000,1848000,0.92,1.42,Cúcuta A.M.,2024
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1100000,1694000,0.85,1.3,Cúcuta A.M.,2024
+1,Transporte y almacenamiento,1050000,1617000,0.81,1.24,Cúcuta A.M.,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1040000,1601600,0.8,1.23,Cúcuta A.M.,2024
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.77,1.18,Cúcuta A.M.,2024
+4,Alojamiento y servicios de comida,940000,1447600,0.72,1.11,Cúcuta A.M.,2024
+7,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,2.15,3.32,Florencia,2024
+11,Actividades financieras y de seguros,1800000,2772000,1.38,2.13,Florencia,2024
+1,Información y comunicaciones,1600000,2464000,1.23,1.9,Florencia,2024
+12,Actividades inmobiliarias,1500000,2310000,1.15,1.78,Florencia,2024
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",1460000,2248400,1.12,1.73,Florencia,2024
+2,Industrias manufactureras,1300000,2002000,1.0,1.54,Florencia,2024
+4,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Florencia,2024
+8,Construcción,1200000,1848000,0.92,1.42,Florencia,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.77,1.18,Florencia,2024
+9,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.77,1.18,Florencia,2024
+6,Transporte y almacenamiento,1000000,1540000,0.77,1.18,Florencia,2024
+5,Alojamiento y servicios de comida,960000,1478400,0.74,1.14,Florencia,2024
+10,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.69,1.07,Florencia,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Ibagué,2024
+12,Actividades financieras y de seguros,1800000,2772000,1.38,2.13,Ibagué,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.38,2.13,Ibagué,2024
+11,Información y comunicaciones,1600000,2464000,1.23,1.9,Ibagué,2024
+0,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Ibagué,2024
+7,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Ibagué,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Ibagué,2024
+4,Construcción,1300000,2002000,1.0,1.54,Ibagué,2024
+5,Industrias manufactureras,1300000,2002000,1.0,1.54,Ibagué,2024
+10,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Ibagué,2024
+9,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Ibagué,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.92,1.42,Ibagué,2024
+3,Alojamiento y servicios de comida,1080000,1663200,0.83,1.28,Ibagué,2024
+11,Actividades financieras y de seguros,2500000,3850000,1.92,2.96,Inírida,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Inírida,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.54,2.37,Inírida,2024
+10,Información y comunicaciones,1900000,2926000,1.46,2.25,Inírida,2024
+6,Industrias manufactureras,1300000,2002000,1.0,1.54,Inírida,2024
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Inírida,2024
+2,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Inírida,2024
+0,Transporte y almacenamiento,1200000,1848000,0.92,1.42,Inírida,2024
+5,Alojamiento y servicios de comida,1200000,1848000,0.92,1.42,Inírida,2024
+1,Construcción,1200000,1848000,0.92,1.42,Inírida,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.77,1.18,Inírida,2024
+3,"Agricultura, ganadería, caza, silvicultura y pesca",724000,1114960,0.56,0.86,Inírida,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.77,2.72,Leticia,2024
+9,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Leticia,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.31,2.01,Leticia,2024
+10,Información y comunicaciones,1500000,2310000,1.15,1.78,Leticia,2024
+11,Industrias manufactureras,1200000,1848000,0.92,1.42,Leticia,2024
+5,Alojamiento y servicios de comida,1200000,1848000,0.92,1.42,Leticia,2024
+0,Comercio y reparación de vehículos,1200000,1848000,0.92,1.42,Leticia,2024
+3,Transporte y almacenamiento,1000000,1540000,0.77,1.18,Leticia,2024
+6,Construcción,1000000,1540000,0.77,1.18,Leticia,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",960000,1478400,0.74,1.14,Leticia,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.62,0.95,Leticia,2024
+7,"Agricultura, ganadería, caza, silvicultura y pesca",500000,770000,0.38,0.59,Leticia,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Manizales A.M.,2024
+9,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Manizales A.M.,2024
+11,Información y comunicaciones,2000000,3080000,1.54,2.37,Manizales A.M.,2024
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.15,1.78,Manizales A.M.,2024
+10,Actividades inmobiliarias,1460000,2248400,1.12,1.73,Manizales A.M.,2024
+4,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Manizales A.M.,2024
+2,Construcción,1300000,2002000,1.0,1.54,Manizales A.M.,2024
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Manizales A.M.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Manizales A.M.,2024
+8,Alojamiento y servicios de comida,1300000,2002000,1.0,1.54,Manizales A.M.,2024
+7,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Manizales A.M.,2024
+6,Industrias manufactureras,1300000,2002000,1.0,1.54,Manizales A.M.,2024
+5,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Manizales A.M.,2024
+10,Información y comunicaciones,3000000,4620000,2.31,3.55,Medellín A.M.,2024
+8,"Administración pública y defensa, educación y atención de la salud humana",2600000,4004000,2.0,3.08,Medellín A.M.,2024
+11,Actividades financieras y de seguros,2500000,3850000,1.92,2.96,Medellín A.M.,2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1600000,2464000,1.23,1.9,Medellín A.M.,2024
+4,"Agricultura, ganadería, caza, silvicultura y pesca",1600000,2464000,1.23,1.9,Medellín A.M.,2024
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.15,1.78,Medellín A.M.,2024
+5,Actividades inmobiliarias,1462000,2251480,1.12,1.73,Medellín A.M.,2024
+0,Industrias manufactureras,1462000,2251480,1.12,1.73,Medellín A.M.,2024
+1,Construcción,1400000,2156000,1.08,1.66,Medellín A.M.,2024
+7,Transporte y almacenamiento,1400000,2156000,1.08,1.66,Medellín A.M.,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Medellín A.M.,2024
+6,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Medellín A.M.,2024
+9,Alojamiento y servicios de comida,1300000,2002000,1.0,1.54,Medellín A.M.,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",2800000,4312000,2.15,3.32,Mitú,2024
+11,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Mitú,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.15,1.78,Mitú,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.15,1.78,Mitú,2024
+9,Información y comunicaciones,1500000,2310000,1.15,1.78,Mitú,2024
+0,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Mitú,2024
+3,Construcción,1100000,1694000,0.85,1.3,Mitú,2024
+2,Industrias manufactureras,1000000,1540000,0.77,1.18,Mitú,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.69,1.07,Mitú,2024
+5,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,Mitú,2024
+10,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.62,0.95,Mitú,2024
+6,Transporte y almacenamiento,700000,1078000,0.54,0.83,Mitú,2024
+1,Actividades financieras y de seguros,2600000,4004000,2.0,3.08,Mocoa,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2600000,4004000,2.0,3.08,Mocoa,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.38,2.13,Mocoa,2024
+10,Información y comunicaciones,1500000,2310000,1.15,1.78,Mocoa,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Mocoa,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,Mocoa,2024
+0,Construcción,1300000,2002000,1.0,1.54,Mocoa,2024
+7,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Mocoa,2024
+9,Industrias manufactureras,1200000,1848000,0.92,1.42,Mocoa,2024
+3,Comercio y reparación de vehículos,1000000,1540000,0.77,1.18,Mocoa,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.69,1.07,Mocoa,2024
+6,Alojamiento y servicios de comida,850000,1309000,0.65,1.01,Mocoa,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Montería,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",1500000,2310000,1.15,1.78,Montería,2024
+12,Información y comunicaciones,1462000,2251480,1.12,1.73,Montería,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Montería,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Montería,2024
+11,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Montería,2024
+9,Actividades financieras y de seguros,1300000,2002000,1.0,1.54,Montería,2024
+3,Comercio y reparación de vehículos,1200000,1848000,0.92,1.42,Montería,2024
+1,Industrias manufactureras,1100000,1694000,0.85,1.3,Montería,2024
+10,Construcción,1000000,1540000,0.77,1.18,Montería,2024
+2,Alojamiento y servicios de comida,800000,1232000,0.62,0.95,Montería,2024
+5,Transporte y almacenamiento,800000,1232000,0.62,0.95,Montería,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",775000,1193500,0.6,0.92,Montería,2024
+6,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Pasto,2024
+9,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Pasto,2024
+12,Información y comunicaciones,1980000,3049200,1.52,2.35,Pasto,2024
+10,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Pasto,2024
+0,Comercio y reparación de vehículos,1045000,1609300,0.8,1.24,Pasto,2024
+11,Construcción,1000000,1540000,0.77,1.18,Pasto,2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.77,1.18,Pasto,2024
+5,Industrias manufactureras,950000,1463000,0.73,1.13,Pasto,2024
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",900000,1386000,0.69,1.07,Pasto,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",900000,1386000,0.69,1.07,Pasto,2024
+7,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,Pasto,2024
+4,Transporte y almacenamiento,800000,1232000,0.62,0.95,Pasto,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",654000,1007160,0.5,0.77,Pasto,2024
+7,"Administración pública y defensa, educación y atención de la salud humana",2300724,3543115,1.77,2.73,Pereira A.M.,2024
+12,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Pereira A.M.,2024
+11,Información y comunicaciones,1960000,3018400,1.51,2.32,Pereira A.M.,2024
+2,Construcción,1500000,2310000,1.15,1.78,Pereira A.M.,2024
+10,Actividades inmobiliarias,1462000,2251480,1.12,1.73,Pereira A.M.,2024
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1400000,2156000,1.08,1.66,Pereira A.M.,2024
+4,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Pereira A.M.,2024
+3,Alojamiento y servicios de comida,1300000,2002000,1.0,1.54,Pereira A.M.,2024
+0,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Pereira A.M.,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Pereira A.M.,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Pereira A.M.,2024
+6,Industrias manufactureras,1300000,2002000,1.0,1.54,Pereira A.M.,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1250000,1925000,0.96,1.48,Pereira A.M.,2024
+7,Información y comunicaciones,3000000,4620000,2.31,3.55,Popayán,2024
+0,"Administración pública y defensa, educación y atención de la salud humana",2613000,4024020,2.01,3.1,Popayán,2024
+10,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,Popayán,2024
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.15,1.78,Popayán,2024
+11,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Popayán,2024
+6,Comercio y reparación de vehículos,1000000,1540000,0.77,1.18,Popayán,2024
+8,Industrias manufactureras,1000000,1540000,0.77,1.18,Popayán,2024
+3,Construcción,1000000,1540000,0.77,1.18,Popayán,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.69,1.07,Popayán,2024
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.69,1.07,Popayán,2024
+2,Transporte y almacenamiento,800000,1232000,0.62,0.95,Popayán,2024
+1,Alojamiento y servicios de comida,720000,1108800,0.55,0.85,Popayán,2024
+9,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.46,0.71,Popayán,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Puerto Carreño,2024
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1516000,2334640,1.17,1.8,Puerto Carreño,2024
+9,Información y comunicaciones,1500000,2310000,1.15,1.78,Puerto Carreño,2024
+11,Actividades financieras y de seguros,1300000,2002000,1.0,1.54,Puerto Carreño,2024
+6,Construcción,1200000,1848000,0.92,1.42,Puerto Carreño,2024
+5,Transporte y almacenamiento,1000000,1540000,0.77,1.18,Puerto Carreño,2024
+8,Industrias manufactureras,1000000,1540000,0.77,1.18,Puerto Carreño,2024
+0,Comercio y reparación de vehículos,1000000,1540000,0.77,1.18,Puerto Carreño,2024
+3,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,Puerto Carreño,2024
+12,Actividades inmobiliarias,900000,1386000,0.69,1.07,Puerto Carreño,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.62,0.95,Puerto Carreño,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.46,0.71,Puerto Carreño,2024
+7,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.46,0.71,Puerto Carreño,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Quibdó,2024
+10,Actividades financieras y de seguros,1600000,2464000,1.23,1.9,Quibdó,2024
+8,Información y comunicaciones,1400000,2156000,1.08,1.66,Quibdó,2024
+12,Actividades inmobiliarias,1400000,2156000,1.08,1.66,Quibdó,2024
+0,Comercio y reparación de vehículos,1200000,1848000,0.92,1.42,Quibdó,2024
+1,Construcción,1200000,1848000,0.92,1.42,Quibdó,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,0.92,1.42,Quibdó,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",800000,1232000,0.62,0.95,Quibdó,2024
+4,Transporte y almacenamiento,800000,1232000,0.62,0.95,Quibdó,2024
+9,Industrias manufactureras,800000,1232000,0.62,0.95,Quibdó,2024
+5,Alojamiento y servicios de comida,800000,1232000,0.62,0.95,Quibdó,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.5,0.77,Quibdó,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",500000,770000,0.38,0.59,Quibdó,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2100000,3234000,1.62,2.49,Riohacha,2024
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1593000,2453220,1.23,1.89,Riohacha,2024
+10,Actividades financieras y de seguros,1450000,2233000,1.12,1.72,Riohacha,2024
+11,Información y comunicaciones,1300000,2002000,1.0,1.54,Riohacha,2024
+12,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Riohacha,2024
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1120000,1724800,0.86,1.33,Riohacha,2024
+0,Comercio y reparación de vehículos,900000,1386000,0.69,1.07,Riohacha,2024
+1,Transporte y almacenamiento,850000,1309000,0.65,1.01,Riohacha,2024
+2,Construcción,800000,1232000,0.62,0.95,Riohacha,2024
+5,Alojamiento y servicios de comida,750000,1155000,0.58,0.89,Riohacha,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.54,0.83,Riohacha,2024
+7,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.46,0.71,Riohacha,2024
+6,Industrias manufactureras,500000,770000,0.38,0.59,Riohacha,2024
+5,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,San Andrés,2024
+10,Actividades financieras y de seguros,1900000,2926000,1.46,2.25,San Andrés,2024
+11,Información y comunicaciones,1800000,2772000,1.38,2.13,San Andrés,2024
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.38,2.13,San Andrés,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1600000,2464000,1.23,1.9,San Andrés,2024
+9,Construcción,1600000,2464000,1.23,1.9,San Andrés,2024
+8,Industrias manufactureras,1500000,2310000,1.15,1.78,San Andrés,2024
+3,Actividades inmobiliarias,1500000,2310000,1.15,1.78,San Andrés,2024
+0,Comercio y reparación de vehículos,1462000,2251480,1.12,1.73,San Andrés,2024
+2,Alojamiento y servicios de comida,1462000,2251480,1.12,1.73,San Andrés,2024
+1,Transporte y almacenamiento,1400000,2156000,1.08,1.66,San Andrés,2024
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1300000,2002000,1.0,1.54,San Andrés,2024
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.77,1.18,San Andrés,2024
+3,Actividades financieras y de seguros,2600000,4004000,2.0,3.08,San José del Guaviare,2024
+0,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,San José del Guaviare,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1600000,2464000,1.23,1.9,San José del Guaviare,2024
+11,Información y comunicaciones,1450000,2233000,1.12,1.72,San José del Guaviare,2024
+4,Comercio y reparación de vehículos,1200000,1848000,0.92,1.42,San José del Guaviare,2024
+5,Construcción,1200000,1848000,0.92,1.42,San José del Guaviare,2024
+8,Transporte y almacenamiento,1000000,1540000,0.77,1.18,San José del Guaviare,2024
+9,Industrias manufactureras,1000000,1540000,0.77,1.18,San José del Guaviare,2024
+6,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,San José del Guaviare,2024
+10,"Agricultura, ganadería, caza, silvicultura y pesca",900000,1386000,0.69,1.07,San José del Guaviare,2024
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.62,0.95,San José del Guaviare,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.62,0.95,San José del Guaviare,2024
+12,Actividades inmobiliarias,300000,462000,0.23,0.36,San José del Guaviare,2024
+10,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.54,2.37,Santa Marta,2024
+12,Actividades financieras y de seguros,1600000,2464000,1.23,1.9,Santa Marta,2024
+6,Información y comunicaciones,1500000,2310000,1.15,1.78,Santa Marta,2024
+2,Industrias manufactureras,1300000,2002000,1.0,1.54,Santa Marta,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Santa Marta,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Santa Marta,2024
+8,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Santa Marta,2024
+3,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Santa Marta,2024
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Santa Marta,2024
+1,Alojamiento y servicios de comida,1250000,1925000,0.96,1.48,Santa Marta,2024
+7,Transporte y almacenamiento,1200000,1848000,0.92,1.42,Santa Marta,2024
+9,Construcción,1000000,1540000,0.77,1.18,Santa Marta,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.73,1.13,Santa Marta,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.77,2.72,Sincelejo,2024
+1,Actividades financieras y de seguros,1300000,2002000,1.0,1.54,Sincelejo,2024
+11,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Sincelejo,2024
+12,Información y comunicaciones,1300000,2002000,1.0,1.54,Sincelejo,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Sincelejo,2024
+2,Comercio y reparación de vehículos,900000,1386000,0.69,1.07,Sincelejo,2024
+6,Transporte y almacenamiento,800000,1232000,0.62,0.95,Sincelejo,2024
+9,Construcción,800000,1232000,0.62,0.95,Sincelejo,2024
+0,Industrias manufactureras,750000,1155000,0.58,0.89,Sincelejo,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",700000,1078000,0.54,0.83,Sincelejo,2024
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",650000,1001000,0.5,0.77,Sincelejo,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.46,0.71,Sincelejo,2024
+5,Alojamiento y servicios de comida,550000,847000,0.42,0.65,Sincelejo,2024
+10,Información y comunicaciones,2400000,3696000,1.85,2.84,Todas (Panorama Nacional),2024
+8,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.77,2.72,Todas (Panorama Nacional),2024
+12,Actividades financieras y de seguros,2300000,3542000,1.77,2.72,Todas (Panorama Nacional),2024
+5,Actividades inmobiliarias,1450000,2233000,1.12,1.72,Todas (Panorama Nacional),2024
+0,Industrias manufactureras,1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+7,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+6,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+1,Construcción,1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Todas (Panorama Nacional),2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.77,1.18,Todas (Panorama Nacional),2024
+9,Alojamiento y servicios de comida,1000000,1540000,0.77,1.18,Todas (Panorama Nacional),2024
+4,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.62,0.95,Todas (Panorama Nacional),2024
+0,"Administración pública y defensa, educación y atención de la salud humana",2780000,4281200,2.14,3.29,Tunja,2024
+11,Actividades financieras y de seguros,2200000,3388000,1.69,2.61,Tunja,2024
+10,Información y comunicaciones,2000000,3080000,1.54,2.37,Tunja,2024
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Tunja,2024
+3,Construcción,1300000,2002000,1.0,1.54,Tunja,2024
+12,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Tunja,2024
+4,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Tunja,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Tunja,2024
+7,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Tunja,2024
+8,Industrias manufactureras,1300000,2002000,1.0,1.54,Tunja,2024
+2,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,0.92,1.42,Tunja,2024
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,0.89,1.37,Tunja,2024
+9,Alojamiento y servicios de comida,1000000,1540000,0.77,1.18,Tunja,2024
+5,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.54,2.37,Valledupar,2024
+10,Información y comunicaciones,1460000,2248400,1.12,1.73,Valledupar,2024
+6,Actividades financieras y de seguros,1400000,2156000,1.08,1.66,Valledupar,2024
+4,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.0,1.54,Valledupar,2024
+1,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Valledupar,2024
+12,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Valledupar,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.0,1.54,Valledupar,2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,0.92,1.42,Valledupar,2024
+8,Industrias manufactureras,1100000,1694000,0.85,1.3,Valledupar,2024
+7,Alojamiento y servicios de comida,900000,1386000,0.69,1.07,Valledupar,2024
+0,Construcción,900000,1386000,0.69,1.07,Valledupar,2024
+9,Transporte y almacenamiento,900000,1386000,0.69,1.07,Valledupar,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.54,0.83,Valledupar,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,Villavicencio,2024
+9,Información y comunicaciones,1800000,2772000,1.38,2.13,Villavicencio,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1800000,2772000,1.38,2.13,Villavicencio,2024
+2,Actividades financieras y de seguros,1660000,2556400,1.28,1.97,Villavicencio,2024
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1620000,2494800,1.25,1.92,Villavicencio,2024
+6,Industrias manufactureras,1300000,2002000,1.0,1.54,Villavicencio,2024
+3,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,Villavicencio,2024
+0,Construcción,1300000,2002000,1.0,1.54,Villavicencio,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Villavicencio,2024
+12,Actividades inmobiliarias,1300000,2002000,1.0,1.54,Villavicencio,2024
+8,Transporte y almacenamiento,1300000,2002000,1.0,1.54,Villavicencio,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.92,1.42,Villavicencio,2024
+7,Alojamiento y servicios de comida,1200000,1848000,0.92,1.42,Villavicencio,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,1.85,2.84,Yopal,2024
+3,Actividades financieras y de seguros,2074000,3193960,1.6,2.46,Yopal,2024
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.31,2.01,Yopal,2024
+6,"Agricultura, ganadería, caza, silvicultura y pesca",1462000,2251480,1.12,1.73,Yopal,2024
+11,Información y comunicaciones,1462000,2251480,1.12,1.73,Yopal,2024
+2,Construcción,1400000,2156000,1.08,1.66,Yopal,2024
+1,Transporte y almacenamiento,1400000,2156000,1.08,1.66,Yopal,2024
+9,Comercio y reparación de vehículos,1350000,2079000,1.04,1.6,Yopal,2024
+8,Industrias manufactureras,1350000,2079000,1.04,1.6,Yopal,2024
+12,Actividades inmobiliarias,1350000,2079000,1.04,1.6,Yopal,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,Yopal,2024
+7,Alojamiento y servicios de comida,1200000,1848000,0.92,1.42,Yopal,2024
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.92,1.42,Yopal,2024

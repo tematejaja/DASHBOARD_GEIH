@@ -1,0 +1,226 @@
+index,Rama,ICF,Cotiza_pension_%,Ingreso_SML_%,Afiliado_salud_%,CV_%,Clasificacion_Precision,Ciudad,Año
+1,"Administración pública y defensa, educación y atención de la salud humana",86.6,86.5,73.7,99.5,1.5,✅ Precisión alta,Arauca,2024
+0,Comercio y reparación de vehículos,47.0,19.4,32.3,89.3,7.7,⚠️  Precisión aceptable,Arauca,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",92.5,90.5,87.5,99.6,0.5,✅ Precisión alta,Armenia,2024
+7,Industrias manufactureras,75.7,60.2,70.1,96.8,1.3,✅ Precisión alta,Armenia,2024
+1,Transporte y almacenamiento,65.9,49.1,55.1,93.5,1.6,✅ Precisión alta,Armenia,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",64.7,44.4,53.7,96.1,1.8,✅ Precisión alta,Armenia,2024
+4,Comercio y reparación de vehículos,63.8,43.2,53.8,94.3,1.8,✅ Precisión alta,Armenia,2024
+6,Construcción,61.9,36.4,58.9,90.5,2.1,✅ Precisión alta,Armenia,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.4,31.6,49.9,93.9,2.4,✅ Precisión alta,Armenia,2024
+3,Alojamiento y servicios de comida,50.6,23.5,35.9,92.3,2.9,✅ Precisión alta,Armenia,2024
+1,Información y comunicaciones,93.8,88.6,94.2,98.6,0.5,✅ Precisión alta,Barranquilla A.M.,2024
+10,Actividades inmobiliarias,89.6,80.4,91.1,97.1,0.7,✅ Precisión alta,Barranquilla A.M.,2024
+0,"Administración pública y defensa, educación y atención de la salud humana",89.4,84.2,84.2,99.7,0.6,✅ Precisión alta,Barranquilla A.M.,2024
+8,Actividades financieras y de seguros,82.9,70.0,80.9,97.8,0.9,✅ Precisión alta,Barranquilla A.M.,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.8,58.9,66.6,98.9,1.2,✅ Precisión alta,Barranquilla A.M.,2024
+3,Industrias manufactureras,72.3,55.4,63.7,97.8,1.3,✅ Precisión alta,Barranquilla A.M.,2024
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",71.0,58.8,60.2,94.0,1.2,✅ Precisión alta,Barranquilla A.M.,2024
+5,Transporte y almacenamiento,58.7,30.3,49.9,95.9,2.2,✅ Precisión alta,Barranquilla A.M.,2024
+4,Comercio y reparación de vehículos,57.8,32.3,46.1,95.0,2.1,✅ Precisión alta,Barranquilla A.M.,2024
+9,Construcción,57.3,30.3,47.4,94.2,2.2,✅ Precisión alta,Barranquilla A.M.,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",45.9,11.3,30.6,95.8,4.0,✅ Precisión alta,Barranquilla A.M.,2024
+6,Alojamiento y servicios de comida,45.8,15.0,29.3,93.1,3.4,✅ Precisión alta,Barranquilla A.M.,2024
+9,Actividades financieras y de seguros,94.4,94.3,89.5,99.4,0.3,✅ Precisión alta,Bogotá D.C.,2024
+12,Información y comunicaciones,93.1,91.3,90.3,97.6,0.4,✅ Precisión alta,Bogotá D.C.,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",91.3,87.9,86.9,99.2,0.5,✅ Precisión alta,Bogotá D.C.,2024
+10,Actividades inmobiliarias,90.8,85.1,87.4,99.8,0.6,✅ Precisión alta,Bogotá D.C.,2024
+11,"Agricultura, ganadería, caza, silvicultura y pesca",82.8,75.0,78.2,95.2,0.8,✅ Precisión alta,Bogotá D.C.,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",81.0,71.3,74.6,97.0,0.9,✅ Precisión alta,Bogotá D.C.,2024
+2,Industrias manufactureras,75.8,62.5,71.8,93.0,1.0,✅ Precisión alta,Bogotá D.C.,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",74.6,66.0,64.1,93.7,1.0,✅ Precisión alta,Bogotá D.C.,2024
+3,Construcción,73.1,55.9,69.5,94.0,1.2,✅ Precisión alta,Bogotá D.C.,2024
+4,Transporte y almacenamiento,70.0,51.4,68.9,89.9,1.3,✅ Precisión alta,Bogotá D.C.,2024
+8,Comercio y reparación de vehículos,67.4,48.1,62.6,91.6,1.4,✅ Precisión alta,Bogotá D.C.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",64.4,44.2,58.1,90.9,1.5,✅ Precisión alta,Bogotá D.C.,2024
+5,Alojamiento y servicios de comida,58.2,35.1,53.9,85.7,1.8,✅ Precisión alta,Bogotá D.C.,2024
+9,Información y comunicaciones,93.0,89.1,90.9,99.1,0.5,✅ Precisión alta,Bucaramanga A.M.,2024
+12,Actividades financieras y de seguros,92.5,88.2,91.5,97.7,0.5,✅ Precisión alta,Bucaramanga A.M.,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",92.5,89.4,88.9,99.1,0.5,✅ Precisión alta,Bucaramanga A.M.,2024
+10,Actividades inmobiliarias,87.7,81.0,82.2,100.0,0.7,✅ Precisión alta,Bucaramanga A.M.,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",81.1,73.7,73.4,96.1,0.9,✅ Precisión alta,Bucaramanga A.M.,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",80.2,69.1,74.8,96.7,1.0,✅ Precisión alta,Bucaramanga A.M.,2024
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",76.2,60.1,70.9,97.6,1.2,✅ Precisión alta,Bucaramanga A.M.,2024
+11,Construcción,74.3,50.4,78.1,94.5,1.4,✅ Precisión alta,Bucaramanga A.M.,2024
+3,Comercio y reparación de vehículos,68.4,45.0,64.9,95.3,1.6,✅ Precisión alta,Bucaramanga A.M.,2024
+5,Industrias manufactureras,68.4,45.7,63.0,96.5,1.6,✅ Precisión alta,Bucaramanga A.M.,2024
+0,Transporte y almacenamiento,59.9,30.0,58.5,91.2,2.2,✅ Precisión alta,Bucaramanga A.M.,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",56.3,25.3,49.7,93.9,2.5,✅ Precisión alta,Bucaramanga A.M.,2024
+6,Alojamiento y servicios de comida,54.2,25.1,48.3,89.3,2.5,✅ Precisión alta,Bucaramanga A.M.,2024
+10,Actividades financieras y de seguros,91.7,90.6,86.6,97.8,0.4,✅ Precisión alta,Cali A.M.,2024
+8,Información y comunicaciones,91.2,86.0,88.9,98.8,0.5,✅ Precisión alta,Cali A.M.,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",89.8,86.6,83.5,99.4,0.5,✅ Precisión alta,Cali A.M.,2024
+11,Actividades inmobiliarias,88.6,80.5,85.6,99.9,0.7,✅ Precisión alta,Cali A.M.,2024
+6,Industrias manufactureras,76.9,64.8,69.5,96.3,1.0,✅ Precisión alta,Cali A.M.,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.3,60.2,64.9,97.7,1.1,✅ Precisión alta,Cali A.M.,2024
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",73.3,62.6,61.4,95.7,1.0,✅ Precisión alta,Cali A.M.,2024
+12,"Agricultura, ganadería, caza, silvicultura y pesca",65.4,49.5,49.4,97.4,1.4,✅ Precisión alta,Cali A.M.,2024
+3,Comercio y reparación de vehículos,63.7,43.3,54.4,93.6,1.6,✅ Precisión alta,Cali A.M.,2024
+9,Transporte y almacenamiento,59.5,36.7,51.3,90.6,1.8,✅ Precisión alta,Cali A.M.,2024
+5,Construcción,58.9,34.4,51.2,91.1,1.9,✅ Precisión alta,Cali A.M.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",54.5,27.4,41.6,94.6,2.2,✅ Precisión alta,Cali A.M.,2024
+2,Alojamiento y servicios de comida,51.0,24.2,41.1,87.6,2.4,✅ Precisión alta,Cali A.M.,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",87.5,88.7,74.0,99.8,0.5,✅ Precisión alta,Cartagena,2024
+9,Actividades financieras y de seguros,82.4,74.2,74.6,98.5,0.9,✅ Precisión alta,Cartagena,2024
+1,Actividades inmobiliarias,81.9,72.8,73.7,99.3,0.9,✅ Precisión alta,Cartagena,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",76.7,70.5,61.4,98.2,0.9,✅ Precisión alta,Cartagena,2024
+10,Industrias manufactureras,72.2,57.0,60.6,99.0,1.3,✅ Precisión alta,Cartagena,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.0,48.3,51.4,98.1,1.5,✅ Precisión alta,Cartagena,2024
+4,Alojamiento y servicios de comida,59.2,38.4,41.9,97.3,1.8,✅ Precisión alta,Cartagena,2024
+0,Construcción,57.1,34.4,38.9,98.1,2.0,✅ Precisión alta,Cartagena,2024
+7,Comercio y reparación de vehículos,56.5,32.7,40.5,96.4,2.1,✅ Precisión alta,Cartagena,2024
+5,Transporte y almacenamiento,56.2,31.2,40.1,97.3,2.2,✅ Precisión alta,Cartagena,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",45.0,13.7,24.1,97.2,3.6,✅ Precisión alta,Cartagena,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",90.7,83.8,89.0,99.1,0.7,✅ Precisión alta,Cúcuta A.M.,2024
+8,Actividades financieras y de seguros,78.9,62.3,82.0,92.5,1.2,✅ Precisión alta,Cúcuta A.M.,2024
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",72.3,60.2,62.0,94.6,1.2,✅ Precisión alta,Cúcuta A.M.,2024
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.2,33.4,44.6,93.6,2.2,✅ Precisión alta,Cúcuta A.M.,2024
+5,Comercio y reparación de vehículos,56.4,28.7,49.3,91.0,2.4,✅ Precisión alta,Cúcuta A.M.,2024
+7,Industrias manufactureras,54.4,27.6,43.8,91.7,2.5,✅ Precisión alta,Cúcuta A.M.,2024
+0,Construcción,51.1,20.7,44.0,88.5,3.0,✅ Precisión alta,Cúcuta A.M.,2024
+1,Transporte y almacenamiento,48.2,17.4,38.4,88.8,3.3,✅ Precisión alta,Cúcuta A.M.,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",47.5,17.9,38.4,86.2,3.3,✅ Precisión alta,Cúcuta A.M.,2024
+4,Alojamiento y servicios de comida,43.5,12.7,30.1,87.5,4.0,✅ Precisión alta,Cúcuta A.M.,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",95.3,91.9,94.1,99.9,0.5,✅ Precisión alta,Florencia,2024
+1,Comercio y reparación de vehículos,59.8,33.1,50.9,95.3,2.5,✅ Precisión alta,Florencia,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",57.9,33.0,42.5,98.2,2.5,✅ Precisión alta,Florencia,2024
+4,Transporte y almacenamiento,50.2,19.9,34.4,96.4,3.5,✅ Precisión alta,Florencia,2024
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",48.3,17.3,32.7,94.8,3.9,✅ Precisión alta,Florencia,2024
+2,Alojamiento y servicios de comida,43.5,9.1,28.0,93.6,5.6,✅ Precisión alta,Florencia,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",95.7,92.6,94.5,99.9,0.5,✅ Precisión alta,Ibagué,2024
+5,Industrias manufactureras,72.2,48.7,69.5,98.3,1.7,✅ Precisión alta,Ibagué,2024
+0,Comercio y reparación de vehículos,69.7,46.7,63.8,98.6,1.8,✅ Precisión alta,Ibagué,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",62.4,38.4,50.1,98.7,2.1,✅ Precisión alta,Ibagué,2024
+7,Transporte y almacenamiento,60.3,32.8,50.3,97.8,2.4,✅ Precisión alta,Ibagué,2024
+4,Construcción,59.5,26.5,56.1,95.9,2.8,✅ Precisión alta,Ibagué,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",54.9,23.6,42.6,98.4,3.0,✅ Precisión alta,Ibagué,2024
+3,Alojamiento y servicios de comida,50.2,17.6,37.9,95.2,3.6,✅ Precisión alta,Ibagué,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",94.8,93.2,91.6,99.5,0.4,✅ Precisión alta,Manizales A.M.,2024
+9,Información y comunicaciones,93.5,91.7,89.8,98.8,0.4,✅ Precisión alta,Manizales A.M.,2024
+8,Actividades financieras y de seguros,93.3,89.7,90.9,99.4,0.5,✅ Precisión alta,Manizales A.M.,2024
+5,Industrias manufactureras,87.0,80.9,82.0,98.0,0.7,✅ Precisión alta,Manizales A.M.,2024
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",82.5,73.2,75.3,99.0,0.8,✅ Precisión alta,Manizales A.M.,2024
+6,Transporte y almacenamiento,76.1,64.6,66.8,97.0,1.0,✅ Precisión alta,Manizales A.M.,2024
+2,Construcción,74.0,53.5,73.7,94.8,1.3,✅ Precisión alta,Manizales A.M.,2024
+4,Comercio y reparación de vehículos,68.0,48.2,59.9,96.0,1.4,✅ Precisión alta,Manizales A.M.,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",61.9,39.1,50.5,96.2,1.7,✅ Precisión alta,Manizales A.M.,2024
+7,Alojamiento y servicios de comida,57.5,30.1,48.7,93.7,2.1,✅ Precisión alta,Manizales A.M.,2024
+11,Actividades financieras y de seguros,95.5,93.8,93.1,99.7,0.3,✅ Precisión alta,Medellín A.M.,2024
+8,"Administración pública y defensa, educación y atención de la salud humana",93.0,89.6,90.4,99.1,0.4,✅ Precisión alta,Medellín A.M.,2024
+10,Información y comunicaciones,92.7,88.4,91.0,98.6,0.5,✅ Precisión alta,Medellín A.M.,2024
+6,Actividades inmobiliarias,92.5,88.7,89.0,99.8,0.4,✅ Precisión alta,Medellín A.M.,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",82.5,71.5,78.1,97.9,0.8,✅ Precisión alta,Medellín A.M.,2024
+0,Industrias manufactureras,82.2,71.8,78.0,96.7,0.8,✅ Precisión alta,Medellín A.M.,2024
+5,"Agricultura, ganadería, caza, silvicultura y pesca",75.5,58.3,72.6,95.6,1.1,✅ Precisión alta,Medellín A.M.,2024
+1,Construcción,74.5,58.2,73.9,91.4,1.1,✅ Precisión alta,Medellín A.M.,2024
+2,Comercio y reparación de vehículos,71.1,52.9,66.3,94.3,1.2,✅ Precisión alta,Medellín A.M.,2024
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",70.3,57.7,57.5,95.6,1.1,✅ Precisión alta,Medellín A.M.,2024
+7,Transporte y almacenamiento,67.9,46.6,67.6,89.5,1.3,✅ Precisión alta,Medellín A.M.,2024
+9,Alojamiento y servicios de comida,64.7,43.3,59.1,91.7,1.4,✅ Precisión alta,Medellín A.M.,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",63.4,40.4,58.0,91.8,1.5,✅ Precisión alta,Medellín A.M.,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",93.0,87.7,91.3,99.9,0.6,✅ Precisión alta,Montería,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.8,44.2,57.2,99.0,1.9,✅ Precisión alta,Montería,2024
+3,Comercio y reparación de vehículos,60.3,35.8,46.2,98.8,2.3,✅ Precisión alta,Montería,2024
+1,Industrias manufactureras,58.4,35.1,42.0,98.2,2.3,✅ Precisión alta,Montería,2024
+7,Construcción,52.8,23.9,36.0,98.4,3.1,✅ Precisión alta,Montería,2024
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",44.3,10.7,23.5,98.8,5.0,✅ Precisión alta,Montería,2024
+2,Alojamiento y servicios de comida,43.1,11.8,20.7,96.8,4.7,✅ Precisión alta,Montería,2024
+5,Transporte y almacenamiento,42.8,12.8,18.7,96.9,4.5,✅ Precisión alta,Montería,2024
+5,"Administración pública y defensa, educación y atención de la salud humana",91.0,86.9,87.4,98.7,0.6,✅ Precisión alta,Pasto,2024
+0,Comercio y reparación de vehículos,56.6,33.6,41.1,95.1,2.0,✅ Precisión alta,Pasto,2024
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",56.3,33.2,41.9,93.9,2.1,✅ Precisión alta,Pasto,2024
+7,Construcción,54.3,30.8,39.0,93.1,2.2,✅ Precisión alta,Pasto,2024
+4,Industrias manufactureras,51.3,26.3,33.9,93.6,2.4,✅ Precisión alta,Pasto,2024
+6,Alojamiento y servicios de comida,48.8,20.3,31.6,94.7,2.9,✅ Precisión alta,Pasto,2024
+3,Transporte y almacenamiento,46.0,19.5,26.1,92.5,2.9,✅ Precisión alta,Pasto,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",44.7,16.3,22.7,95.2,3.3,✅ Precisión alta,Pasto,2024
+10,Información y comunicaciones,94.4,93.1,91.4,98.8,0.4,✅ Precisión alta,Pereira A.M.,2024
+7,"Administración pública y defensa, educación y atención de la salud humana",93.1,89.2,91.0,99.2,0.5,✅ Precisión alta,Pereira A.M.,2024
+6,Industrias manufactureras,83.5,72.1,80.7,97.9,0.9,✅ Precisión alta,Pereira A.M.,2024
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",81.9,74.1,78.0,93.8,0.8,✅ Precisión alta,Pereira A.M.,2024
+2,Construcción,81.4,64.5,84.3,95.5,1.0,✅ Precisión alta,Pereira A.M.,2024
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",76.6,63.7,68.8,97.2,1.0,✅ Precisión alta,Pereira A.M.,2024
+0,Comercio y reparación de vehículos,71.9,52.0,67.7,95.9,1.3,✅ Precisión alta,Pereira A.M.,2024
+4,Transporte y almacenamiento,70.0,52.0,64.5,93.5,1.3,✅ Precisión alta,Pereira A.M.,2024
+8,"Agricultura, ganadería, caza, silvicultura y pesca",68.1,47.1,63.6,93.6,1.5,✅ Precisión alta,Pereira A.M.,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.1,30.6,47.3,96.3,2.1,✅ Precisión alta,Pereira A.M.,2024
+3,Alojamiento y servicios de comida,58.0,32.8,49.4,91.8,2.0,✅ Precisión alta,Pereira A.M.,2024
+0,"Administración pública y defensa, educación y atención de la salud humana",91.3,88.4,86.1,99.4,0.6,✅ Precisión alta,Popayán,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",58.3,35.9,41.3,97.7,2.2,✅ Precisión alta,Popayán,2024
+6,Comercio y reparación de vehículos,55.2,30.6,39.0,95.9,2.5,✅ Precisión alta,Popayán,2024
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.7,25.7,32.8,96.6,2.8,✅ Precisión alta,Popayán,2024
+7,Industrias manufactureras,51.1,23.1,34.3,95.8,3.0,✅ Precisión alta,Popayán,2024
+3,Construcción,49.2,20.9,32.7,93.8,3.2,✅ Precisión alta,Popayán,2024
+2,Transporte y almacenamiento,44.4,18.1,20.1,94.9,3.5,✅ Precisión alta,Popayán,2024
+1,Alojamiento y servicios de comida,41.4,9.9,19.2,95.2,4.9,✅ Precisión alta,Popayán,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",94.3,92.0,91.1,100.0,0.5,✅ Precisión alta,Quibdó,2024
+0,Comercio y reparación de vehículos,60.1,36.0,46.5,97.8,2.5,✅ Precisión alta,Quibdó,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",89.1,86.9,80.7,99.6,0.7,✅ Precisión alta,Riohacha,2024
+0,Comercio y reparación de vehículos,47.7,20.1,30.6,92.5,3.7,✅ Precisión alta,Riohacha,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",44.8,16.1,24.0,94.4,4.2,✅ Precisión alta,Riohacha,2024
+4,Alojamiento y servicios de comida,44.0,12.0,24.8,95.1,5.0,✅ Precisión alta,Riohacha,2024
+1,Transporte y almacenamiento,40.5,10.2,18.9,92.4,5.5,✅ Precisión alta,Riohacha,2024
+0,Alojamiento y servicios de comida,91.5,86.4,88.6,99.6,1.0,✅ Precisión alta,San Andrés,2024
+8,"Administración pública y defensa, educación y atención de la salud humana",91.1,86.7,87.2,99.3,0.6,✅ Precisión alta,Santa Marta,2024
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",76.7,69.3,67.2,93.6,1.1,✅ Precisión alta,Santa Marta,2024
+2,Industrias manufactureras,62.0,35.0,54.2,96.8,2.2,✅ Precisión alta,Santa Marta,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",61.3,38.0,49.8,96.2,2.1,✅ Precisión alta,Santa Marta,2024
+3,Comercio y reparación de vehículos,58.7,31.6,49.0,95.7,2.4,✅ Precisión alta,Santa Marta,2024
+1,Alojamiento y servicios de comida,58.5,33.7,48.0,93.9,2.3,✅ Precisión alta,Santa Marta,2024
+6,Transporte y almacenamiento,54.6,27.0,42.4,94.4,2.7,✅ Precisión alta,Santa Marta,2024
+7,Construcción,50.3,18.9,37.0,94.8,3.4,✅ Precisión alta,Santa Marta,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",47.0,14.4,31.8,95.0,4.0,✅ Precisión alta,Santa Marta,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",91.1,86.0,87.2,100.0,0.7,✅ Precisión alta,Sincelejo,2024
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",54.5,27.7,36.3,99.5,2.7,✅ Precisión alta,Sincelejo,2024
+1,Comercio y reparación de vehículos,54.3,26.8,36.6,99.6,2.7,✅ Precisión alta,Sincelejo,2024
+0,Industrias manufactureras,51.4,23.5,31.3,99.5,3.0,✅ Precisión alta,Sincelejo,2024
+6,Construcción,43.6,12.7,18.9,99.1,4.3,✅ Precisión alta,Sincelejo,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",41.8,10.0,15.9,99.6,5.0,✅ Precisión alta,Sincelejo,2024
+4,Alojamiento y servicios de comida,40.4,7.9,13.7,99.5,5.6,✅ Precisión alta,Sincelejo,2024
+5,Transporte y almacenamiento,40.1,8.5,12.3,99.5,5.4,✅ Precisión alta,Sincelejo,2024
+10,Información y comunicaciones,91.3,87.5,88.6,97.8,0.1,✅ Precisión alta,Todas (Panorama Nacional),2024
+8,"Administración pública y defensa, educación y atención de la salud humana",90.8,87.1,85.9,99.4,0.1,✅ Precisión alta,Todas (Panorama Nacional),2024
+12,Actividades financieras y de seguros,90.8,86.7,86.8,98.8,0.1,✅ Precisión alta,Todas (Panorama Nacional),2024
+6,Actividades inmobiliarias,89.0,81.6,86.0,99.3,0.1,✅ Precisión alta,Todas (Panorama Nacional),2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",72.0,56.4,62.1,97.3,0.2,✅ Precisión alta,Todas (Panorama Nacional),2024
+0,Industrias manufactureras,69.8,53.1,60.5,95.8,0.2,✅ Precisión alta,Todas (Panorama Nacional),2024
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",69.1,54.4,57.6,95.2,0.2,✅ Precisión alta,Todas (Panorama Nacional),2024
+1,Construcción,60.4,34.6,53.2,93.2,0.4,✅ Precisión alta,Todas (Panorama Nacional),2024
+2,Comercio y reparación de vehículos,59.8,36.0,48.9,94.4,0.4,✅ Precisión alta,Todas (Panorama Nacional),2024
+7,Transporte y almacenamiento,59.2,35.2,49.0,93.5,0.4,✅ Precisión alta,Todas (Panorama Nacional),2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",52.2,24.9,37.5,94.1,0.5,✅ Precisión alta,Todas (Panorama Nacional),2024
+9,Alojamiento y servicios de comida,49.4,20.9,35.7,91.6,0.5,✅ Precisión alta,Todas (Panorama Nacional),2024
+5,"Agricultura, ganadería, caza, silvicultura y pesca",43.0,12.6,21.8,94.6,0.7,✅ Precisión alta,Todas (Panorama Nacional),2024
+0,"Administración pública y defensa, educación y atención de la salud humana",94.7,92.5,92.1,99.6,0.5,✅ Precisión alta,Tunja,2024
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",69.0,50.4,59.9,96.6,1.7,✅ Precisión alta,Tunja,2024
+2,Construcción,66.7,40.3,62.4,97.5,2.1,✅ Precisión alta,Tunja,2024
+5,Transporte y almacenamiento,65.2,43.7,56.3,95.7,1.9,✅ Precisión alta,Tunja,2024
+3,Comercio y reparación de vehículos,63.0,41.8,51.7,95.6,2.0,✅ Precisión alta,Tunja,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",57.0,30.8,45.1,95.1,2.5,✅ Precisión alta,Tunja,2024
+6,Alojamiento y servicios de comida,50.0,20.5,36.4,93.3,3.3,✅ Precisión alta,Tunja,2024
+4,"Administración pública y defensa, educación y atención de la salud humana",90.7,90.5,81.9,99.7,0.6,✅ Precisión alta,Valledupar,2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",58.9,34.7,44.8,97.3,2.4,✅ Precisión alta,Valledupar,2024
+0,Comercio y reparación de vehículos,58.0,32.2,45.8,95.9,2.6,✅ Precisión alta,Valledupar,2024
+6,Industrias manufactureras,53.9,26.0,39.0,96.6,3.0,✅ Precisión alta,Valledupar,2024
+1,Construcción,48.8,20.0,28.6,97.7,3.6,✅ Precisión alta,Valledupar,2024
+5,Alojamiento y servicios de comida,44.6,12.5,24.7,96.4,4.7,✅ Precisión alta,Valledupar,2024
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",43.5,12.7,21.9,95.9,4.7,✅ Precisión alta,Valledupar,2024
+7,Transporte y almacenamiento,42.9,11.4,21.1,96.3,5.0,✅ Precisión alta,Valledupar,2024
+1,"Administración pública y defensa, educación y atención de la salud humana",92.7,87.1,92.0,98.9,0.6,✅ Precisión alta,Villavicencio,2024
+9,Actividades inmobiliarias,83.3,69.3,82.1,98.4,1.0,✅ Precisión alta,Villavicencio,2024
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",80.6,72.4,73.3,96.2,1.0,✅ Precisión alta,Villavicencio,2024
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",65.4,43.5,57.2,95.5,1.8,✅ Precisión alta,Villavicencio,2024
+7,Transporte y almacenamiento,63.9,36.0,62.5,93.1,2.1,✅ Precisión alta,Villavicencio,2024
+5,Industrias manufactureras,63.6,36.5,60.7,93.7,2.0,✅ Precisión alta,Villavicencio,2024
+0,Construcción,62.9,34.3,62.9,91.5,2.1,✅ Precisión alta,Villavicencio,2024
+2,Comercio y reparación de vehículos,61.5,35.2,56.2,93.1,2.1,✅ Precisión alta,Villavicencio,2024
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",53.4,21.9,45.5,92.8,2.9,✅ Precisión alta,Villavicencio,2024
+6,Alojamiento y servicios de comida,49.4,16.8,43.5,88.0,3.4,✅ Precisión alta,Villavicencio,2024
+3,"Administración pública y defensa, educación y atención de la salud humana",93.3,89.0,91.9,98.9,1.1,✅ Precisión alta,Yopal,2024
+1,Transporte y almacenamiento,71.3,50.2,69.7,94.0,3.1,✅ Precisión alta,Yopal,2024
+6,Industrias manufactureras,68.7,43.6,66.0,96.6,3.5,✅ Precisión alta,Yopal,2024
+2,Construcción,66.4,37.1,71.8,90.4,4.0,✅ Precisión alta,Yopal,2024
+7,Comercio y reparación de vehículos,65.8,40.9,65.7,90.8,3.7,✅ Precisión alta,Yopal,2024
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",63.9,42.6,54.1,95.1,3.6,✅ Precisión alta,Yopal,2024
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",53.8,24.9,45.0,91.6,5.4,✅ Precisión alta,Yopal,2024
+5,Alojamiento y servicios de comida,51.3,14.9,45.3,93.6,7.4,⚠️  Precisión aceptable,Yopal,2024

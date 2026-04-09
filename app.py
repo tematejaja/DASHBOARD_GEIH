@@ -97,8 +97,8 @@ col1, col2 = st.columns([1, 4])
 with col1:
     st.image("https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_del_DANE_%28Colombia%29.svg", width=120)
 with col2:
-    st.title("Inteligencia Laboral - GEIH Series")
-    st.markdown("*Plataforma avanzada de análisis de microdatos (Mercado Laboral & Desarrollo Regional)*")
+    st.title("Pulso Laboral: Observatorio GEIH")
+    st.markdown("*Plataforma integral de inteligencia de microdatos diseñada para el monitoreo holístico del mercado laboral colombiano, integrando estadísticas descriptivas y econométricas bajo los rigurosos estándares del Departamento Administrativo Nacional de Estadística (DANE).*")
 
 st.markdown("---")
 
@@ -150,7 +150,7 @@ else:
     td_val, tgp_val, to_val, oc_m, des_m = 0, 0, 0, 0, 0
 
 # ----------------- Visualización Principal -----------------
-main_tab1, main_tab2 = st.tabs(["📉 Dinámica Mensual & Geográfica", "🏦 Estructura Macro Avanzada (Nacional)"])
+main_tab1, main_tab2, main_tab3 = st.tabs(["📉 Dinámica Mensual & Geográfica", "🏦 Estructura Macro Avanzada (Nacional)", "🔬 Metodología Analítica"])
 
 with main_tab1:
     titulo_kpi = "Panorama Nacional" if selected_ciudad == "Todas (Panorama Nacional)" else f"Panorama Local: {selected_ciudad}"
@@ -449,5 +449,26 @@ with main_tab2:
         else:
             st.info("Datos de distribución por rama/sexo no disponibles.")
 
+with main_tab3:
+    st.markdown("## 🔬 Marco Metodológico y Procedimiento de Consolidación")
+    st.markdown("""
+        Este observatorio se fundamenta en el procesamiento directo de los microdatos anonimizados de la **Gran Encuesta Integrada de Hogares (GEIH) - Marco 2018**, provistos por el DANE. La arquitectura de ingesta y cálculo garantiza una trazabilidad absoluta frente a la doctrina metrológica oficial.
+
+        ### 1. Sistema de Agregación y Factores de Expansión
+        Para converger en estimaciones representativas a nivel poblacional, cada registro u observación es escalado utilizando el **Factor de Expansión Ponderado (`FEX_ADJ` o `FEX_C_2011`)**. 
+        - Las sumatorias se someten a un tratamiento matemático de ponderación temporal para desagregaciones correctas a nivel nacional.
+        - La extracción clasifica automáticamente la **Población en Edad de Trabajar (PET)** basándose en la variable demográfica estructural de edad `(≥ 15 años)` para subsanar atriciones y vacíos presentes en las series de microdatos, asegurando coherencia etaria.
+
+        ### 2. Calibración Continua: Modelamiento de Ventanas Móviles (Rolling Year)
+        La GEIH, por su naturaleza de muestreo continuo rotativo, manifiesta estacionalidades operativas. Para purgar el ruido estadístico y presentar series comparables estructuralmente, el motor implementa un filtro riguroso de **Año Móvil**:
+        - Se computa la Sumatoria Absoluta de las poblaciones (Ocupados, Desocupados, PEA, PET) empleando una ventana deslizante de **12 meses correlativos** ($t$ hasta $t-11$).
+        - Las prevalencias porcentuales o tasas estructurales (TD, TO, TGP) se formulan *a posteriori* utilizando los volúmenes demográficos estandarizados, replicando íntegramente las publicaciones oficiales dictadas por el DANE.
+
+        ### 3. Modelamiento Econométrico y Calidad (Módulo Avanzado)
+        - **Ecuación Minceriana:** Se estima vía Mínimos Cuadrados Ordinarios (MCO) el vector de capital humano, despejando las externalidades salariales intra-industriales de la educación y experiencia proxy. *(Se alerta explícitamente el sesgo por omisión de autoselección de Heckman en inactivos).*
+        - **Formalidad Estructural:** Integración de proxies vectoriales y cruces lógicos que dimensionan la participación integral en el Sistema General de Seguridad Social en Salud (SGSSS) y Pensiones (CGP).
+        - **Intervalos de Riesgo Geográfico (CV%):** A nivel subnacional, se aproxima el nivel de Precisión Muestral **(Coeficiente de Variación)**, demarcando el rigor estadístico de las representaciones en dominios de bajo peso muestral.
+    """)
+
 st.markdown("---")
-st.caption("Desarrollado sobre Python by Néstor Enrique Forero Herrera | `pip install geih-analisis`")
+st.caption("Desarrollado por Nicolás Álvarez, Economista.")

@@ -1,0 +1,205 @@
+index,Rama,IVI,Ocupados_miles,Ciudad,Año
+6,Alojamiento y servicios de comida,27.7,9,Armenia,2022
+2,Transporte y almacenamiento,25.4,6,Armenia,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",24.8,11,Armenia,2022
+1,Comercio y reparación de vehículos,23.1,25,Armenia,2022
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",17.4,10,Armenia,2022
+3,Construcción,16.9,11,Armenia,2022
+0,Industrias manufactureras,14.9,11,Armenia,2022
+7,"Administración pública y defensa, educación y atención de la salud humana",5.3,20,Armenia,2022
+7,Transporte y almacenamiento,43.7,79,Barranquilla A.M.,2022
+2,Alojamiento y servicios de comida,37.7,67,Barranquilla A.M.,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.5,87,Barranquilla A.M.,2022
+4,Construcción,35.1,62,Barranquilla A.M.,2022
+0,Comercio y reparación de vehículos,33.1,189,Barranquilla A.M.,2022
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",31.8,17,Barranquilla A.M.,2022
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.2,70,Barranquilla A.M.,2022
+1,Industrias manufactureras,19.5,92,Barranquilla A.M.,2022
+10,Actividades financieras y de seguros,12.4,13,Barranquilla A.M.,2022
+11,Información y comunicaciones,11.6,15,Barranquilla A.M.,2022
+8,Actividades inmobiliarias,9.2,10,Barranquilla A.M.,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",8.4,97,Barranquilla A.M.,2022
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",30.9,65,Bogotá D.C.,2022
+7,Alojamiento y servicios de comida,30.6,177,Bogotá D.C.,2022
+3,Transporte y almacenamiento,28.0,270,Bogotá D.C.,2022
+2,Comercio y reparación de vehículos,24.7,628,Bogotá D.C.,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",24.0,279,Bogotá D.C.,2022
+0,Construcción,23.9,172,Bogotá D.C.,2022
+1,Industrias manufactureras,18.7,419,Bogotá D.C.,2022
+11,"Agricultura, ganadería, caza, silvicultura y pesca",13.6,20,Bogotá D.C.,2022
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",13.6,497,Bogotá D.C.,2022
+6,"Administración pública y defensa, educación y atención de la salud humana",8.7,617,Bogotá D.C.,2022
+12,Actividades inmobiliarias,7.4,64,Bogotá D.C.,2022
+9,Información y comunicaciones,6.8,146,Bogotá D.C.,2022
+8,Actividades financieras y de seguros,3.7,153,Bogotá D.C.,2022
+8,Transporte y almacenamiento,38.9,49,Bucaramanga A.M.,2022
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.8,45,Bucaramanga A.M.,2022
+2,Alojamiento y servicios de comida,30.9,36,Bucaramanga A.M.,2022
+5,Industrias manufactureras,27.0,71,Bucaramanga A.M.,2022
+1,Comercio y reparación de vehículos,25.5,115,Bucaramanga A.M.,2022
+4,Construcción,20.1,34,Bucaramanga A.M.,2022
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",19.9,58,Bucaramanga A.M.,2022
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",18.4,9,Bucaramanga A.M.,2022
+7,"Agricultura, ganadería, caza, silvicultura y pesca",14.0,10,Bucaramanga A.M.,2022
+11,Actividades inmobiliarias,13.8,8,Bucaramanga A.M.,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",7.7,82,Bucaramanga A.M.,2022
+12,Información y comunicaciones,6.3,9,Bucaramanga A.M.,2022
+6,Actividades financieras y de seguros,6.0,13,Bucaramanga A.M.,2022
+6,Transporte y almacenamiento,36.7,77,Cali A.M.,2022
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.5,107,Cali A.M.,2022
+7,Alojamiento y servicios de comida,29.2,76,Cali A.M.,2022
+2,Comercio y reparación de vehículos,26.8,218,Cali A.M.,2022
+3,Construcción,23.5,68,Cali A.M.,2022
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",22.8,16,Cali A.M.,2022
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",21.7,91,Cali A.M.,2022
+5,Industrias manufactureras,16.9,151,Cali A.M.,2022
+10,"Agricultura, ganadería, caza, silvicultura y pesca",14.4,9,Cali A.M.,2022
+11,Actividades inmobiliarias,12.3,19,Cali A.M.,2022
+9,Información y comunicaciones,9.1,18,Cali A.M.,2022
+4,"Administración pública y defensa, educación y atención de la salud humana",9.0,137,Cali A.M.,2022
+12,Actividades financieras y de seguros,5.8,23,Cali A.M.,2022
+2,Transporte y almacenamiento,39.0,52,Cartagena,2022
+1,Comercio y reparación de vehículos,34.7,83,Cartagena,2022
+5,Construcción,34.1,35,Cartagena,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.3,40,Cartagena,2022
+0,Alojamiento y servicios de comida,30.7,37,Cartagena,2022
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",29.2,39,Cartagena,2022
+8,Industrias manufactureras,20.2,30,Cartagena,2022
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",16.0,9,Cartagena,2022
+7,Actividades inmobiliarias,10.7,5,Cartagena,2022
+6,"Administración pública y defensa, educación y atención de la salud humana",6.6,51,Cartagena,2022
+7,Transporte y almacenamiento,50.0,30,Cúcuta A.M.,2022
+1,Alojamiento y servicios de comida,45.8,28,Cúcuta A.M.,2022
+5,Construcción,45.3,33,Cúcuta A.M.,2022
+0,Industrias manufactureras,42.9,53,Cúcuta A.M.,2022
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",40.3,34,Cúcuta A.M.,2022
+2,Comercio y reparación de vehículos,38.6,96,Cúcuta A.M.,2022
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",35.7,31,Cúcuta A.M.,2022
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",32.6,12,Cúcuta A.M.,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",10.9,44,Cúcuta A.M.,2022
+2,Transporte y almacenamiento,50.1,6,Florencia,2022
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.9,6,Florencia,2022
+1,Comercio y reparación de vehículos,33.3,14,Florencia,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",8.7,11,Florencia,2022
+6,Transporte y almacenamiento,37.6,10,Ibagué,2022
+3,Alojamiento y servicios de comida,36.3,10,Ibagué,2022
+0,Construcción,34.9,13,Ibagué,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",29.9,10,Ibagué,2022
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",26.5,14,Ibagué,2022
+2,Comercio y reparación de vehículos,25.8,26,Ibagué,2022
+7,Industrias manufactureras,24.8,8,Ibagué,2022
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",11.4,5,Ibagué,2022
+5,"Administración pública y defensa, educación y atención de la salud humana",4.5,23,Ibagué,2022
+4,Transporte y almacenamiento,27.6,12,Manizales A.M.,2022
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",26.4,18,Manizales A.M.,2022
+6,Comercio y reparación de vehículos,25.2,38,Manizales A.M.,2022
+8,Alojamiento y servicios de comida,25.1,14,Manizales A.M.,2022
+5,Construcción,20.8,16,Manizales A.M.,2022
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",13.7,23,Manizales A.M.,2022
+3,Industrias manufactureras,10.3,30,Manizales A.M.,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",6.3,33,Manizales A.M.,2022
+7,Información y comunicaciones,5.8,6,Manizales A.M.,2022
+10,Transporte y almacenamiento,29.8,130,Medellín A.M.,2022
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.7,168,Medellín A.M.,2022
+4,Alojamiento y servicios de comida,24.7,111,Medellín A.M.,2022
+0,Comercio y reparación de vehículos,23.4,356,Medellín A.M.,2022
+9,Construcción,20.0,132,Medellín A.M.,2022
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",19.0,31,Medellín A.M.,2022
+11,"Agricultura, ganadería, caza, silvicultura y pesca",18.2,11,Medellín A.M.,2022
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",15.0,200,Medellín A.M.,2022
+3,Industrias manufactureras,14.0,315,Medellín A.M.,2022
+12,Actividades inmobiliarias,9.9,26,Medellín A.M.,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",7.7,208,Medellín A.M.,2022
+7,Información y comunicaciones,6.8,50,Medellín A.M.,2022
+2,Actividades financieras y de seguros,3.6,48,Medellín A.M.,2022
+3,Transporte y almacenamiento,53.4,17,Montería,2022
+0,Alojamiento y servicios de comida,35.7,12,Montería,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.5,19,Montería,2022
+6,Construcción,30.1,12,Montería,2022
+1,Comercio y reparación de vehículos,28.1,35,Montería,2022
+2,Industrias manufactureras,27.9,11,Montería,2022
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",26.6,11,Montería,2022
+5,"Administración pública y defensa, educación y atención de la salud humana",4.2,27,Montería,2022
+1,Transporte y almacenamiento,45.9,13,Pasto,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.5,13,Pasto,2022
+4,Industrias manufactureras,29.5,9,Pasto,2022
+2,Comercio y reparación de vehículos,29.1,33,Pasto,2022
+6,Alojamiento y servicios de comida,28.6,9,Pasto,2022
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",27.9,14,Pasto,2022
+7,Construcción,25.5,8,Pasto,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",7.2,28,Pasto,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",26.8,26,Pereira A.M.,2022
+2,Alojamiento y servicios de comida,26.6,19,Pereira A.M.,2022
+8,Transporte y almacenamiento,24.8,18,Pereira A.M.,2022
+0,Comercio y reparación de vehículos,21.9,59,Pereira A.M.,2022
+1,Construcción,20.7,23,Pereira A.M.,2022
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",19.0,27,Pereira A.M.,2022
+5,Industrias manufactureras,15.7,36,Pereira A.M.,2022
+9,Información y comunicaciones,7.7,6,Pereira A.M.,2022
+7,"Administración pública y defensa, educación y atención de la salud humana",7.6,35,Pereira A.M.,2022
+6,Actividades financieras y de seguros,6.9,5,Pereira A.M.,2022
+7,Transporte y almacenamiento,43.2,8,Popayán,2022
+0,Alojamiento y servicios de comida,32.5,9,Popayán,2022
+6,Construcción,31.4,8,Popayán,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",28.1,11,Popayán,2022
+3,Comercio y reparación de vehículos,27.9,22,Popayán,2022
+2,Industrias manufactureras,26.7,6,Popayán,2022
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",23.1,7,Popayán,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",8.3,27,Popayán,2022
+1,Comercio y reparación de vehículos,29.5,6,Quibdó,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",4.6,7,Quibdó,2022
+0,Transporte y almacenamiento,53.1,7,Riohacha,2022
+1,Comercio y reparación de vehículos,41.9,10,Riohacha,2022
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",36.3,6,Riohacha,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",6.1,9,Riohacha,2022
+5,Transporte y almacenamiento,45.2,21,Santa Marta,2022
+0,Construcción,43.2,18,Santa Marta,2022
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",36.6,20,Santa Marta,2022
+3,Comercio y reparación de vehículos,33.8,41,Santa Marta,2022
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",33.6,16,Santa Marta,2022
+1,Alojamiento y servicios de comida,31.6,21,Santa Marta,2022
+7,Industrias manufactureras,31.5,11,Santa Marta,2022
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",30.2,5,Santa Marta,2022
+4,"Administración pública y defensa, educación y atención de la salud humana",8.0,24,Santa Marta,2022
+5,Transporte y almacenamiento,53.6,13,Sincelejo,2022
+2,Construcción,42.9,7,Sincelejo,2022
+3,Alojamiento y servicios de comida,38.5,6,Sincelejo,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.4,12,Sincelejo,2022
+7,Industrias manufactureras,33.0,7,Sincelejo,2022
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",32.2,6,Sincelejo,2022
+0,Comercio y reparación de vehículos,31.0,23,Sincelejo,2022
+6,"Administración pública y defensa, educación y atención de la salud humana",6.0,16,Sincelejo,2022
+1,Transporte y almacenamiento,38.6,1595,Todas (Panorama Nacional),2022
+5,"Agricultura, ganadería, caza, silvicultura y pesca",36.0,3224,Todas (Panorama Nacional),2022
+2,Alojamiento y servicios de comida,33.1,1483,Todas (Panorama Nacional),2022
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.3,1851,Todas (Panorama Nacional),2022
+0,Comercio y reparación de vehículos,30.6,3970,Todas (Panorama Nacional),2022
+8,Construcción,28.9,1547,Todas (Panorama Nacional),2022
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",27.2,588,Todas (Panorama Nacional),2022
+4,Industrias manufactureras,22.5,2344,Todas (Panorama Nacional),2022
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",21.4,1734,Todas (Panorama Nacional),2022
+12,Actividades inmobiliarias,10.7,221,Todas (Panorama Nacional),2022
+11,Información y comunicaciones,9.1,383,Todas (Panorama Nacional),2022
+3,"Administración pública y defensa, educación y atención de la salud humana",8.4,2665,Todas (Panorama Nacional),2022
+9,Actividades financieras y de seguros,6.6,419,Todas (Panorama Nacional),2022
+0,Comercio y reparación de vehículos,24.2,12,Tunja,2022
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",21.2,7,Tunja,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",4.5,20,Tunja,2022
+6,Transporte y almacenamiento,50.9,21,Valledupar,2022
+5,Construcción,38.3,14,Valledupar,2022
+4,Alojamiento y servicios de comida,37.6,12,Valledupar,2022
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.5,21,Valledupar,2022
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",33.1,13,Valledupar,2022
+2,Comercio y reparación de vehículos,31.8,39,Valledupar,2022
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",30.8,5,Valledupar,2022
+3,Industrias manufactureras,29.3,10,Valledupar,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",7.0,27,Valledupar,2022
+8,Transporte y almacenamiento,36.3,15,Villavicencio,2022
+5,Construcción,35.7,22,Villavicencio,2022
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.4,18,Villavicencio,2022
+3,Alojamiento y servicios de comida,31.8,18,Villavicencio,2022
+4,Comercio y reparación de vehículos,31.2,54,Villavicencio,2022
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",28.8,18,Villavicencio,2022
+6,Industrias manufactureras,26.4,15,Villavicencio,2022
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",20.1,8,Villavicencio,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",8.2,34,Villavicencio,2022
