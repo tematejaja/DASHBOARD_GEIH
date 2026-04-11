@@ -341,7 +341,7 @@ with main_tab1:
         
         if not df_hist.empty:
             # Crear columna de fecha para el eje X
-            df_hist['Fecha'] = pd.to_datetime(df_hist.assign(day=1)[['Año', 'MES', 'day']])
+            df_hist['Fecha'] = pd.to_datetime(df_hist[['Año', 'MES']].rename(columns={'Año': 'year', 'MES': 'month'}).assign(day=1))
             df_hist = df_hist.sort_values('Fecha')
             
             # 1. Gráfico de Tasas
