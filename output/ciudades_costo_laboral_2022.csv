@@ -1,313 +1,205 @@
-index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,Ciudad,Año
-8,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Armenia,2022
-7,Actividades financieras y de seguros,1893000,2915220,1.89,2.92,Armenia,2022
-10,Información y comunicaciones,1400000,2156000,1.4,2.16,Armenia,2022
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",1117172,1720445,1.12,1.72,Armenia,2022
-9,Actividades inmobiliarias,1034000,1592360,1.03,1.59,Armenia,2022
-0,Construcción,1000000,1540000,1.0,1.54,Armenia,2022
-4,Industrias manufactureras,1000000,1540000,1.0,1.54,Armenia,2022
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Armenia,2022
-1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Armenia,2022
-11,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Armenia,2022
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",960000,1478400,0.96,1.48,Armenia,2022
-2,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,Armenia,2022
-6,"Agricultura, ganadería, caza, silvicultura y pesca",900000,1386000,0.9,1.39,Armenia,2022
-3,"Administración pública y defensa, educación y atención de la salud humana",1770000,2725800,1.77,2.73,Barranquilla A.M.,2022
-11,Actividades financieras y de seguros,1400000,2156000,1.4,2.16,Barranquilla A.M.,2022
-12,Información y comunicaciones,1200000,1848000,1.2,1.85,Barranquilla A.M.,2022
-1,Industrias manufactureras,1000000,1540000,1.0,1.54,Barranquilla A.M.,2022
-6,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Barranquilla A.M.,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Barranquilla A.M.,2022
-9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Barranquilla A.M.,2022
-8,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Barranquilla A.M.,2022
-0,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,Barranquilla A.M.,2022
-7,Transporte y almacenamiento,900000,1386000,0.9,1.39,Barranquilla A.M.,2022
-4,Construcción,900000,1386000,0.9,1.39,Barranquilla A.M.,2022
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,Barranquilla A.M.,2022
-2,Alojamiento y servicios de comida,600000,924000,0.6,0.92,Barranquilla A.M.,2022
-8,Información y comunicaciones,2600000,4004000,2.6,4.0,Bogotá D.C.,2022
-7,Actividades financieras y de seguros,2600000,4004000,2.6,4.0,Bogotá D.C.,2022
-5,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.4,3.7,Bogotá D.C.,2022
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.3,2.0,Bogotá D.C.,2022
-12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Bogotá D.C.,2022
-3,Transporte y almacenamiento,1140000,1755600,1.14,1.76,Bogotá D.C.,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1100000,1694000,1.1,1.69,Bogotá D.C.,2022
-0,Construcción,1100000,1694000,1.1,1.69,Bogotá D.C.,2022
-2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Bogotá D.C.,2022
-1,Industrias manufactureras,1000000,1540000,1.0,1.54,Bogotá D.C.,2022
-6,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,Bogotá D.C.,2022
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Bogotá D.C.,2022
-11,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Bogotá D.C.,2022
-0,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Bucaramanga A.M.,2022
-9,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Bucaramanga A.M.,2022
-12,Información y comunicaciones,1500000,2310000,1.5,2.31,Bucaramanga A.M.,2022
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.2,1.85,Bucaramanga A.M.,2022
-11,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Bucaramanga A.M.,2022
-6,"Agricultura, ganadería, caza, silvicultura y pesca",1117000,1720180,1.12,1.72,Bucaramanga A.M.,2022
-4,Construcción,1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-5,Industrias manufactureras,1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-7,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Bucaramanga A.M.,2022
-2,Alojamiento y servicios de comida,962000,1481480,0.96,1.48,Bucaramanga A.M.,2022
-4,"Administración pública y defensa, educación y atención de la salud humana",1920000,2956800,1.92,2.96,Cali A.M.,2022
-12,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Cali A.M.,2022
-9,Información y comunicaciones,1600000,2464000,1.6,2.46,Cali A.M.,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,1.4,2.16,Cali A.M.,2022
-10,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Cali A.M.,2022
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1117000,1720180,1.12,1.72,Cali A.M.,2022
-5,Industrias manufactureras,1100000,1694000,1.1,1.69,Cali A.M.,2022
-1,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Cali A.M.,2022
-2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Cali A.M.,2022
-6,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Cali A.M.,2022
-3,Construcción,1000000,1540000,1.0,1.54,Cali A.M.,2022
-7,Alojamiento y servicios de comida,960000,1478400,0.96,1.48,Cali A.M.,2022
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.9,1.39,Cali A.M.,2022
-8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,Cartagena,2022
-11,Actividades financieras y de seguros,1700000,2618000,1.7,2.62,Cartagena,2022
-10,Información y comunicaciones,1200000,1848000,1.2,1.85,Cartagena,2022
-6,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Cartagena,2022
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1117172,1720445,1.12,1.72,Cartagena,2022
-2,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Cartagena,2022
-7,Industrias manufactureras,1000000,1540000,1.0,1.54,Cartagena,2022
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.9,1.39,Cartagena,2022
-0,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,Cartagena,2022
-4,Construcción,900000,1386000,0.9,1.39,Cartagena,2022
-1,Comercio y reparación de vehículos,800000,1232000,0.8,1.23,Cartagena,2022
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.65,1.0,Cartagena,2022
-12,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.6,0.92,Cartagena,2022
-3,"Administración pública y defensa, educación y atención de la salud humana",1820000,2802800,1.82,2.8,Cúcuta A.M.,2022
-6,Actividades financieras y de seguros,1270000,1955800,1.27,1.96,Cúcuta A.M.,2022
-12,Actividades inmobiliarias,1130000,1740200,1.13,1.74,Cúcuta A.M.,2022
-10,Información y comunicaciones,1117000,1720180,1.12,1.72,Cúcuta A.M.,2022
-2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Cúcuta A.M.,2022
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Cúcuta A.M.,2022
-5,Construcción,900000,1386000,0.9,1.39,Cúcuta A.M.,2022
-0,Industrias manufactureras,900000,1386000,0.9,1.39,Cúcuta A.M.,2022
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,Cúcuta A.M.,2022
-8,Transporte y almacenamiento,800000,1232000,0.8,1.23,Cúcuta A.M.,2022
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.8,1.23,Cúcuta A.M.,2022
-1,Alojamiento y servicios de comida,750000,1155000,0.75,1.16,Cúcuta A.M.,2022
-9,"Agricultura, ganadería, caza, silvicultura y pesca",750000,1155000,0.75,1.16,Cúcuta A.M.,2022
-0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,2.2,3.39,Florencia,2022
-8,Actividades financieras y de seguros,1580000,2433200,1.58,2.43,Florencia,2022
-11,Información y comunicaciones,1200000,1848000,1.2,1.85,Florencia,2022
-12,Actividades inmobiliarias,1117172,1720445,1.12,1.72,Florencia,2022
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1117172,1720445,1.12,1.72,Florencia,2022
-5,Industrias manufactureras,1000000,1540000,1.0,1.54,Florencia,2022
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Florencia,2022
-3,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Florencia,2022
-1,Construcción,960000,1478400,0.96,1.48,Florencia,2022
-6,Transporte y almacenamiento,800000,1232000,0.8,1.23,Florencia,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.8,1.23,Florencia,2022
-2,Alojamiento y servicios de comida,750000,1155000,0.75,1.16,Florencia,2022
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,Florencia,2022
-5,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Ibagué,2022
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.8,2.77,Ibagué,2022
-11,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Ibagué,2022
-9,Información y comunicaciones,1700000,2618000,1.7,2.62,Ibagué,2022
-12,Actividades inmobiliarias,1170000,1801800,1.17,1.8,Ibagué,2022
-0,Construcción,1000000,1540000,1.0,1.54,Ibagué,2022
-6,Industrias manufactureras,1000000,1540000,1.0,1.54,Ibagué,2022
-2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Ibagué,2022
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Ibagué,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Ibagué,2022
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.9,1.39,Ibagué,2022
-8,Transporte y almacenamiento,900000,1386000,0.9,1.39,Ibagué,2022
-3,Alojamiento y servicios de comida,800000,1232000,0.8,1.23,Ibagué,2022
-1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Manizales A.M.,2022
-11,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Manizales A.M.,2022
-8,Información y comunicaciones,1400000,2156000,1.4,2.16,Manizales A.M.,2022
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.3,2.0,Manizales A.M.,2022
-0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Manizales A.M.,2022
-4,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-3,Industrias manufactureras,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Manizales A.M.,2022
-5,Construcción,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-7,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-6,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Manizales A.M.,2022
-9,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,Manizales A.M.,2022
-1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Medellín A.M.,2022
-2,Actividades financieras y de seguros,2000000,3080000,2.0,3.08,Medellín A.M.,2022
-7,Información y comunicaciones,2000000,3080000,2.0,3.08,Medellín A.M.,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.3,2.0,Medellín A.M.,2022
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1250000,1925000,1.25,1.93,Medellín A.M.,2022
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1250000,1925000,1.25,1.93,Medellín A.M.,2022
-12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Medellín A.M.,2022
-10,Construcción,1200000,1848000,1.2,1.85,Medellín A.M.,2022
-3,Industrias manufactureras,1117172,1720445,1.12,1.72,Medellín A.M.,2022
-4,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,Medellín A.M.,2022
-0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Medellín A.M.,2022
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Medellín A.M.,2022
-9,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Medellín A.M.,2022
-6,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Montería,2022
-7,Información y comunicaciones,1200000,1848000,1.2,1.85,Montería,2022
-10,Actividades financieras y de seguros,1200000,1848000,1.2,1.85,Montería,2022
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Montería,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Montería,2022
-12,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Montería,2022
-9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Montería,2022
-1,Comercio y reparación de vehículos,990000,1524600,0.99,1.52,Montería,2022
-2,Industrias manufactureras,900000,1386000,0.9,1.39,Montería,2022
-8,Construcción,800000,1232000,0.8,1.23,Montería,2022
-3,Transporte y almacenamiento,700000,1078000,0.7,1.08,Montería,2022
-0,Alojamiento y servicios de comida,640000,985600,0.64,0.99,Montería,2022
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.6,0.92,Montería,2022
-3,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Pasto,2022
-12,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Pasto,2022
-7,Información y comunicaciones,1300000,2002000,1.3,2.0,Pasto,2022
-0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Pasto,2022
-2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Pasto,2022
-9,Construcción,1000000,1540000,1.0,1.54,Pasto,2022
-5,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Pasto,2022
-4,Industrias manufactureras,900000,1386000,0.9,1.39,Pasto,2022
-8,Alojamiento y servicios de comida,840000,1293600,0.84,1.29,Pasto,2022
-1,Transporte y almacenamiento,800000,1232000,0.8,1.23,Pasto,2022
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",740000,1139600,0.74,1.14,Pasto,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",700000,1078000,0.7,1.08,Pasto,2022
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.6,0.92,Pasto,2022
-7,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.9,2.93,Pereira A.M.,2022
-6,Actividades financieras y de seguros,1600000,2464000,1.6,2.46,Pereira A.M.,2022
-9,Información y comunicaciones,1200000,1848000,1.2,1.85,Pereira A.M.,2022
-11,Actividades inmobiliarias,1117000,1720180,1.12,1.72,Pereira A.M.,2022
-0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Pereira A.M.,2022
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Pereira A.M.,2022
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Pereira A.M.,2022
-2,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,Pereira A.M.,2022
-1,Construcción,1000000,1540000,1.0,1.54,Pereira A.M.,2022
-8,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Pereira A.M.,2022
-5,Industrias manufactureras,1000000,1540000,1.0,1.54,Pereira A.M.,2022
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Pereira A.M.,2022
-12,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Pereira A.M.,2022
-2,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,2.3,3.54,Popayán,2022
-6,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Popayán,2022
-3,Información y comunicaciones,1600000,2464000,1.6,2.46,Popayán,2022
-12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,Popayán,2022
-1,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.2,1.85,Popayán,2022
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Popayán,2022
-5,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Popayán,2022
-4,Industrias manufactureras,960000,1478400,0.96,1.48,Popayán,2022
-9,Construcción,950000,1463000,0.95,1.46,Popayán,2022
-10,Transporte y almacenamiento,700000,1078000,0.7,1.08,Popayán,2022
-8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,Popayán,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",700000,1078000,0.7,1.08,Popayán,2022
-0,Alojamiento y servicios de comida,617000,950180,0.62,0.95,Popayán,2022
-2,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,Quibdó,2022
-10,Actividades financieras y de seguros,1300000,2002000,1.3,2.0,Quibdó,2022
-0,Construcción,1000000,1540000,1.0,1.54,Quibdó,2022
-5,Información y comunicaciones,1000000,1540000,1.0,1.54,Quibdó,2022
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Quibdó,2022
-12,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Quibdó,2022
-7,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Quibdó,2022
-1,Transporte y almacenamiento,800000,1232000,0.8,1.23,Quibdó,2022
-4,Industrias manufactureras,800000,1232000,0.8,1.23,Quibdó,2022
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",700000,1078000,0.7,1.08,Quibdó,2022
-6,Alojamiento y servicios de comida,650000,1001000,0.65,1.0,Quibdó,2022
-3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",500000,770000,0.5,0.77,Quibdó,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",400000,616000,0.4,0.62,Quibdó,2022
-8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,Riohacha,2022
-11,Actividades financieras y de seguros,1500000,2310000,1.5,2.31,Riohacha,2022
-2,"Suministro de electricidad, gas, agua y gestión de desechos^",1250000,1925000,1.25,1.93,Riohacha,2022
-12,Información y comunicaciones,1200000,1848000,1.2,1.85,Riohacha,2022
-10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Riohacha,2022
-9,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Riohacha,2022
-1,Transporte y almacenamiento,800000,1232000,0.8,1.23,Riohacha,2022
-5,Comercio y reparación de vehículos,750000,1155000,0.75,1.16,Riohacha,2022
-0,Construcción,700000,1078000,0.7,1.08,Riohacha,2022
-4,Alojamiento y servicios de comida,700000,1078000,0.7,1.08,Riohacha,2022
-3,"Agricultura, ganadería, caza, silvicultura y pesca",680000,1047200,0.68,1.05,Riohacha,2022
-7,Industrias manufactureras,560000,862400,0.56,0.86,Riohacha,2022
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",500000,770000,0.5,0.77,Riohacha,2022
-7,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,2.3,3.54,San Andrés,2022
-11,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,San Andrés,2022
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.5,2.31,San Andrés,2022
-10,Información y comunicaciones,1400000,2156000,1.4,2.16,San Andrés,2022
-2,Industrias manufactureras,1300000,2002000,1.3,2.0,San Andrés,2022
-6,Construcción,1300000,2002000,1.3,2.0,San Andrés,2022
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.2,1.85,San Andrés,2022
-1,Transporte y almacenamiento,1200000,1848000,1.2,1.85,San Andrés,2022
-0,Comercio y reparación de vehículos,1200000,1848000,1.2,1.85,San Andrés,2022
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,1.2,1.85,San Andrés,2022
-5,Alojamiento y servicios de comida,1200000,1848000,1.2,1.85,San Andrés,2022
-12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,San Andrés,2022
-4,"Agricultura, ganadería, caza, silvicultura y pesca",1117000,1720180,1.12,1.72,San Andrés,2022
-11,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Santa Marta,2022
-10,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,Santa Marta,2022
-12,Información y comunicaciones,1200000,1848000,1.2,1.85,Santa Marta,2022
-4,Actividades inmobiliarias,1100000,1694000,1.1,1.69,Santa Marta,2022
-6,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Santa Marta,2022
-7,Industrias manufactureras,1000000,1540000,1.0,1.54,Santa Marta,2022
-8,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Santa Marta,2022
-2,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,Santa Marta,2022
-3,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,Santa Marta,2022
-5,Transporte y almacenamiento,900000,1386000,0.9,1.39,Santa Marta,2022
-0,Construcción,800000,1232000,0.8,1.23,Santa Marta,2022
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,Santa Marta,2022
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,Santa Marta,2022
-6,"Administración pública y defensa, educación y atención de la salud humana",1863000,2869020,1.86,2.87,Sincelejo,2022
-12,Actividades financieras y de seguros,1500000,2310000,1.5,2.31,Sincelejo,2022
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Sincelejo,2022
-8,Información y comunicaciones,1000000,1540000,1.0,1.54,Sincelejo,2022
-10,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Sincelejo,2022
-0,Comercio y reparación de vehículos,750000,1155000,0.75,1.16,Sincelejo,2022
-5,Transporte y almacenamiento,600000,924000,0.6,0.92,Sincelejo,2022
-7,Industrias manufactureras,600000,924000,0.6,0.92,Sincelejo,2022
-2,Construcción,600000,924000,0.6,0.92,Sincelejo,2022
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",550000,847000,0.55,0.85,Sincelejo,2022
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",500000,770000,0.5,0.77,Sincelejo,2022
-3,Alojamiento y servicios de comida,450000,693000,0.45,0.69,Sincelejo,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",400000,616000,0.4,0.62,Sincelejo,2022
-9,Actividades financieras y de seguros,1950000,3003000,1.95,3.0,Todas (Panorama Nacional),2022
-3,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.9,2.93,Todas (Panorama Nacional),2022
-11,Información y comunicaciones,1700000,2618000,1.7,2.62,Todas (Panorama Nacional),2022
-12,Actividades inmobiliarias,1150000,1771000,1.15,1.77,Todas (Panorama Nacional),2022
-0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-8,Construcción,1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-4,Industrias manufactureras,1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-1,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Todas (Panorama Nacional),2022
-2,Alojamiento y servicios de comida,800000,1232000,0.8,1.23,Todas (Panorama Nacional),2022
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",750000,1155000,0.75,1.16,Todas (Panorama Nacional),2022
-5,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.6,0.92,Todas (Panorama Nacional),2022
-2,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.4,3.7,Tunja,2022
-8,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Tunja,2022
-10,Información y comunicaciones,1500000,2310000,1.5,2.31,Tunja,2022
-4,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.2,1.85,Tunja,2022
-1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Tunja,2022
-7,Construcción,1000000,1540000,1.0,1.54,Tunja,2022
-3,Transporte y almacenamiento,1000000,1540000,1.0,1.54,Tunja,2022
-6,Industrias manufactureras,1000000,1540000,1.0,1.54,Tunja,2022
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Tunja,2022
-11,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Tunja,2022
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.8,1.23,Tunja,2022
-9,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.8,1.23,Tunja,2022
-12,Alojamiento y servicios de comida,800000,1232000,0.8,1.23,Tunja,2022
-1,"Administración pública y defensa, educación y atención de la salud humana",1600000,2464000,1.6,2.46,Valledupar,2022
-5,Información y comunicaciones,1117200,1720488,1.12,1.72,Valledupar,2022
-12,Actividades financieras y de seguros,1117172,1720445,1.12,1.72,Valledupar,2022
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,Valledupar,2022
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,1.0,1.54,Valledupar,2022
-11,Actividades inmobiliarias,1000000,1540000,1.0,1.54,Valledupar,2022
-3,Industrias manufactureras,920000,1416800,0.92,1.42,Valledupar,2022
-2,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,Valledupar,2022
-6,Construcción,900000,1386000,0.9,1.39,Valledupar,2022
-7,Transporte y almacenamiento,800000,1232000,0.8,1.23,Valledupar,2022
-9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,Valledupar,2022
-4,Alojamiento y servicios de comida,700000,1078000,0.7,1.08,Valledupar,2022
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.65,1.0,Valledupar,2022
-0,"Administración pública y defensa, educación y atención de la salud humana",2100000,3234000,2.1,3.23,Villavicencio,2022
-12,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,Villavicencio,2022
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",1450000,2233000,1.45,2.23,Villavicencio,2022
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,1.4,2.16,Villavicencio,2022
-10,Información y comunicaciones,1200000,1848000,1.2,1.85,Villavicencio,2022
-9,Actividades inmobiliarias,1150000,1771000,1.15,1.77,Villavicencio,2022
-8,Transporte y almacenamiento,1100000,1694000,1.1,1.69,Villavicencio,2022
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,Villavicencio,2022
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,Villavicencio,2022
-4,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,Villavicencio,2022
-3,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,Villavicencio,2022
-5,Construcción,1000000,1540000,1.0,1.54,Villavicencio,2022
-6,Industrias manufactureras,1000000,1540000,1.0,1.54,Villavicencio,2022
+index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,poblacion_estimada,Ciudad,Año
+9,Actividades financieras y de seguros,1950000,3003000,1.95,3.0,5995,419008.5952617291,Todas (Panorama Nacional),2022
+3,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.9,2.93,56478,2665402.9283269327,Todas (Panorama Nacional),2022
+11,Información y comunicaciones,1700000,2618000,1.7,2.62,5273,382817.1159179378,Todas (Panorama Nacional),2022
+12,Actividades inmobiliarias,1150000,1771000,1.15,1.77,3476,221281.87524259632,Todas (Panorama Nacional),2022
+0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,77235,3970353.6196406316,Todas (Panorama Nacional),2022
+8,Construcción,1000000,1540000,1.0,1.54,28922,1546653.7994614246,Todas (Panorama Nacional),2022
+4,Industrias manufactureras,1000000,1540000,1.0,1.54,34756,2343551.6131574777,Todas (Panorama Nacional),2022
+1,Transporte y almacenamiento,1000000,1540000,1.0,1.54,31597,1595131.2818622708,Todas (Panorama Nacional),2022
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,30060,1733591.4001901143,Todas (Panorama Nacional),2022
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,9525,587819.3574378147,Todas (Panorama Nacional),2022
+2,Alojamiento y servicios de comida,800000,1232000,0.8,1.23,30032,1482663.0655645453,Todas (Panorama Nacional),2022
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",750000,1155000,0.75,1.16,35925,1851396.919386121,Todas (Panorama Nacional),2022
+5,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.6,0.92,33088,3224135.8147105672,Todas (Panorama Nacional),2022
+8,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1496,19835.569787725333,Armenia,2022
+0,Construcción,1000000,1540000,1.0,1.54,827,11013.206099499,Armenia,2022
+4,Industrias manufactureras,1000000,1540000,1.0,1.54,853,11271.974995236083,Armenia,2022
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,760,9930.0406633155,Armenia,2022
+1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1971,25402.36732456525,Armenia,2022
+11,Transporte y almacenamiento,1000000,1540000,1.0,1.54,462,6082.663507498583,Armenia,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",960000,1478400,0.96,1.48,884,11342.029500232584,Armenia,2022
+2,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,672,8555.068885930834,Armenia,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",1770000,2725800,1.77,2.73,1448,96709.0490425425,Barranquilla A.M.,2022
+11,Actividades financieras y de seguros,1400000,2156000,1.4,2.16,191,13086.113070780833,Barranquilla A.M.,2022
+12,Información y comunicaciones,1200000,1848000,1.2,1.85,212,15413.500447971666,Barranquilla A.M.,2022
+1,Industrias manufactureras,1000000,1540000,1.0,1.54,1358,92334.84840561167,Barranquilla A.M.,2022
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,261,16602.1572932925,Barranquilla A.M.,2022
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,1067,69784.04411143667,Barranquilla A.M.,2022
+8,Actividades inmobiliarias,1000000,1540000,1.0,1.54,150,10456.217098540834,Barranquilla A.M.,2022
+0,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,2825,188713.783500545,Barranquilla A.M.,2022
+7,Transporte y almacenamiento,900000,1386000,0.9,1.39,1135,79290.58286637667,Barranquilla A.M.,2022
+4,Construcción,900000,1386000,0.9,1.39,930,62228.56785877833,Barranquilla A.M.,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,1338,87350.52734481334,Barranquilla A.M.,2022
+2,Alojamiento y servicios de comida,600000,924000,0.6,0.92,1038,67142.3947031525,Barranquilla A.M.,2022
+8,Información y comunicaciones,2600000,4004000,2.6,4.0,451,145858.1019797,Bogotá D.C.,2022
+7,Actividades financieras y de seguros,2600000,4004000,2.6,4.0,492,153180.21579024167,Bogotá D.C.,2022
+5,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.4,3.7,2033,616888.224143425,Bogotá D.C.,2022
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.3,2.0,1655,496710.7414153583,Bogotá D.C.,2022
+12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,206,64108.004619225,Bogotá D.C.,2022
+3,Transporte y almacenamiento,1140000,1755600,1.14,1.76,913,269528.23544114165,Bogotá D.C.,2022
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1100000,1694000,1.1,1.69,67,20209.900039925,Bogotá D.C.,2022
+0,Construcción,1100000,1694000,1.1,1.69,590,172333.23083584168,Bogotá D.C.,2022
+2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2119,628371.4709844667,Bogotá D.C.,2022
+1,Industrias manufactureras,1000000,1540000,1.0,1.54,1435,418764.2293930833,Bogotá D.C.,2022
+6,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,616,176870.24526546666,Bogotá D.C.,2022
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,225,65305.374601866664,Bogotá D.C.,2022
+11,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,961,279051.33422278333,Bogotá D.C.,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1755,81798.68289264383,Bucaramanga A.M.,2022
+9,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,270,12611.450118850833,Bucaramanga A.M.,2022
+12,Información y comunicaciones,1500000,2310000,1.5,2.31,193,9257.7762227475,Bucaramanga A.M.,2022
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.2,1.85,226,9496.154894428333,Bucaramanga A.M.,2022
+11,Actividades inmobiliarias,1200000,1848000,1.2,1.85,174,7883.443543059167,Bucaramanga A.M.,2022
+6,"Agricultura, ganadería, caza, silvicultura y pesca",1117000,1720180,1.12,1.72,167,9529.308171226667,Bucaramanga A.M.,2022
+4,Construcción,1000000,1540000,1.0,1.54,683,33665.01627737758,Bucaramanga A.M.,2022
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,995,45072.176870138166,Bucaramanga A.M.,2022
+1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2584,115445.22000557825,Bucaramanga A.M.,2022
+5,Industrias manufactureras,1000000,1540000,1.0,1.54,1557,71065.43676209416,Bucaramanga A.M.,2022
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,1285,58154.655498011,Bucaramanga A.M.,2022
+7,Transporte y almacenamiento,1000000,1540000,1.0,1.54,1074,49287.5911137,Bucaramanga A.M.,2022
+2,Alojamiento y servicios de comida,962000,1481480,0.96,1.48,837,36279.079770612414,Bucaramanga A.M.,2022
+4,"Administración pública y defensa, educación y atención de la salud humana",1920000,2956800,1.92,2.96,1868,137418.53157826274,Cali A.M.,2022
+12,Actividades financieras y de seguros,1800000,2772000,1.8,2.77,277,22524.111337028335,Cali A.M.,2022
+9,Información y comunicaciones,1600000,2464000,1.6,2.46,232,17830.0539485365,Cali A.M.,2022
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1400000,2156000,1.4,2.16,155,8810.193328055084,Cali A.M.,2022
+10,Actividades inmobiliarias,1200000,1848000,1.2,1.85,254,19148.31920203175,Cali A.M.,2022
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1117000,1720180,1.12,1.72,1203,91196.09696973908,Cali A.M.,2022
+5,Industrias manufactureras,1100000,1694000,1.1,1.69,2271,151319.06753287592,Cali A.M.,2022
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,231,15601.505116880917,Cali A.M.,2022
+2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2983,217877.408679172,Cali A.M.,2022
+6,Transporte y almacenamiento,1000000,1540000,1.0,1.54,1139,77451.39799364333,Cali A.M.,2022
+3,Construcción,1000000,1540000,1.0,1.54,914,67648.831662962,Cali A.M.,2022
+7,Alojamiento y servicios de comida,960000,1478400,0.96,1.48,1001,75877.31749237933,Cali A.M.,2022
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.9,1.39,1471,107261.39706457392,Cali A.M.,2022
+8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,1659,51084.43395795558,Cartagena,2022
+6,Actividades inmobiliarias,1200000,1848000,1.2,1.85,169,5299.0926400490835,Cartagena,2022
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1117172,1720445,1.12,1.72,277,8707.731479730834,Cartagena,2022
+2,Transporte y almacenamiento,1000000,1540000,1.0,1.54,1759,52391.40944812075,Cartagena,2022
+7,Industrias manufactureras,1000000,1540000,1.0,1.54,995,29737.147653172335,Cartagena,2022
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.9,1.39,1274,38749.45884204983,Cartagena,2022
+0,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,1266,37115.0611730415,Cartagena,2022
+4,Construcción,900000,1386000,0.9,1.39,1191,34790.687239196,Cartagena,2022
+1,Comercio y reparación de vehículos,800000,1232000,0.8,1.23,2836,83178.01173866242,Cartagena,2022
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.65,1.0,1361,39588.33823604475,Cartagena,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",1820000,2802800,1.82,2.8,1261,43690.88576814,Cúcuta A.M.,2022
+2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2839,96410.704307901,Cúcuta A.M.,2022
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,353,11855.659507032333,Cúcuta A.M.,2022
+5,Construcción,900000,1386000,0.9,1.39,931,33130.40311357417,Cúcuta A.M.,2022
+0,Industrias manufactureras,900000,1386000,0.9,1.39,1540,53101.58681157,Cúcuta A.M.,2022
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,926,30981.6867551775,Cúcuta A.M.,2022
+8,Transporte y almacenamiento,800000,1232000,0.8,1.23,841,29621.030367156665,Cúcuta A.M.,2022
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.8,1.23,1057,34436.10764636083,Cúcuta A.M.,2022
+1,Alojamiento y servicios de comida,750000,1155000,0.75,1.16,886,28051.145168547668,Cúcuta A.M.,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,2.2,3.39,1542,11129.353264802916,Florencia,2022
+3,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1970,14164.948997835167,Florencia,2022
+6,Transporte y almacenamiento,800000,1232000,0.8,1.23,822,6118.860872281167,Florencia,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,893,6242.8373775391665,Florencia,2022
+5,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1511,22792.923944029415,Ibagué,2022
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.8,2.77,319,5148.161613787834,Ibagué,2022
+0,Construcción,1000000,1540000,1.0,1.54,837,13014.638924975834,Ibagué,2022
+6,Industrias manufactureras,1000000,1540000,1.0,1.54,525,7826.6630663575,Ibagué,2022
+2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1734,26282.11097216875,Ibagué,2022
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,967,14305.961236027584,Ibagué,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.9,1.39,645,9726.096843517,Ibagué,2022
+8,Transporte y almacenamiento,900000,1386000,0.9,1.39,669,10494.186678334667,Ibagué,2022
+3,Alojamiento y servicios de comida,800000,1232000,0.8,1.23,659,10027.397273252667,Ibagué,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,2125,33229.498338389414,Manizales A.M.,2022
+8,Información y comunicaciones,1400000,2156000,1.4,2.16,367,5620.506300396917,Manizales A.M.,2022
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,1551,23272.8804410975,Manizales A.M.,2022
+4,Transporte y almacenamiento,1000000,1540000,1.0,1.54,790,12061.125067616416,Manizales A.M.,2022
+3,Industrias manufactureras,1000000,1540000,1.0,1.54,1989,29971.49540331975,Manizales A.M.,2022
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,1194,17953.60524581325,Manizales A.M.,2022
+5,Construcción,1000000,1540000,1.0,1.54,1020,15816.250568605083,Manizales A.M.,2022
+6,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2445,37801.79976335892,Manizales A.M.,2022
+9,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,878,13723.791255952,Manizales A.M.,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1791,207807.62661890915,Medellín A.M.,2022
+2,Actividades financieras y de seguros,2000000,3080000,2.0,3.08,387,48171.012460536665,Medellín A.M.,2022
+7,Información y comunicaciones,2000000,3080000,2.0,3.08,420,50315.361440215835,Medellín A.M.,2022
+11,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.3,2.0,92,10680.763149806668,Medellín A.M.,2022
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1250000,1925000,1.25,1.93,272,31382.0235050325,Medellín A.M.,2022
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1250000,1925000,1.25,1.93,1723,200228.00730116916,Medellín A.M.,2022
+12,Actividades inmobiliarias,1200000,1848000,1.2,1.85,244,26153.595500631665,Medellín A.M.,2022
+10,Construcción,1200000,1848000,1.2,1.85,1187,132413.78636177417,Medellín A.M.,2022
+3,Industrias manufactureras,1117172,1720445,1.12,1.72,2663,315077.92001259414,Medellín A.M.,2022
+4,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,1013,110868.9944098425,Medellín A.M.,2022
+0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,3122,356039.98263263836,Medellín A.M.,2022
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,1503,167602.78994281334,Medellín A.M.,2022
+9,Transporte y almacenamiento,1000000,1540000,1.0,1.54,1129,130407.941238045,Medellín A.M.,2022
+6,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1347,26565.532420622418,Montería,2022
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,564,11042.065302193167,Montería,2022
+1,Comercio y reparación de vehículos,990000,1524600,0.99,1.52,1768,35414.45340536266,Montería,2022
+2,Industrias manufactureras,900000,1386000,0.9,1.39,560,10991.15264857825,Montería,2022
+8,Construcción,800000,1232000,0.8,1.23,608,12288.359801202083,Montería,2022
+3,Transporte y almacenamiento,700000,1078000,0.7,1.08,834,17008.00119327825,Montería,2022
+0,Alojamiento y servicios de comida,640000,985600,0.64,0.99,604,11719.292328286418,Montería,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.6,0.92,991,18583.850137024918,Montería,2022
+3,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,2160,28315.141433051584,Pasto,2022
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,1105,14209.099452514916,Pasto,2022
+2,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2513,32748.554143964666,Pasto,2022
+9,Construcción,1000000,1540000,1.0,1.54,629,8395.888212568167,Pasto,2022
+4,Industrias manufactureras,900000,1386000,0.9,1.39,725,9389.771642925833,Pasto,2022
+8,Alojamiento y servicios de comida,840000,1293600,0.84,1.29,749,9402.590936186083,Pasto,2022
+1,Transporte y almacenamiento,800000,1232000,0.8,1.23,941,12519.789596137833,Pasto,2022
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.6,0.92,1021,12693.597912932,Pasto,2022
+7,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.9,2.93,1774,35273.34461134492,Pereira A.M.,2022
+6,Actividades financieras y de seguros,1600000,2464000,1.6,2.46,251,5351.586841787167,Pereira A.M.,2022
+9,Información y comunicaciones,1200000,1848000,1.2,1.85,265,5619.47355799975,Pereira A.M.,2022
+0,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2765,58897.64157374133,Pereira A.M.,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,1249,26013.395151057917,Pereira A.M.,2022
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,1377,27319.4709543145,Pereira A.M.,2022
+2,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,906,18557.669292052084,Pereira A.M.,2022
+1,Construcción,1000000,1540000,1.0,1.54,1083,23219.474870013833,Pereira A.M.,2022
+8,Transporte y almacenamiento,1000000,1540000,1.0,1.54,794,17627.965247583918,Pereira A.M.,2022
+5,Industrias manufactureras,1000000,1540000,1.0,1.54,1583,36094.19664364817,Pereira A.M.,2022
+2,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,2.3,3.54,2228,26945.904776931,Popayán,2022
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,614,7419.167508413667,Popayán,2022
+5,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1937,21947.74078377325,Popayán,2022
+4,Industrias manufactureras,960000,1478400,0.96,1.48,549,6222.691669407834,Popayán,2022
+9,Construcción,950000,1463000,0.95,1.46,687,8258.124599355666,Popayán,2022
+10,Transporte y almacenamiento,700000,1078000,0.7,1.08,746,8425.44958243625,Popayán,2022
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,990,11308.327955957,Popayán,2022
+0,Alojamiento y servicios de comida,617000,950180,0.62,0.95,805,8775.656392822,Popayán,2022
+2,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,2.0,3.08,1868,7465.105609731417,Quibdó,2022
+7,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1399,5749.1394338645005,Quibdó,2022
+8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,1519,9402.3566430325,Riohacha,2022
+1,Transporte y almacenamiento,800000,1232000,0.8,1.23,1022,6745.4649860015,Riohacha,2022
+5,Comercio y reparación de vehículos,750000,1155000,0.75,1.16,1602,10236.4316927655,Riohacha,2022
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",500000,770000,0.5,0.77,1000,6058.667738104334,Riohacha,2022
+10,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.8,2.77,1267,23815.291711669834,Santa Marta,2022
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,281,5380.34499330625,Santa Marta,2022
+7,Industrias manufactureras,1000000,1540000,1.0,1.54,593,11276.45656901925,Santa Marta,2022
+2,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,2182,41159.62249644367,Santa Marta,2022
+3,Alojamiento y servicios de comida,900000,1386000,0.9,1.39,1146,20919.94659868275,Santa Marta,2022
+5,Transporte y almacenamiento,900000,1386000,0.9,1.39,1117,20939.52089035675,Santa Marta,2022
+0,Construcción,800000,1232000,0.8,1.23,937,17705.9921393345,Santa Marta,2022
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,874,16191.548546685583,Santa Marta,2022
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",700000,1078000,0.7,1.08,1079,20096.217894576166,Santa Marta,2022
+6,"Administración pública y defensa, educación y atención de la salud humana",1863000,2869020,1.86,2.87,1532,16042.52705915725,Sincelejo,2022
+0,Comercio y reparación de vehículos,750000,1155000,0.75,1.16,2224,23318.06943500425,Sincelejo,2022
+5,Transporte y almacenamiento,600000,924000,0.6,0.92,1238,13014.5773106155,Sincelejo,2022
+7,Industrias manufactureras,600000,924000,0.6,0.92,642,6587.421874754833,Sincelejo,2022
+2,Construcción,600000,924000,0.6,0.92,701,7341.496034511833,Sincelejo,2022
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",550000,847000,0.55,0.85,621,6397.988962182917,Sincelejo,2022
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",500000,770000,0.5,0.77,1187,12037.84764411125,Sincelejo,2022
+3,Alojamiento y servicios de comida,450000,693000,0.45,0.69,614,6167.924952001166,Sincelejo,2022
+2,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.4,3.7,2513,20493.811139332418,Tunja,2022
+1,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,1588,12400.11164448225,Tunja,2022
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,928,7421.513987729417,Tunja,2022
+1,"Administración pública y defensa, educación y atención de la salud humana",1600000,2464000,1.6,2.46,1373,27191.822717784,Valledupar,2022
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1000000,1540000,1.0,1.54,240,5210.303637605167,Valledupar,2022
+3,Industrias manufactureras,920000,1416800,0.92,1.42,510,10354.174924014083,Valledupar,2022
+2,Comercio y reparación de vehículos,900000,1386000,0.9,1.39,1946,39013.87131182308,Valledupar,2022
+6,Construcción,900000,1386000,0.9,1.39,655,13662.276714878333,Valledupar,2022
+7,Transporte y almacenamiento,800000,1232000,0.8,1.23,987,20613.447673840332,Valledupar,2022
+9,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.8,1.23,654,12672.174621978584,Valledupar,2022
+4,Alojamiento y servicios de comida,700000,1078000,0.7,1.08,644,12413.289659143333,Valledupar,2022
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.65,1.0,1074,20613.160519539833,Valledupar,2022
+0,"Administración pública y defensa, educación y atención de la salud humana",2100000,3234000,2.1,3.23,1533,33566.33118378284,Villavicencio,2022
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1450000,2233000,1.45,2.23,330,7858.0279485995,Villavicencio,2022
+8,Transporte y almacenamiento,1100000,1694000,1.1,1.69,668,14934.040593894166,Villavicencio,2022
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,1.0,1.54,857,18401.853816663333,Villavicencio,2022
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,1.0,1.54,842,18385.68371915008,Villavicencio,2022
+4,Comercio y reparación de vehículos,1000000,1540000,1.0,1.54,2490,53861.15808208025,Villavicencio,2022
+3,Alojamiento y servicios de comida,1000000,1540000,1.0,1.54,876,18225.431194550332,Villavicencio,2022
+5,Construcción,1000000,1540000,1.0,1.54,994,22246.9842251585,Villavicencio,2022
+6,Industrias manufactureras,1000000,1540000,1.0,1.54,697,15402.4877893835,Villavicencio,2022

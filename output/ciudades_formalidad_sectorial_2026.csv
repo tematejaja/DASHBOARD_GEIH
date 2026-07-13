@@ -1,0 +1,229 @@
+index,Rama,ICF,Cotiza_pension_%,Ingreso_SML_%,Afiliado_salud_%,n_muestra,poblacion_estimada,CV_%,Clasificacion_Precision,Ciudad,Año
+11,"Administración pública y defensa, educación y atención de la salud humana",89.6,88.4,81.1,99.4,18599,3042419.2881386583,0.4,✅ Precisión alta,Todas (Panorama Nacional),2026
+12,Actividades financieras y de seguros,89.6,88.1,81.3,99.3,1973,478223.448618838,1.3,✅ Precisión alta,Todas (Panorama Nacional),2026
+6,Información y comunicaciones,88.7,87.7,80.2,98.1,1687,438531.666662307,1.4,✅ Precisión alta,Todas (Panorama Nacional),2026
+8,Actividades inmobiliarias,83.6,83.9,68.2,98.8,1331,316510.02486626024,1.9,✅ Precisión alta,Todas (Panorama Nacional),2026
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",69.5,55.8,55.4,97.3,9422,1908353.069775601,1.4,✅ Precisión alta,Todas (Panorama Nacional),2026
+3,"Suministro de electricidad, gas, agua y gestión de desechos^",65.8,50.7,50.4,96.3,2780,647789.221388754,3.0,✅ Precisión alta,Todas (Panorama Nacional),2026
+7,Industrias manufactureras,65.2,52.5,47.0,96.2,10767,2575071.389183946,1.4,✅ Precisión alta,Todas (Panorama Nacional),2026
+0,Comercio y reparación de vehículos,58.0,38.7,40.0,95.4,22115,4103780.7416517497,1.3,✅ Precisión alta,Todas (Panorama Nacional),2026
+5,Transporte y almacenamiento,55.2,35.1,36.6,94.1,9811,1804364.1730244837,2.2,✅ Precisión alta,Todas (Panorama Nacional),2026
+2,Construcción,55.1,32.0,41.2,92.1,8281,1671253.8545987871,2.5,✅ Precisión alta,Todas (Panorama Nacional),2026
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",50.5,25.2,30.9,95.4,10759,2021870.5231101832,2.6,✅ Precisión alta,Todas (Panorama Nacional),2026
+10,Alojamiento y servicios de comida,46.4,19.2,26.8,93.2,10020,1763051.4765268727,3.2,✅ Precisión alta,Todas (Panorama Nacional),2026
+9,"Agricultura, ganadería, caza, silvicultura y pesca",42.8,14.9,17.6,96.0,10268,3216167.3006154364,3.7,✅ Precisión alta,Todas (Panorama Nacional),2026
+0,"Administración pública y defensa, educación y atención de la salud humana",88.2,86.4,78.1,100.0,117,6258.51720897325,5.8,✅ Precisión alta,Arauca,2026
+1,Comercio y reparación de vehículos,45.7,16.9,26.2,93.9,106,5922.75678321,34.1,❌ No confiable,Arauca,2026
+5,"Administración pública y defensa, educación y atención de la salud humana",92.4,90.0,87.5,99.7,519,23348.22713702175,2.3,✅ Precisión alta,Armenia,2026
+1,Industrias manufactureras,65.9,55.1,47.0,95.6,297,13277.683628316001,8.3,⚠️  Precisión aceptable,Armenia,2026
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",65.2,48.0,49.4,98.3,263,10999.64010866775,10.1,⚠️  Precisión aceptable,Armenia,2026
+3,Comercio y reparación de vehículos,60.7,48.0,41.3,92.8,664,28974.76714702,6.4,✅ Precisión alta,Armenia,2026
+6,Transporte y almacenamiento,60.3,48.0,38.5,94.4,206,9478.59082449575,11.5,⚠️  Precisión aceptable,Armenia,2026
+0,Construcción,55.4,37.2,39.3,89.7,233,11296.26851083575,13.5,⚠️  Precisión aceptable,Armenia,2026
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",53.2,30.2,33.3,96.0,340,14881.91991732625,13.0,⚠️  Precisión aceptable,Armenia,2026
+2,Alojamiento y servicios de comida,46.8,24.7,24.3,91.4,285,12796.76331364175,16.4,⚠️⚠️ Precisión baja,Armenia,2026
+6,Información y comunicaciones,89.1,86.9,81.8,98.6,57,13183.6968615375,8.1,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",87.2,84.0,77.7,99.8,482,110145.4220275125,3.1,✅ Precisión alta,Barranquilla A.M.,2026
+3,Actividades financieras y de seguros,85.0,81.2,73.7,100.0,89,18629.658191755,8.1,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+10,Actividades inmobiliarias,81.4,82.4,64.7,97.1,68,15484.76562357,8.9,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",75.9,75.7,52.7,99.4,74,17059.05339067,10.4,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.9,63.2,61.5,100.0,400,91891.59799196,6.0,✅ Precisión alta,Barranquilla A.M.,2026
+7,Industrias manufactureras,72.0,62.7,55.9,97.2,464,114699.52894391,5.7,✅ Precisión alta,Barranquilla A.M.,2026
+1,Comercio y reparación de vehículos,58.7,36.6,41.6,97.8,822,183131.905341745,7.3,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+5,Construcción,58.2,37.3,44.5,92.7,281,70083.59440333,12.2,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+8,Transporte y almacenamiento,56.4,36.7,34.9,97.7,386,99283.1349126775,10.6,⚠️  Precisión aceptable,Barranquilla A.M.,2026
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",48.4,16.4,32.1,96.6,446,95398.6100901075,16.9,⚠️⚠️ Precisión baja,Barranquilla A.M.,2026
+9,Alojamiento y servicios de comida,43.4,13.1,19.8,97.3,367,82139.455005125,21.3,❌ No confiable,Barranquilla A.M.,2026
+4,Actividades financieras y de seguros,93.0,94.1,84.9,100.0,187,179523.243153325,2.9,✅ Precisión alta,Bogotá D.C.,2026
+11,Información y comunicaciones,91.8,92.3,84.7,98.4,193,190549.395862525,3.3,✅ Precisión alta,Bogotá D.C.,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",90.7,88.8,84.0,99.2,779,736814.58603425,2.0,✅ Precisión alta,Bogotá D.C.,2026
+10,Actividades inmobiliarias,82.6,83.6,66.1,97.9,114,106143.913229025,6.6,✅ Precisión alta,Bogotá D.C.,2026
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",79.8,72.3,69.5,97.6,608,555927.33131635,4.0,✅ Precisión alta,Bogotá D.C.,2026
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",78.5,70.1,71.3,94.1,76,71494.24134125,11.8,⚠️  Precisión aceptable,Bogotá D.C.,2026
+9,"Agricultura, ganadería, caza, silvicultura y pesca",77.9,65.3,71.2,97.1,35,29421.70585095,19.5,⚠️⚠️ Precisión baja,Bogotá D.C.,2026
+5,Construcción,68.9,54.9,61.0,90.8,262,242876.2191702,8.9,⚠️  Precisión aceptable,Bogotá D.C.,2026
+7,Industrias manufactureras,68.7,63.8,49.6,92.8,559,508785.188056875,5.0,✅ Precisión alta,Bogotá D.C.,2026
+6,Comercio y reparación de vehículos,65.5,53.2,50.8,92.5,814,754479.164126675,5.2,✅ Precisión alta,Bogotá D.C.,2026
+3,Transporte y almacenamiento,65.4,54.7,52.2,89.3,350,331889.8447784,7.7,⚠️  Precisión aceptable,Bogotá D.C.,2026
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",62.8,45.8,48.9,93.6,390,351230.799570175,8.7,⚠️  Precisión aceptable,Bogotá D.C.,2026
+8,Alojamiento y servicios de comida,54.8,32.7,44.2,87.3,252,235193.374798275,14.3,⚠️  Precisión aceptable,Bogotá D.C.,2026
+4,Actividades financieras y de seguros,93.0,87.6,91.7,99.5,93,15558.882979965,6.2,✅ Precisión alta,Bucaramanga A.M.,2026
+3,"Administración pública y defensa, educación y atención de la salud humana",92.3,90.6,86.4,99.9,634,104432.5543128,2.0,✅ Precisión alta,Bucaramanga A.M.,2026
+5,Información y comunicaciones,92.3,94.4,84.5,97.9,76,9627.1313955,4.4,✅ Precisión alta,Bucaramanga A.M.,2026
+10,Actividades inmobiliarias,85.0,78.5,78.0,98.5,85,14273.0461962325,9.0,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",82.3,76.7,71.2,98.9,56,8896.28401143,11.6,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+12,"Agricultura, ganadería, caza, silvicultura y pesca",77.4,72.4,59.7,100.0,68,12730.013534835,11.8,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",76.9,65.7,65.8,99.2,430,63416.7956264175,5.5,✅ Precisión alta,Bucaramanga A.M.,2026
+9,Construcción,66.5,49.8,52.1,97.7,220,35381.7184564175,10.7,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+0,Comercio y reparación de vehículos,65.6,44.5,55.9,96.4,833,125350.5189638075,6.1,✅ Precisión alta,Bucaramanga A.M.,2026
+7,Industrias manufactureras,65.0,50.9,46.2,97.9,486,79044.4025225275,7.0,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+2,Transporte y almacenamiento,57.7,34.1,42.8,96.1,357,52093.1369495575,11.6,⚠️  Precisión aceptable,Bucaramanga A.M.,2026
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",55.4,25.7,45.9,94.6,283,40885.3640320975,16.0,⚠️⚠️ Precisión baja,Bucaramanga A.M.,2026
+8,Alojamiento y servicios de comida,53.9,28.2,39.8,93.7,271,37196.113624405,15.3,⚠️⚠️ Precisión baja,Bucaramanga A.M.,2026
+0,Actividades financieras y de seguros,94.0,91.0,91.1,100.0,105,29425.29210777,4.9,✅ Precisión alta,Cali A.M.,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",90.0,88.3,82.3,99.5,565,148960.57794841874,2.4,✅ Precisión alta,Cali A.M.,2026
+11,Actividades inmobiliarias,89.2,90.7,76.9,100.0,78,20259.3068780375,5.7,✅ Precisión alta,Cali A.M.,2026
+12,Información y comunicaciones,86.8,81.1,80.1,99.1,86,23753.8236856425,8.2,⚠️  Precisión aceptable,Cali A.M.,2026
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",75.7,69.8,58.5,98.7,74,15567.208795876,12.1,⚠️  Precisión aceptable,Cali A.M.,2026
+4,Industrias manufactureras,75.6,66.3,63.8,96.6,706,176115.1338143785,4.2,✅ Precisión alta,Cali A.M.,2026
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",71.6,56.6,61.7,96.5,424,112730.646361837,6.7,✅ Precisión alta,Cali A.M.,2026
+6,Comercio y reparación de vehículos,62.6,46.0,48.1,93.8,885,240907.797652241,5.8,✅ Precisión alta,Cali A.M.,2026
+10,Construcción,54.0,31.7,44.8,85.5,292,77303.3149455135,13.6,⚠️  Precisión aceptable,Cali A.M.,2026
+9,Transporte y almacenamiento,53.0,30.8,38.6,89.7,354,81596.7666589715,12.6,⚠️  Precisión aceptable,Cali A.M.,2026
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.9,26.2,35.7,93.8,448,120589.483709072,12.5,⚠️  Precisión aceptable,Cali A.M.,2026
+2,Alojamiento y servicios de comida,51.8,24.4,40.1,90.8,297,83301.01770650275,16.1,⚠️⚠️ Precisión baja,Cali A.M.,2026
+2,"Administración pública y defensa, educación y atención de la salud humana",90.2,89.2,81.7,99.8,556,59877.438953555,2.3,✅ Precisión alta,Cartagena,2026
+10,Actividades financieras y de seguros,87.4,78.7,83.4,100.0,52,5471.0822703275,11.4,⚠️  Precisión aceptable,Cartagena,2026
+9,Actividades inmobiliarias,81.8,80.6,66.2,98.5,73,8262.9431800475,9.1,⚠️  Precisión aceptable,Cartagena,2026
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",78.2,78.0,61.4,95.3,65,7385.156459165,10.4,⚠️  Precisión aceptable,Cartagena,2026
+5,Industrias manufactureras,71.9,61.3,54.7,99.5,333,35827.8780583975,6.9,✅ Precisión alta,Cartagena,2026
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",69.2,51.6,58.6,97.5,342,36042.840648,8.3,⚠️  Precisión aceptable,Cartagena,2026
+3,Transporte y almacenamiento,58.1,35.9,40.8,97.5,556,59712.614392115,9.0,⚠️  Precisión aceptable,Cartagena,2026
+7,Alojamiento y servicios de comida,58.0,41.8,34.5,97.6,428,44820.0847635375,9.0,⚠️  Precisión aceptable,Cartagena,2026
+0,Comercio y reparación de vehículos,55.3,34.7,34.2,97.0,708,75984.94842444,8.2,⚠️  Precisión aceptable,Cartagena,2026
+6,Construcción,53.9,33.0,31.9,96.8,280,29440.9166326425,13.5,⚠️  Precisión aceptable,Cartagena,2026
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",47.2,18.6,26.2,96.8,406,41923.980114435,16.4,⚠️⚠️ Precisión baja,Cartagena,2026
+7,"Administración pública y defensa, educación y atención de la salud humana",90.2,86.3,85.0,99.2,418,57110.0843799325,3.1,✅ Precisión alta,Cúcuta A.M.,2026
+11,Actividades inmobiliarias,83.6,66.5,84.4,100.0,38,5488.16390004,18.2,⚠️⚠️ Precisión baja,Cúcuta A.M.,2026
+10,Información y comunicaciones,80.0,65.8,78.8,95.3,40,5534.8837909925,18.0,⚠️⚠️ Precisión baja,Cúcuta A.M.,2026
+9,Actividades financieras y de seguros,76.1,57.4,78.9,92.1,52,6587.145662925,18.9,⚠️⚠️ Precisión baja,Cúcuta A.M.,2026
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",65.9,54.5,52.3,91.0,75,10223.3310236325,16.7,⚠️⚠️ Precisión baja,Cúcuta A.M.,2026
+0,Comercio y reparación de vehículos,60.3,37.5,50.0,93.5,788,105295.4702726725,7.3,⚠️  Precisión aceptable,Cúcuta A.M.,2026
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",58.8,36.3,43.3,96.9,296,39125.644284085,12.2,⚠️  Precisión aceptable,Cúcuta A.M.,2026
+4,Industrias manufactureras,56.0,32.8,44.4,90.9,442,59089.2853471175,10.8,⚠️  Precisión aceptable,Cúcuta A.M.,2026
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",48.9,21.4,35.6,89.8,314,37831.5343424625,17.1,⚠️⚠️ Precisión baja,Cúcuta A.M.,2026
+1,Transporte y almacenamiento,44.3,16.0,25.8,91.1,281,34807.52342231,21.6,❌ No confiable,Cúcuta A.M.,2026
+8,Construcción,43.4,13.2,33.0,84.0,238,34590.003433925,26.3,❌ No confiable,Cúcuta A.M.,2026
+3,Alojamiento y servicios de comida,41.3,12.7,23.2,88.1,281,34105.969280175,24.7,❌ No confiable,Cúcuta A.M.,2026
+2,"Administración pública y defensa, educación y atención de la salud humana",93.8,93.3,88.1,100.0,564,13596.34051032575,1.8,✅ Precisión alta,Florencia,2026
+3,Comercio y reparación de vehículos,61.8,41.7,46.0,97.7,648,15743.01071791125,7.3,⚠️  Precisión aceptable,Florencia,2026
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",56.6,35.5,35.1,99.3,267,6303.65286679975,13.0,⚠️  Precisión aceptable,Florencia,2026
+5,Construcción,48.4,18.5,32.7,94.2,219,5587.24730266675,22.4,❌ No confiable,Florencia,2026
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",48.0,18.6,27.5,97.8,230,5403.38671981625,21.8,❌ No confiable,Florencia,2026
+4,Transporte y almacenamiento,46.3,18.5,24.3,96.2,239,6039.76856760075,21.5,❌ No confiable,Florencia,2026
+6,Alojamiento y servicios de comida,43.3,9.5,23.1,97.1,232,5149.3823700802495,32.0,❌ No confiable,Florencia,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",94.4,94.3,88.9,100.0,656,31785.338764261,1.5,✅ Precisión alta,Ibagué,2026
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",85.9,80.7,77.0,100.0,107,5373.8578925775,7.5,⚠️  Precisión aceptable,Ibagué,2026
+2,Industrias manufactureras,67.6,45.7,58.0,98.9,233,12424.78043770675,11.3,⚠️  Precisión aceptable,Ibagué,2026
+3,Comercio y reparación de vehículos,64.4,44.4,49.4,99.3,582,29389.10498716425,7.3,⚠️  Precisión aceptable,Ibagué,2026
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",63.6,45.3,45.8,99.8,319,15151.228968305,9.7,⚠️  Precisión aceptable,Ibagué,2026
+5,Transporte y almacenamiento,60.8,41.4,41.5,99.6,235,12148.163431008,12.3,⚠️  Precisión aceptable,Ibagué,2026
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",54.2,25.5,39.5,97.5,190,9295.876986020001,19.6,⚠️⚠️ Precisión baja,Ibagué,2026
+0,Construcción,53.5,24.4,36.9,99.2,244,12803.68615936025,17.8,⚠️⚠️ Precisión baja,Ibagué,2026
+4,Alojamiento y servicios de comida,46.2,15.2,23.9,99.5,236,12048.542590079,24.3,❌ No confiable,Ibagué,2026
+2,"Administración pública y defensa, educación y atención de la salud humana",94.1,94.2,88.4,99.7,802,41192.732629225,1.4,✅ Precisión alta,Manizales A.M.,2026
+5,Información y comunicaciones,91.8,90.3,86.5,98.6,131,6660.1464521275,4.5,✅ Precisión alta,Manizales A.M.,2026
+9,Actividades financieras y de seguros,89.8,90.3,80.8,98.3,114,5778.8559242195,4.9,✅ Precisión alta,Manizales A.M.,2026
+1,Industrias manufactureras,85.6,83.0,74.8,99.0,643,32387.96911414875,2.8,✅ Precisión alta,Manizales A.M.,2026
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",80.0,72.0,69.0,99.1,560,27541.783390717,4.2,✅ Precisión alta,Manizales A.M.,2026
+6,Construcción,72.0,57.1,66.2,92.8,326,17352.361277037,7.6,⚠️  Precisión aceptable,Manizales A.M.,2026
+8,Transporte y almacenamiento,71.6,59.1,57.8,98.0,307,15146.75211413975,7.5,⚠️  Precisión aceptable,Manizales A.M.,2026
+4,Comercio y reparación de vehículos,66.2,49.1,52.0,97.4,885,44496.73453678375,5.4,✅ Precisión alta,Manizales A.M.,2026
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",59.3,37.4,44.5,96.1,437,21694.9238806445,9.8,⚠️  Precisión aceptable,Manizales A.M.,2026
+7,Alojamiento y servicios de comida,55.6,32.3,40.1,94.3,371,19113.59041256425,11.9,⚠️  Precisión aceptable,Manizales A.M.,2026
+11,Actividades financieras y de seguros,94.6,97.8,87.5,98.3,140,59610.415206519996,2.0,✅ Precisión alta,Medellín A.M.,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",91.0,90.4,83.6,99.0,663,279012.779084975,2.0,✅ Precisión alta,Medellín A.M.,2026
+5,Información y comunicaciones,90.4,88.5,83.8,98.9,145,57903.3476096,4.7,✅ Precisión alta,Medellín A.M.,2026
+8,Actividades inmobiliarias,88.1,91.6,72.7,100.0,107,41578.8416889125,4.6,✅ Precisión alta,Medellín A.M.,2026
+4,Industrias manufactureras,76.6,71.4,61.1,97.4,764,329516.42396847,3.6,✅ Precisión alta,Medellín A.M.,2026
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",75.2,66.7,64.2,94.6,567,240510.18054377,4.7,✅ Precisión alta,Medellín A.M.,2026
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",72.6,66.1,56.5,95.3,102,41526.4479280475,11.2,⚠️  Precisión aceptable,Medellín A.M.,2026
+1,Comercio y reparación de vehículos,67.5,56.2,51.8,94.3,955,382998.03380139,4.5,✅ Precisión alta,Medellín A.M.,2026
+12,"Agricultura, ganadería, caza, silvicultura y pesca",64.9,52.1,45.1,97.6,45,22121.726783825,22.6,❌ No confiable,Medellín A.M.,2026
+7,Construcción,63.9,51.4,52.2,88.2,371,158443.7063665825,8.0,⚠️  Precisión aceptable,Medellín A.M.,2026
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",63.1,41.0,52.4,96.0,472,176011.52167801,8.7,⚠️  Precisión aceptable,Medellín A.M.,2026
+6,Transporte y almacenamiento,62.8,43.1,53.9,91.6,484,194803.53868254,8.3,⚠️  Precisión aceptable,Medellín A.M.,2026
+9,Alojamiento y servicios de comida,58.6,40.1,44.8,91.0,378,143526.736943785,9.9,⚠️  Precisión aceptable,Medellín A.M.,2026
+5,"Administración pública y defensa, educación y atención de la salud humana",90.2,88.7,81.8,99.9,553,37327.148678893,2.4,✅ Precisión alta,Montería,2026
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",66.2,48.5,51.2,98.7,193,12881.5576765615,11.7,⚠️  Precisión aceptable,Montería,2026
+2,Comercio y reparación de vehículos,57.8,37.8,36.7,98.9,588,36824.73251221075,8.4,⚠️  Precisión aceptable,Montería,2026
+6,Industrias manufactureras,57.3,37.5,34.3,100.0,196,12900.14632581875,14.6,⚠️  Precisión aceptable,Montería,2026
+0,Construcción,48.8,24.3,23.4,98.7,188,12132.240104011,20.4,❌ No confiable,Montería,2026
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",43.8,14.4,18.7,98.2,332,21437.58556767525,21.2,❌ No confiable,Montería,2026
+7,Transporte y almacenamiento,42.5,14.4,15.5,97.6,246,15826.24549257425,24.6,❌ No confiable,Montería,2026
+3,Alojamiento y servicios de comida,40.7,12.3,14.1,95.7,267,17415.46276336175,25.8,❌ No confiable,Montería,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",86.4,85.5,74.9,98.9,798,32612.64052353975,2.3,✅ Precisión alta,Pasto,2026
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",55.4,35.7,34.2,96.2,365,15109.95981507825,11.1,⚠️  Precisión aceptable,Pasto,2026
+2,Construcción,54.9,38.6,30.4,95.6,162,6720.662115795,15.7,⚠️⚠️ Precisión baja,Pasto,2026
+0,Comercio y reparación de vehículos,53.7,36.9,27.4,96.6,886,36949.1662918155,6.9,✅ Precisión alta,Pasto,2026
+7,Industrias manufactureras,45.4,23.8,19.1,93.2,296,12217.1290228245,16.4,⚠️⚠️ Precisión baja,Pasto,2026
+5,Alojamiento y servicios de comida,44.1,18.3,19.4,94.7,304,13139.30001842875,19.2,⚠️⚠️ Precisión baja,Pasto,2026
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",43.8,16.2,19.5,95.7,331,13538.43195063825,19.8,⚠️⚠️ Precisión baja,Pasto,2026
+4,Transporte y almacenamiento,42.5,18.9,13.4,95.3,371,15927.796215075,17.0,⚠️⚠️ Precisión baja,Pasto,2026
+10,Actividades financieras y de seguros,91.9,90.6,86.5,98.7,65,5234.3552279325,6.3,✅ Precisión alta,Pereira A.M.,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",90.2,90.9,81.1,98.6,660,46888.481665549,1.9,✅ Precisión alta,Pereira A.M.,2026
+5,Información y comunicaciones,88.1,87.4,79.1,97.9,98,7899.08002713375,6.1,✅ Precisión alta,Pereira A.M.,2026
+6,Actividades inmobiliarias,82.1,81.6,65.9,98.9,82,5495.707152965,8.3,⚠️  Precisión aceptable,Pereira A.M.,2026
+4,Industrias manufactureras,76.6,71.7,60.6,97.3,506,36445.9223801865,4.4,✅ Precisión alta,Pereira A.M.,2026
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",74.8,65.8,60.8,97.7,476,33592.26870703575,5.2,✅ Precisión alta,Pereira A.M.,2026
+2,Comercio y reparación de vehículos,68.4,54.1,54.2,96.8,845,61528.237292876,5.0,✅ Precisión alta,Pereira A.M.,2026
+11,"Agricultura, ganadería, caza, silvicultura y pesca",65.0,53.0,42.7,99.4,87,6689.528232668,16.0,⚠️⚠️ Precisión baja,Pereira A.M.,2026
+3,Construcción,63.6,47.8,47.4,95.6,297,20201.78706906825,9.6,⚠️  Precisión aceptable,Pereira A.M.,2026
+9,Transporte y almacenamiento,61.9,50.8,40.0,94.9,318,24595.860376179,8.7,⚠️  Precisión aceptable,Pereira A.M.,2026
+8,Alojamiento y servicios de comida,59.5,42.5,41.4,94.7,333,22954.5197273825,10.1,⚠️  Precisión aceptable,Pereira A.M.,2026
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",56.9,33.4,43.6,93.6,376,26797.227137979,11.5,⚠️  Precisión aceptable,Pereira A.M.,2026
+5,"Administración pública y defensa, educación y atención de la salud humana",91.5,89.9,84.9,99.9,698,30270.069810295,2.0,✅ Precisión alta,Popayán,2026
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",63.2,40.8,50.8,97.9,215,9634.9599181865,13.0,⚠️  Precisión aceptable,Popayán,2026
+3,Comercio y reparación de vehículos,56.3,34.1,37.7,97.2,586,24748.10224890125,9.1,⚠️  Precisión aceptable,Popayán,2026
+7,Construcción,53.7,25.2,38.0,97.8,156,6741.83308751325,21.8,❌ No confiable,Popayán,2026
+4,Industrias manufactureras,52.0,28.6,29.3,98.0,171,7233.04036885975,19.1,⚠️⚠️ Precisión baja,Popayán,2026
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",49.5,23.1,27.7,97.6,264,11531.6430623,17.8,⚠️⚠️ Precisión baja,Popayán,2026
+1,Transporte y almacenamiento,42.8,17.7,15.3,95.5,256,10845.4266373465,21.3,❌ No confiable,Popayán,2026
+2,Alojamiento y servicios de comida,41.1,8.5,18.8,96.0,267,10960.95339834625,31.7,❌ No confiable,Popayán,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",94.8,91.9,92.6,99.9,673,9339.870552461,1.8,✅ Precisión alta,Quibdó,2026
+2,Comercio y reparación de vehículos,57.1,34.8,38.4,98.2,439,6606.55339158975,10.3,⚠️  Precisión aceptable,Quibdó,2026
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",46.2,18.9,21.3,98.3,341,5095.125832545,17.7,⚠️⚠️ Precisión baja,Quibdó,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",92.6,91.8,85.9,100.0,519,12279.6992090995,2.1,✅ Precisión alta,Riohacha,2026
+1,Comercio y reparación de vehículos,49.6,23.6,27.7,97.4,467,11489.3212742795,13.2,⚠️  Precisión aceptable,Riohacha,2026
+5,Construcción,46.5,19.5,24.7,95.4,212,5314.79211670575,22.1,❌ No confiable,Riohacha,2026
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",44.7,13.7,23.9,96.4,306,7448.48692835925,22.7,❌ No confiable,Riohacha,2026
+4,Alojamiento y servicios de comida,44.1,12.2,22.9,97.4,238,5635.16205375275,27.5,❌ No confiable,Riohacha,2026
+2,Transporte y almacenamiento,40.9,7.6,21.1,93.9,308,7634.432737103,31.4,❌ No confiable,Riohacha,2026
+0,Alojamiento y servicios de comida,83.7,84.6,66.6,100.0,343,5446.45251540225,3.6,✅ Precisión alta,San Andrés,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",91.7,91.8,83.1,100.0,182,5759.6730673635,3.5,✅ Precisión alta,San José del Guaviare,2026
+3,"Administración pública y defensa, educación y atención de la salud humana",89.3,87.4,81.2,99.3,465,28368.343847075,2.8,✅ Precisión alta,Santa Marta,2026
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",78.4,78.5,59.0,97.8,91,5792.2370317425,8.7,⚠️  Precisión aceptable,Santa Marta,2026
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",61.9,40.3,48.7,96.6,311,19528.3176389725,10.9,⚠️  Precisión aceptable,Santa Marta,2026
+2,Industrias manufactureras,61.6,42.5,44.5,97.9,193,12246.0039825625,13.2,⚠️  Precisión aceptable,Santa Marta,2026
+0,Comercio y reparación de vehículos,55.8,33.0,38.1,96.3,690,42815.640517245,8.6,⚠️  Precisión aceptable,Santa Marta,2026
+6,Alojamiento y servicios de comida,53.3,33.2,32.2,94.5,376,23704.9079641375,11.6,⚠️  Precisión aceptable,Santa Marta,2026
+5,Construcción,53.2,28.0,35.1,96.6,291,18275.46338847125,14.9,⚠️  Precisión aceptable,Santa Marta,2026
+1,Transporte y almacenamiento,52.1,23.1,36.9,96.4,381,24666.552153175,14.8,⚠️  Precisión aceptable,Santa Marta,2026
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",46.2,15.9,24.8,97.9,327,20307.130246385,20.1,❌ No confiable,Santa Marta,2026
+4,"Administración pública y defensa, educación y atención de la salud humana",88.4,88.5,76.8,100.0,583,21344.182418059,2.4,✅ Precisión alta,Sincelejo,2026
+2,Comercio y reparación de vehículos,51.7,27.5,28.2,99.4,786,29111.43519012325,9.2,⚠️  Precisión aceptable,Sincelejo,2026
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",50.8,22.4,32.0,98.2,203,7295.57323337225,20.7,❌ No confiable,Sincelejo,2026
+0,Industrias manufactureras,48.3,22.5,23.1,99.2,256,9344.039944581,18.3,⚠️⚠️ Precisión baja,Sincelejo,2026
+6,Construcción,42.9,17.3,13.0,98.3,204,7647.70198014725,24.2,❌ No confiable,Sincelejo,2026
+5,Transporte y almacenamiento,39.6,9.0,9.8,100.0,391,14902.243198221,25.4,❌ No confiable,Sincelejo,2026
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",39.4,8.7,10.4,99.3,403,14145.25613196875,25.5,❌ No confiable,Sincelejo,2026
+3,Alojamiento y servicios de comida,39.1,7.9,10.1,99.4,264,9753.74540922425,33.2,❌ No confiable,Sincelejo,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",95.5,94.3,92.6,99.7,855,24489.093251221,1.3,✅ Precisión alta,Tunja,2026
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",73.6,61.2,61.4,98.2,293,8058.28787089225,7.4,⚠️  Precisión aceptable,Tunja,2026
+3,Construcción,69.4,47.9,61.7,98.5,179,5322.739815562,12.3,⚠️  Precisión aceptable,Tunja,2026
+2,Comercio y reparación de vehículos,64.2,45.7,50.5,96.3,534,14573.853163675,7.5,⚠️  Precisión aceptable,Tunja,2026
+0,"Administración pública y defensa, educación y atención de la salud humana",89.7,88.2,80.8,100.0,542,38156.8483016225,2.5,✅ Precisión alta,Valledupar,2026
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",58.1,34.3,41.5,98.6,172,12480.7727657835,16.7,⚠️⚠️ Precisión baja,Valledupar,2026
+6,Comercio y reparación de vehículos,56.1,31.6,39.2,97.4,581,41387.39806817,9.7,⚠️  Precisión aceptable,Valledupar,2026
+4,Industrias manufactureras,51.8,27.9,32.3,95.2,189,12804.58512490075,18.5,⚠️⚠️ Precisión baja,Valledupar,2026
+5,Construcción,49.2,21.7,29.8,96.1,215,16535.6480894975,20.5,❌ No confiable,Valledupar,2026
+2,Transporte y almacenamiento,44.6,13.4,23.3,97.3,285,21266.039572256,23.8,❌ No confiable,Valledupar,2026
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",42.9,12.6,19.1,97.0,370,25487.3592938145,21.6,❌ No confiable,Valledupar,2026
+3,Alojamiento y servicios de comida,42.4,8.1,20.5,98.6,259,17159.223290487498,33.1,❌ No confiable,Valledupar,2026
+8,"Administración pública y defensa, educación y atención de la salud humana",89.0,87.1,81.2,98.9,572,42073.31073784,2.5,✅ Precisión alta,Villavicencio,2026
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",87.2,87.3,75.2,99.0,98,7643.8681267975,6.1,✅ Precisión alta,Villavicencio,2026
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",63.2,42.8,50.7,96.1,307,21965.846294735,10.4,⚠️  Precisión aceptable,Villavicencio,2026
+6,Construcción,58.1,33.1,52.4,89.0,281,21162.1370267475,13.4,⚠️  Precisión aceptable,Villavicencio,2026
+3,Comercio y reparación de vehículos,56.8,38.0,39.8,92.4,826,59853.3377163225,7.0,⚠️  Precisión aceptable,Villavicencio,2026
+5,Transporte y almacenamiento,56.3,31.5,42.3,95.0,285,21517.2731288425,13.8,⚠️  Precisión aceptable,Villavicencio,2026
+4,Industrias manufactureras,56.1,35.1,44.3,88.9,263,20004.5477318575,13.3,⚠️  Precisión aceptable,Villavicencio,2026
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",51.1,26.8,32.3,94.3,320,22305.6020245125,14.6,⚠️  Precisión aceptable,Villavicencio,2026
+2,Alojamiento y servicios de comida,45.5,16.5,31.8,88.1,363,25380.0397687625,18.7,⚠️⚠️ Precisión baja,Villavicencio,2026
+7,"Administración pública y defensa, educación y atención de la salud humana",90.8,88.0,84.5,100.0,158,14995.4588223275,4.6,✅ Precisión alta,Yopal,2026
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",76.6,64.7,65.0,100.0,69,6426.7366459775,14.1,⚠️  Precisión aceptable,Yopal,2026
+0,Transporte y almacenamiento,73.4,58.4,65.1,96.7,64,6888.32780042,16.7,⚠️⚠️ Precisión baja,Yopal,2026
+2,Industrias manufactureras,67.7,47.4,58.2,97.7,62,6424.103775965,21.2,❌ No confiable,Yopal,2026
+4,Comercio y reparación de vehículos,64.6,45.9,56.9,90.8,200,19046.86506703,12.1,⚠️  Precisión aceptable,Yopal,2026
+5,Construcción,57.6,32.2,43.5,97.0,70,7724.4251160525,27.4,❌ No confiable,Yopal,2026
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",49.5,24.5,27.5,96.5,57,5487.9248935175,36.8,❌ No confiable,Yopal,2026
+1,Alojamiento y servicios de comida,41.6,10.5,24.9,89.4,84,8138.41758951,50.4,❌ No confiable,Yopal,2026

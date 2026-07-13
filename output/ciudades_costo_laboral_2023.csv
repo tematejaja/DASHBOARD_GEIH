@@ -1,413 +1,227 @@
-index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,Ciudad,Año
-12,Actividades inmobiliarias,6200000,9548000,5.34,8.23,Arauca,2023
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.72,2.66,Arauca,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,Arauca,2023
-10,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,Arauca,2023
-11,Información y comunicaciones,1160000,1786400,1.0,1.54,Arauca,2023
-3,Construcción,900000,1386000,0.78,1.19,Arauca,2023
-9,Industrias manufactureras,900000,1386000,0.78,1.19,Arauca,2023
-1,Comercio y reparación de vehículos,800000,1232000,0.69,1.06,Arauca,2023
-7,Transporte y almacenamiento,750000,1155000,0.65,1.0,Arauca,2023
-4,Alojamiento y servicios de comida,700000,1078000,0.6,0.93,Arauca,2023
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.56,0.86,Arauca,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.52,0.8,Arauca,2023
-8,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.52,0.8,Arauca,2023
-2,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.98,3.05,Armenia,2023
-9,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Armenia,2023
-3,Información y comunicaciones,1500000,2310000,1.29,1.99,Armenia,2023
-7,Construcción,1200000,1848000,1.03,1.59,Armenia,2023
-11,Actividades inmobiliarias,1197000,1843380,1.03,1.59,Armenia,2023
-4,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Armenia,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,Armenia,2023
-0,Industrias manufactureras,1160000,1786400,1.0,1.54,Armenia,2023
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Armenia,2023
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Armenia,2023
-6,Transporte y almacenamiento,1160000,1786400,1.0,1.54,Armenia,2023
-8,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Armenia,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",990000,1524600,0.85,1.31,Armenia,2023
-8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,Barranquilla A.M.,2023
-7,Información y comunicaciones,1600000,2464000,1.38,2.12,Barranquilla A.M.,2023
-10,Actividades financieras y de seguros,1600000,2464000,1.38,2.12,Barranquilla A.M.,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,Barranquilla A.M.,2023
-1,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Barranquilla A.M.,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Barranquilla A.M.,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Barranquilla A.M.,2023
-2,Industrias manufactureras,1160000,1786400,1.0,1.54,Barranquilla A.M.,2023
-4,Transporte y almacenamiento,1100000,1694000,0.95,1.46,Barranquilla A.M.,2023
-9,Construcción,1000000,1540000,0.86,1.33,Barranquilla A.M.,2023
-3,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Barranquilla A.M.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",830000,1278200,0.72,1.1,Barranquilla A.M.,2023
-0,Alojamiento y servicios de comida,720000,1108800,0.62,0.96,Barranquilla A.M.,2023
-10,Actividades financieras y de seguros,3000000,4620000,2.59,3.98,Bogotá D.C.,2023
-7,"Administración pública y defensa, educación y atención de la salud humana",2700000,4158000,2.33,3.58,Bogotá D.C.,2023
-11,Información y comunicaciones,2700000,4158000,2.33,3.58,Bogotá D.C.,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.29,1.99,Bogotá D.C.,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1400000,2156000,1.21,1.86,Bogotá D.C.,2023
-2,Transporte y almacenamiento,1300000,2002000,1.12,1.73,Bogotá D.C.,2023
-9,Construcción,1300000,2002000,1.12,1.73,Bogotá D.C.,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.12,1.73,Bogotá D.C.,2023
-3,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Bogotá D.C.,2023
-0,Industrias manufactureras,1280000,1971200,1.1,1.7,Bogotá D.C.,2023
-1,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,Bogotá D.C.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,1.03,1.59,Bogotá D.C.,2023
-4,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,Bogotá D.C.,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Bucaramanga A.M.,2023
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.72,2.66,Bucaramanga A.M.,2023
-9,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Bucaramanga A.M.,2023
-10,Información y comunicaciones,2000000,3080000,1.72,2.66,Bucaramanga A.M.,2023
-11,Actividades inmobiliarias,1400000,2156000,1.21,1.86,Bucaramanga A.M.,2023
-8,Construcción,1200000,1848000,1.03,1.59,Bucaramanga A.M.,2023
-6,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,Bucaramanga A.M.,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,Bucaramanga A.M.,2023
-0,Transporte y almacenamiento,1160000,1786400,1.0,1.54,Bucaramanga A.M.,2023
-4,Industrias manufactureras,1160000,1786400,1.0,1.54,Bucaramanga A.M.,2023
-3,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Bucaramanga A.M.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,Bucaramanga A.M.,2023
-7,Alojamiento y servicios de comida,1050000,1617000,0.91,1.39,Bucaramanga A.M.,2023
-12,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Cali A.M.,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",1920000,2956800,1.66,2.55,Cali A.M.,2023
-8,Información y comunicaciones,1600000,2464000,1.38,2.12,Cali A.M.,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.12,1.73,Cali A.M.,2023
-4,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Cali A.M.,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.12,1.73,Cali A.M.,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.03,1.59,Cali A.M.,2023
-1,Industrias manufactureras,1200000,1848000,1.03,1.59,Cali A.M.,2023
-5,Construcción,1200000,1848000,1.03,1.59,Cali A.M.,2023
-7,Transporte y almacenamiento,1160000,1786400,1.0,1.54,Cali A.M.,2023
-0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Cali A.M.,2023
-2,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Cali A.M.,2023
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,Cali A.M.,2023
-4,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,Cartagena,2023
-3,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,Cartagena,2023
-10,Información y comunicaciones,1500000,2310000,1.29,1.99,Cartagena,2023
-12,Actividades inmobiliarias,1290000,1986600,1.11,1.71,Cartagena,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1260000,1940400,1.09,1.67,Cartagena,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Cartagena,2023
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Cartagena,2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,Cartagena,2023
-1,Transporte y almacenamiento,1000000,1540000,0.86,1.33,Cartagena,2023
-5,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Cartagena,2023
-6,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Cartagena,2023
-2,Construcción,900000,1386000,0.78,1.19,Cartagena,2023
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",750000,1155000,0.65,1.0,Cartagena,2023
-9,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Cúcuta A.M.,2023
-10,Actividades financieras y de seguros,1400000,2156000,1.21,1.86,Cúcuta A.M.,2023
-12,Información y comunicaciones,1300607,2002935,1.12,1.73,Cúcuta A.M.,2023
-11,Actividades inmobiliarias,1260000,1940400,1.09,1.67,Cúcuta A.M.,2023
-0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Cúcuta A.M.,2023
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Cúcuta A.M.,2023
-2,Industrias manufactureras,1160000,1786400,1.0,1.54,Cúcuta A.M.,2023
-6,Construcción,1100000,1694000,0.95,1.46,Cúcuta A.M.,2023
-4,Transporte y almacenamiento,1000000,1540000,0.86,1.33,Cúcuta A.M.,2023
-8,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.86,1.33,Cúcuta A.M.,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,Cúcuta A.M.,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.78,1.19,Cúcuta A.M.,2023
-7,Alojamiento y servicios de comida,800000,1232000,0.69,1.06,Cúcuta A.M.,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,Florencia,2023
-9,Actividades financieras y de seguros,1900000,2926000,1.64,2.52,Florencia,2023
-10,Actividades inmobiliarias,1500000,2310000,1.29,1.99,Florencia,2023
-12,Información y comunicaciones,1500000,2310000,1.29,1.99,Florencia,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,Florencia,2023
-8,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,Florencia,2023
-2,Comercio y reparación de vehículos,1100000,1694000,0.95,1.46,Florencia,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,Florencia,2023
-6,Industrias manufactureras,1000000,1540000,0.86,1.33,Florencia,2023
-7,Construcción,1000000,1540000,0.86,1.33,Florencia,2023
-4,Transporte y almacenamiento,900000,1386000,0.78,1.19,Florencia,2023
-5,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,Florencia,2023
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,Florencia,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Ibagué,2023
-11,Actividades financieras y de seguros,1800000,2772000,1.55,2.39,Ibagué,2023
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.47,2.26,Ibagué,2023
-9,Información y comunicaciones,1500000,2310000,1.29,1.99,Ibagué,2023
-12,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Ibagué,2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,Ibagué,2023
-0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Ibagué,2023
-2,Construcción,1160000,1786400,1.0,1.54,Ibagué,2023
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1150000,1771000,0.99,1.53,Ibagué,2023
-6,Transporte y almacenamiento,1000000,1540000,0.86,1.33,Ibagué,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.86,1.33,Ibagué,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,Ibagué,2023
-3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,Ibagué,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",1980000,3049200,1.71,2.63,Inírida,2023
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.29,1.99,Inírida,2023
-11,Actividades financieras y de seguros,1400000,2156000,1.21,1.86,Inírida,2023
-3,Información y comunicaciones,1200000,1848000,1.03,1.59,Inírida,2023
-1,Comercio y reparación de vehículos,1130000,1740200,0.97,1.5,Inírida,2023
-7,Industrias manufactureras,1100000,1694000,0.95,1.46,Inírida,2023
-6,Construcción,1000000,1540000,0.86,1.33,Inírida,2023
-2,Transporte y almacenamiento,900000,1386000,0.78,1.19,Inírida,2023
-4,Alojamiento y servicios de comida,840000,1293600,0.72,1.12,Inírida,2023
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,Inírida,2023
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.69,1.06,Inírida,2023
-0,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.52,0.8,Inírida,2023
-11,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Leticia,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,Leticia,2023
-4,Información y comunicaciones,1400000,2156000,1.21,1.86,Leticia,2023
-1,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,Leticia,2023
-9,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Leticia,2023
-2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Leticia,2023
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,Leticia,2023
-5,Industrias manufactureras,1000000,1540000,0.86,1.33,Leticia,2023
-8,Construcción,1000000,1540000,0.86,1.33,Leticia,2023
-3,Transporte y almacenamiento,900000,1386000,0.78,1.19,Leticia,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.69,1.06,Leticia,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",400000,616000,0.34,0.53,Leticia,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,Manizales A.M.,2023
-1,Información y comunicaciones,1800000,2772000,1.55,2.39,Manizales A.M.,2023
-11,Actividades financieras y de seguros,1800000,2772000,1.55,2.39,Manizales A.M.,2023
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",1347000,2074380,1.16,1.79,Manizales A.M.,2023
-5,Construcción,1200000,1848000,1.03,1.59,Manizales A.M.,2023
-4,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Manizales A.M.,2023
-3,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,Manizales A.M.,2023
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,Manizales A.M.,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Manizales A.M.,2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,Manizales A.M.,2023
-7,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Manizales A.M.,2023
-10,Actividades inmobiliarias,1160000,1786400,1.0,1.54,Manizales A.M.,2023
-9,Transporte y almacenamiento,1160000,1786400,1.0,1.54,Manizales A.M.,2023
-6,Actividades financieras y de seguros,2500000,3850000,2.16,3.32,Medellín A.M.,2023
-11,Información y comunicaciones,2300000,3542000,1.98,3.05,Medellín A.M.,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,Medellín A.M.,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.29,1.99,Medellín A.M.,2023
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.29,1.99,Medellín A.M.,2023
-7,Actividades inmobiliarias,1500000,2310000,1.29,1.99,Medellín A.M.,2023
-9,Construcción,1300000,2002000,1.12,1.73,Medellín A.M.,2023
-0,Industrias manufactureras,1300000,2002000,1.12,1.73,Medellín A.M.,2023
-5,Transporte y almacenamiento,1300000,2002000,1.12,1.73,Medellín A.M.,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,Medellín A.M.,2023
-3,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,Medellín A.M.,2023
-4,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,Medellín A.M.,2023
-8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,Medellín A.M.,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,Mitú,2023
-9,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Mitú,2023
-12,Actividades inmobiliarias,1500000,2310000,1.29,1.99,Mitú,2023
-3,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,Mitú,2023
-11,Información y comunicaciones,1300000,2002000,1.12,1.73,Mitú,2023
-8,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,Mitú,2023
-7,Industrias manufactureras,1160000,1786400,1.0,1.54,Mitú,2023
-5,Construcción,1100000,1694000,0.95,1.46,Mitú,2023
-1,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,Mitú,2023
-6,Transporte y almacenamiento,900000,1386000,0.78,1.19,Mitú,2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.78,1.19,Mitú,2023
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,Mitú,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",350000,539000,0.3,0.46,Mitú,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,Mocoa,2023
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",2200000,3388000,1.9,2.92,Mocoa,2023
-9,Industrias manufactureras,1200000,1848000,1.03,1.59,Mocoa,2023
-6,Construcción,1200000,1848000,1.03,1.59,Mocoa,2023
-10,Información y comunicaciones,1000000,1540000,0.86,1.33,Mocoa,2023
-0,Comercio y reparación de vehículos,900000,1386000,0.78,1.19,Mocoa,2023
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",650000,1001000,0.56,0.86,Mocoa,2023
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.56,0.86,Mocoa,2023
-5,Transporte y almacenamiento,600000,924000,0.52,0.8,Mocoa,2023
-8,Alojamiento y servicios de comida,600000,924000,0.52,0.8,Mocoa,2023
-4,"Agricultura, ganadería, caza, silvicultura y pesca",450000,693000,0.39,0.6,Mocoa,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,Montería,2023
-5,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,Montería,2023
-10,Información y comunicaciones,1200000,1848000,1.03,1.59,Montería,2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Montería,2023
-11,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Montería,2023
-12,Actividades inmobiliarias,1160000,1786400,1.0,1.54,Montería,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Montería,2023
-1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Montería,2023
-6,Industrias manufactureras,1000000,1540000,0.86,1.33,Montería,2023
-0,Construcción,900000,1386000,0.78,1.19,Montería,2023
-2,Transporte y almacenamiento,700000,1078000,0.6,0.93,Montería,2023
-7,Alojamiento y servicios de comida,700000,1078000,0.6,0.93,Montería,2023
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",660000,1016400,0.57,0.88,Montería,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,Pasto,2023
-7,Actividades financieras y de seguros,1875000,2887500,1.62,2.49,Pasto,2023
-11,Información y comunicaciones,1500000,2310000,1.29,1.99,Pasto,2023
-12,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Pasto,2023
-1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Pasto,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.86,1.33,Pasto,2023
-8,Construcción,1000000,1540000,0.86,1.33,Pasto,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",940000,1447600,0.81,1.25,Pasto,2023
-2,Industrias manufactureras,900000,1386000,0.78,1.19,Pasto,2023
-0,Alojamiento y servicios de comida,850000,1309000,0.73,1.13,Pasto,2023
-4,Transporte y almacenamiento,800000,1232000,0.69,1.06,Pasto,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",700000,1078000,0.6,0.93,Pasto,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.56,0.86,Pasto,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",2080000,3203200,1.79,2.76,Pereira A.M.,2023
-11,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Pereira A.M.,2023
-12,Información y comunicaciones,1500000,2310000,1.29,1.99,Pereira A.M.,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1250000,1925000,1.08,1.66,Pereira A.M.,2023
-0,Industrias manufactureras,1200000,1848000,1.03,1.59,Pereira A.M.,2023
-5,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Pereira A.M.,2023
-8,Construcción,1200000,1848000,1.03,1.59,Pereira A.M.,2023
-10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,Pereira A.M.,2023
-3,Transporte y almacenamiento,1200000,1848000,1.03,1.59,Pereira A.M.,2023
-1,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Pereira A.M.,2023
-4,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Pereira A.M.,2023
-2,Alojamiento y servicios de comida,1100000,1694000,0.95,1.46,Pereira A.M.,2023
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1100000,1694000,0.95,1.46,Pereira A.M.,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,Popayán,2023
-1,Información y comunicaciones,2000000,3080000,1.72,2.66,Popayán,2023
-9,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Popayán,2023
-12,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Popayán,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Popayán,2023
-2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Popayán,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,Popayán,2023
-10,Construcción,960000,1478400,0.83,1.27,Popayán,2023
-7,Industrias manufactureras,850000,1309000,0.73,1.13,Popayán,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",760000,1170400,0.66,1.01,Popayán,2023
-5,Transporte y almacenamiento,720000,1108800,0.62,0.96,Popayán,2023
-0,Alojamiento y servicios de comida,600000,924000,0.52,0.8,Popayán,2023
-11,"Agricultura, ganadería, caza, silvicultura y pesca",500000,770000,0.43,0.66,Popayán,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",1980000,3049200,1.71,2.63,Puerto Carreño,2023
-10,Actividades financieras y de seguros,1750000,2695000,1.51,2.32,Puerto Carreño,2023
-12,Información y comunicaciones,1500000,2310000,1.29,1.99,Puerto Carreño,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,Puerto Carreño,2023
-9,Industrias manufactureras,1120000,1724800,0.97,1.49,Puerto Carreño,2023
-5,Construcción,1100000,1694000,0.95,1.46,Puerto Carreño,2023
-2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Puerto Carreño,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,Puerto Carreño,2023
-11,Actividades inmobiliarias,800000,1232000,0.69,1.06,Puerto Carreño,2023
-3,Alojamiento y servicios de comida,750000,1155000,0.65,1.0,Puerto Carreño,2023
-1,Transporte y almacenamiento,700000,1078000,0.6,0.93,Puerto Carreño,2023
-7,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.52,0.8,Puerto Carreño,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.52,0.8,Puerto Carreño,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.98,3.05,Quibdó,2023
-7,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,Quibdó,2023
-12,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Quibdó,2023
-9,Información y comunicaciones,1300000,2002000,1.12,1.73,Quibdó,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Quibdó,2023
-2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Quibdó,2023
-4,Construcción,1000000,1540000,0.86,1.33,Quibdó,2023
-1,Transporte y almacenamiento,800000,1232000,0.69,1.06,Quibdó,2023
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",800000,1232000,0.69,1.06,Quibdó,2023
-8,Industrias manufactureras,750000,1155000,0.65,1.0,Quibdó,2023
-0,Alojamiento y servicios de comida,700000,1078000,0.6,0.93,Quibdó,2023
-3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,Quibdó,2023
-11,"Agricultura, ganadería, caza, silvicultura y pesca",400000,616000,0.34,0.53,Quibdó,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Riohacha,2023
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",1400000,2156000,1.21,1.86,Riohacha,2023
-9,Actividades financieras y de seguros,1350000,2079000,1.16,1.79,Riohacha,2023
-11,Información y comunicaciones,1300000,2002000,1.12,1.73,Riohacha,2023
-12,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Riohacha,2023
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Riohacha,2023
-2,Comercio y reparación de vehículos,850000,1309000,0.73,1.13,Riohacha,2023
-4,Transporte y almacenamiento,800000,1232000,0.69,1.06,Riohacha,2023
-0,Construcción,800000,1232000,0.69,1.06,Riohacha,2023
-3,"Agricultura, ganadería, caza, silvicultura y pesca",600000,924000,0.52,0.8,Riohacha,2023
-1,Alojamiento y servicios de comida,600000,924000,0.52,0.8,Riohacha,2023
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,Riohacha,2023
-7,Industrias manufactureras,500000,770000,0.43,0.66,Riohacha,2023
-8,"Administración pública y defensa, educación y atención de la salud humana",2600000,4004000,2.24,3.45,San Andrés,2023
-7,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,San Andrés,2023
-11,Información y comunicaciones,1600000,2464000,1.38,2.12,San Andrés,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.29,1.99,San Andrés,2023
-12,Construcción,1500000,2310000,1.29,1.99,San Andrés,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1400000,2156000,1.21,1.86,San Andrés,2023
-6,Industrias manufactureras,1400000,2156000,1.21,1.86,San Andrés,2023
-1,Actividades inmobiliarias,1300000,2002000,1.12,1.73,San Andrés,2023
-0,Comercio y reparación de vehículos,1300000,2002000,1.12,1.73,San Andrés,2023
-3,Alojamiento y servicios de comida,1300000,2002000,1.12,1.73,San Andrés,2023
-4,Transporte y almacenamiento,1250000,1925000,1.08,1.66,San Andrés,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,1.03,1.59,San Andrés,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,San Andrés,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,2.16,3.32,San José del Guaviare,2023
-2,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,San José del Guaviare,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1800000,2772000,1.55,2.39,San José del Guaviare,2023
-7,Información y comunicaciones,1200000,1848000,1.03,1.59,San José del Guaviare,2023
-6,Construcción,1160000,1786400,1.0,1.54,San José del Guaviare,2023
-4,Comercio y reparación de vehículos,1100000,1694000,0.95,1.46,San José del Guaviare,2023
-0,Industrias manufactureras,1000000,1540000,0.86,1.33,San José del Guaviare,2023
-9,Transporte y almacenamiento,940000,1447600,0.81,1.25,San José del Guaviare,2023
-12,Actividades inmobiliarias,850000,1309000,0.73,1.13,San José del Guaviare,2023
-1,Alojamiento y servicios de comida,800000,1232000,0.69,1.06,San José del Guaviare,2023
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.69,1.06,San José del Guaviare,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,San José del Guaviare,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",500000,770000,0.43,0.66,San José del Guaviare,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.64,2.52,Santa Marta,2023
-9,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,Santa Marta,2023
-10,Información y comunicaciones,1200000,1848000,1.03,1.59,Santa Marta,2023
-11,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Santa Marta,2023
-1,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Santa Marta,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,Santa Marta,2023
-3,Industrias manufactureras,1160000,1786400,1.0,1.54,Santa Marta,2023
-0,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Santa Marta,2023
-4,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Santa Marta,2023
-6,Construcción,1000000,1540000,0.86,1.33,Santa Marta,2023
-8,Transporte y almacenamiento,1000000,1540000,0.86,1.33,Santa Marta,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,Santa Marta,2023
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,Santa Marta,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Sincelejo,2023
-10,Actividades financieras y de seguros,1300000,2002000,1.12,1.73,Sincelejo,2023
-9,Información y comunicaciones,1200000,1848000,1.03,1.59,Sincelejo,2023
-12,Actividades inmobiliarias,1200000,1848000,1.03,1.59,Sincelejo,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Sincelejo,2023
-2,Comercio y reparación de vehículos,900000,1386000,0.78,1.19,Sincelejo,2023
-8,Construcción,800000,1232000,0.69,1.06,Sincelejo,2023
-0,Transporte y almacenamiento,750000,1155000,0.65,1.0,Sincelejo,2023
-6,Industrias manufactureras,650000,1001000,0.56,0.86,Sincelejo,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.52,0.8,Sincelejo,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,Sincelejo,2023
-5,Alojamiento y servicios de comida,550000,847000,0.47,0.73,Sincelejo,2023
-4,"Agricultura, ganadería, caza, silvicultura y pesca",450000,693000,0.39,0.6,Sincelejo,2023
-10,Actividades financieras y de seguros,2109000,3247860,1.82,2.8,Todas (Panorama Nacional),2023
-12,Información y comunicaciones,2000000,3080000,1.72,2.66,Todas (Panorama Nacional),2023
-0,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,Todas (Panorama Nacional),2023
-11,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Todas (Panorama Nacional),2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,Todas (Panorama Nacional),2023
-6,Construcción,1160000,1786400,1.0,1.54,Todas (Panorama Nacional),2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,Todas (Panorama Nacional),2023
-1,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Todas (Panorama Nacional),2023
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,Todas (Panorama Nacional),2023
-9,Transporte y almacenamiento,1100000,1694000,0.95,1.46,Todas (Panorama Nacional),2023
-3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,Todas (Panorama Nacional),2023
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",850000,1309000,0.73,1.13,Todas (Panorama Nacional),2023
-2,"Agricultura, ganadería, caza, silvicultura y pesca",700000,1078000,0.6,0.93,Todas (Panorama Nacional),2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,2.16,3.32,Tunja,2023
-0,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Tunja,2023
-7,Información y comunicaciones,1600000,2464000,1.38,2.12,Tunja,2023
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.03,1.59,Tunja,2023
-2,Construcción,1160000,1786400,1.0,1.54,Tunja,2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,Tunja,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Tunja,2023
-6,Transporte y almacenamiento,1160000,1786400,1.0,1.54,Tunja,2023
-5,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Tunja,2023
-11,Actividades inmobiliarias,1160000,1786400,1.0,1.54,Tunja,2023
-9,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.86,1.33,Tunja,2023
-4,Alojamiento y servicios de comida,985000,1516900,0.85,1.31,Tunja,2023
-10,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.78,1.19,Tunja,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",1600000,2464000,1.38,2.12,Valledupar,2023
-12,Actividades financieras y de seguros,1300000,2002000,1.12,1.73,Valledupar,2023
-9,Información y comunicaciones,1300000,2002000,1.12,1.73,Valledupar,2023
-10,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Valledupar,2023
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",1279000,1969660,1.1,1.7,Valledupar,2023
-3,Industrias manufactureras,1000000,1540000,0.86,1.33,Valledupar,2023
-1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,Valledupar,2023
-5,Construcción,900000,1386000,0.78,1.19,Valledupar,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.69,1.06,Valledupar,2023
-4,Transporte y almacenamiento,800000,1232000,0.69,1.06,Valledupar,2023
-8,Alojamiento y servicios de comida,800000,1232000,0.69,1.06,Valledupar,2023
-11,"Agricultura, ganadería, caza, silvicultura y pesca",800000,1232000,0.69,1.06,Valledupar,2023
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,Valledupar,2023
-2,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,Villavicencio,2023
-12,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,Villavicencio,2023
-6,"Agricultura, ganadería, caza, silvicultura y pesca",1350000,2079000,1.16,1.79,Villavicencio,2023
-10,Información y comunicaciones,1300000,2002000,1.12,1.73,Villavicencio,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,Villavicencio,2023
-11,Actividades inmobiliarias,1300000,2002000,1.12,1.73,Villavicencio,2023
-8,Construcción,1200000,1848000,1.03,1.59,Villavicencio,2023
-4,Transporte y almacenamiento,1200000,1848000,1.03,1.59,Villavicencio,2023
-0,Industrias manufactureras,1160000,1786400,1.0,1.54,Villavicencio,2023
-3,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,Villavicencio,2023
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Villavicencio,2023
-7,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Villavicencio,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,Villavicencio,2023
-7,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,2.16,3.32,Yopal,2023
-9,Actividades financieras y de seguros,1800000,2772000,1.55,2.39,Yopal,2023
-2,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.47,2.26,Yopal,2023
-12,Información y comunicaciones,1400000,2156000,1.21,1.86,Yopal,2023
-4,Industrias manufactureras,1300000,2002000,1.12,1.73,Yopal,2023
-11,Actividades inmobiliarias,1250000,1925000,1.08,1.66,Yopal,2023
-6,Construcción,1240000,1909600,1.07,1.65,Yopal,2023
-1,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,Yopal,2023
-5,Transporte y almacenamiento,1200000,1848000,1.03,1.59,Yopal,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,Yopal,2023
-0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,Yopal,2023
-3,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,Yopal,2023
-8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,Yopal,2023
+index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,poblacion_estimada,Ciudad,Año
+10,Actividades financieras y de seguros,2109000,3247860,1.82,2.8,5959,422256.85254753625,Todas (Panorama Nacional),2023
+12,Información y comunicaciones,2000000,3080000,1.72,2.66,5234,402938.5307994491,Todas (Panorama Nacional),2023
+0,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,53115,2738217.098890751,Todas (Panorama Nacional),2023
+11,Actividades inmobiliarias,1300000,2002000,1.12,1.73,3846,275264.3478003424,Todas (Panorama Nacional),2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,29421,1821921.3733385636,Todas (Panorama Nacional),2023
+6,Construcción,1160000,1786400,1.0,1.54,26372,1565360.7667884806,Todas (Panorama Nacional),2023
+8,Industrias manufactureras,1160000,1786400,1.0,1.54,32714,2401174.7162866294,Todas (Panorama Nacional),2023
+1,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,71916,4019701.2832782515,Todas (Panorama Nacional),2023
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,8573,589035.027426512,Todas (Panorama Nacional),2023
+9,Transporte y almacenamiento,1100000,1694000,0.95,1.46,30648,1706425.029282142,Todas (Panorama Nacional),2023
+3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,30293,1638978.5517470334,Todas (Panorama Nacional),2023
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",850000,1309000,0.73,1.13,34963,1924584.1330184906,Todas (Panorama Nacional),2023
+2,"Agricultura, ganadería, caza, silvicultura y pesca",700000,1078000,0.6,0.93,32731,3280425.5623712786,Todas (Panorama Nacional),2023
+6,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,337,5324.681482347583,Arauca,2023
+1,Comercio y reparación de vehículos,800000,1232000,0.69,1.06,426,7067.839439942167,Arauca,2023
+2,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.98,3.05,1538,21812.7318328925,Armenia,2023
+7,Construcción,1200000,1848000,1.03,1.59,784,11183.725147167082,Armenia,2023
+4,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2024,28012.31381524375,Armenia,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,871,11651.386934479417,Armenia,2023
+0,Industrias manufactureras,1160000,1786400,1.0,1.54,824,11658.716664098667,Armenia,2023
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,917,12475.256106466582,Armenia,2023
+6,Transporte y almacenamiento,1160000,1786400,1.0,1.54,594,8302.652405322417,Armenia,2023
+8,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,817,11030.001966369917,Armenia,2023
+8,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,1610,114200.32665673834,Barranquilla A.M.,2023
+7,Información y comunicaciones,1600000,2464000,1.38,2.12,242,18014.343602996665,Barranquilla A.M.,2023
+10,Actividades financieras y de seguros,1600000,2464000,1.38,2.12,254,18216.135279121667,Barranquilla A.M.,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,1162,79197.57252194833,Barranquilla A.M.,2023
+1,Actividades inmobiliarias,1200000,1848000,1.03,1.59,192,14031.371061185,Barranquilla A.M.,2023
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,229,15409.979314055834,Barranquilla A.M.,2023
+2,Industrias manufactureras,1160000,1786400,1.0,1.54,1522,108124.13538735083,Barranquilla A.M.,2023
+4,Transporte y almacenamiento,1100000,1694000,0.95,1.46,1204,88554.43118895084,Barranquilla A.M.,2023
+9,Construcción,1000000,1540000,0.86,1.33,944,64405.41496626667,Barranquilla A.M.,2023
+3,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2973,209491.03404346167,Barranquilla A.M.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",830000,1278200,0.72,1.1,1550,105420.45280243916,Barranquilla A.M.,2023
+0,Alojamiento y servicios de comida,720000,1108800,0.62,0.96,1059,73270.01763066417,Barranquilla A.M.,2023
+10,Actividades financieras y de seguros,3000000,4620000,2.59,3.98,504,163744.87434926667,Bogotá D.C.,2023
+7,"Administración pública y defensa, educación y atención de la salud humana",2700000,4158000,2.33,3.58,2131,687185.6542834083,Bogotá D.C.,2023
+11,Información y comunicaciones,2700000,4158000,2.33,3.58,488,164789.7826846,Bogotá D.C.,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.29,1.99,1785,568212.088762625,Bogotá D.C.,2023
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",1400000,2156000,1.21,1.86,247,80853.09532880834,Bogotá D.C.,2023
+2,Transporte y almacenamiento,1300000,2002000,1.12,1.73,1036,323765.5650022,Bogotá D.C.,2023
+9,Construcción,1300000,2002000,1.12,1.73,669,212022.48356599166,Bogotá D.C.,2023
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.12,1.73,70,20875.53825449167,Bogotá D.C.,2023
+3,Actividades inmobiliarias,1300000,2002000,1.12,1.73,268,84577.98285743334,Bogotá D.C.,2023
+0,Industrias manufactureras,1280000,1971200,1.1,1.7,1506,462254.4217332333,Bogotá D.C.,2023
+1,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,2353,739578.0510029333,Bogotá D.C.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,1.03,1.59,1028,317132.8207486917,Bogotá D.C.,2023
+4,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,743,224274.74287301666,Bogotá D.C.,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1835,87521.95229960083,Bucaramanga A.M.,2023
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",2000000,3080000,1.72,2.66,259,12387.167284031666,Bucaramanga A.M.,2023
+9,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,289,13316.75953063,Bucaramanga A.M.,2023
+10,Información y comunicaciones,2000000,3080000,1.72,2.66,242,10871.0930986825,Bucaramanga A.M.,2023
+11,Actividades inmobiliarias,1400000,2156000,1.21,1.86,211,11094.560876710833,Bucaramanga A.M.,2023
+8,Construcción,1200000,1848000,1.03,1.59,657,37129.821145823335,Bucaramanga A.M.,2023
+6,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,177,9668.934248141666,Bucaramanga A.M.,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,1272,56508.62390948167,Bucaramanga A.M.,2023
+0,Transporte y almacenamiento,1160000,1786400,1.0,1.54,1161,59333.6816129675,Bucaramanga A.M.,2023
+4,Industrias manufactureras,1160000,1786400,1.0,1.54,1622,71691.02302137834,Bucaramanga A.M.,2023
+3,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2781,131471.28031486334,Bucaramanga A.M.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,1062,49856.55854471917,Bucaramanga A.M.,2023
+7,Alojamiento y servicios de comida,1050000,1617000,0.91,1.39,927,43085.082882384166,Bucaramanga A.M.,2023
+12,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,297,23358.817114999918,Cali A.M.,2023
+6,"Administración pública y defensa, educación y atención de la salud humana",1920000,2956800,1.66,2.55,1970,152831.8747346495,Cali A.M.,2023
+8,Información y comunicaciones,1600000,2464000,1.38,2.12,240,20771.01221604825,Cali A.M.,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.12,1.73,1147,90656.977160914,Cali A.M.,2023
+4,Actividades inmobiliarias,1300000,2002000,1.12,1.73,254,20774.473668250834,Cali A.M.,2023
+10,"Agricultura, ganadería, caza, silvicultura y pesca",1300000,2002000,1.12,1.73,124,7913.851921785,Cali A.M.,2023
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",1200000,1848000,1.03,1.59,244,17920.437648702333,Cali A.M.,2023
+1,Industrias manufactureras,1200000,1848000,1.03,1.59,2367,170716.45813035333,Cali A.M.,2023
+5,Construcción,1200000,1848000,1.03,1.59,948,75697.76103237826,Cali A.M.,2023
+7,Transporte y almacenamiento,1160000,1786400,1.0,1.54,1203,85260.76006443825,Cali A.M.,2023
+0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2990,230275.26473518976,Cali A.M.,2023
+2,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,1095,87479.40086200234,Cali A.M.,2023
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,1593,124398.03430334391,Cali A.M.,2023
+4,"Administración pública y defensa, educación y atención de la salud humana",1800000,2772000,1.55,2.39,1621,52497.186618867,Cartagena,2023
+3,Actividades financieras y de seguros,1500000,2310000,1.29,1.99,193,6194.094318864167,Cartagena,2023
+12,Actividades inmobiliarias,1290000,1986600,1.11,1.71,211,6796.150737685,Cartagena,2023
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1260000,1940400,1.09,1.67,268,8613.035910035,Cartagena,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,1147,37171.823462017,Cartagena,2023
+8,Industrias manufactureras,1160000,1786400,1.0,1.54,1024,32277.472682435,Cartagena,2023
+1,Transporte y almacenamiento,1000000,1540000,0.86,1.33,1881,59461.111956821,Cartagena,2023
+5,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2630,83231.49205090167,Cartagena,2023
+6,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,1436,44847.85145774417,Cartagena,2023
+2,Construcción,900000,1386000,0.78,1.19,1154,35168.37011215583,Cartagena,2023
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",750000,1155000,0.65,1.0,1541,47870.98632028242,Cartagena,2023
+9,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1285,48576.486844018335,Cúcuta A.M.,2023
+10,Actividades financieras y de seguros,1400000,2156000,1.21,1.86,143,5182.972020878334,Cúcuta A.M.,2023
+0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2927,109560.67409098583,Cúcuta A.M.,2023
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,302,11515.296895564166,Cúcuta A.M.,2023
+2,Industrias manufactureras,1160000,1786400,1.0,1.54,1487,57406.0861396675,Cúcuta A.M.,2023
+6,Construcción,1100000,1694000,0.95,1.46,829,33437.9424371075,Cúcuta A.M.,2023
+4,Transporte y almacenamiento,1000000,1540000,0.86,1.33,821,32441.657568229166,Cúcuta A.M.,2023
+8,"Agricultura, ganadería, caza, silvicultura y pesca",1000000,1540000,0.86,1.33,118,5034.829977720833,Cúcuta A.M.,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,998,35681.65146482916,Cúcuta A.M.,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",900000,1386000,0.78,1.19,897,33426.25414233417,Cúcuta A.M.,2023
+7,Alojamiento y servicios de comida,800000,1232000,0.69,1.06,927,33986.960633413335,Cúcuta A.M.,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,1542,12296.425805979334,Florencia,2023
+2,Comercio y reparación de vehículos,1100000,1694000,0.95,1.46,1947,15546.051437997834,Florencia,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,720,5349.728682918417,Florencia,2023
+7,Construcción,1000000,1540000,0.86,1.33,602,5023.550297263583,Florencia,2023
+4,Transporte y almacenamiento,900000,1386000,0.78,1.19,659,5445.444075489917,Florencia,2023
+5,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,687,5011.21121389975,Florencia,2023
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,918,6760.846413618333,Florencia,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1539,24628.28407181075,Ibagué,2023
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.47,2.26,305,5339.04126701275,Ibagué,2023
+8,Industrias manufactureras,1160000,1786400,1.0,1.54,645,10300.4466252895,Ibagué,2023
+0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,1886,30272.009156321583,Ibagué,2023
+2,Construcción,1160000,1786400,1.0,1.54,772,12593.00472767375,Ibagué,2023
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1150000,1771000,0.99,1.53,988,15479.880212868084,Ibagué,2023
+6,Transporte y almacenamiento,1000000,1540000,0.86,1.33,686,11142.546320916917,Ibagué,2023
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,724,11302.949236952833,Ibagué,2023
+3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,706,11097.174383940583,Ibagué,2023
+0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,2233,36263.579061485914,Manizales A.M.,2023
+1,Información y comunicaciones,1800000,2772000,1.55,2.39,384,6424.183074019833,Manizales A.M.,2023
+5,Construcción,1200000,1848000,1.03,1.59,975,16336.280431458334,Manizales A.M.,2023
+4,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2438,39147.433983960414,Manizales A.M.,2023
+3,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,924,15123.776538451,Manizales A.M.,2023
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,1269,19637.349505495833,Manizales A.M.,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,1868,29854.12110435925,Manizales A.M.,2023
+8,Industrias manufactureras,1160000,1786400,1.0,1.54,2072,32941.94583541125,Manizales A.M.,2023
+9,Transporte y almacenamiento,1160000,1786400,1.0,1.54,801,12720.30862363425,Manizales A.M.,2023
+6,Actividades financieras y de seguros,2500000,3850000,2.16,3.32,414,56390.8709763,Medellín A.M.,2023
+11,Información y comunicaciones,2300000,3542000,1.98,3.05,410,51710.639856303336,Medellín A.M.,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,1950,242507.43446503166,Medellín A.M.,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1500000,2310000,1.29,1.99,1809,217781.10478085416,Medellín A.M.,2023
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",1500000,2310000,1.29,1.99,269,32746.868807364168,Medellín A.M.,2023
+7,Actividades inmobiliarias,1500000,2310000,1.29,1.99,315,38584.712215663334,Medellín A.M.,2023
+9,Construcción,1300000,2002000,1.12,1.73,1196,138927.29892043083,Medellín A.M.,2023
+0,Industrias manufactureras,1300000,2002000,1.12,1.73,2638,336966.416936615,Medellín A.M.,2023
+5,Transporte y almacenamiento,1300000,2002000,1.12,1.73,1289,154687.94305465667,Medellín A.M.,2023
+12,"Agricultura, ganadería, caza, silvicultura y pesca",1200000,1848000,1.03,1.59,94,11622.832597489167,Medellín A.M.,2023
+3,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,3344,399108.24718357,Medellín A.M.,2023
+4,Alojamiento y servicios de comida,1160000,1786400,1.0,1.54,1122,134410.8499017125,Medellín A.M.,2023
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,1517,179179.04131682834,Medellín A.M.,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,1482,31277.31613686992,Montería,2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,602,13530.073972286333,Montería,2023
+1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,1840,38807.410181533836,Montería,2023
+6,Industrias manufactureras,1000000,1540000,0.86,1.33,533,10750.361629616333,Montería,2023
+0,Construcción,900000,1386000,0.78,1.19,563,11641.221347508,Montería,2023
+2,Transporte y almacenamiento,700000,1078000,0.6,0.93,906,19175.188615640665,Montería,2023
+7,Alojamiento y servicios de comida,700000,1078000,0.6,0.93,729,14041.761638558084,Montería,2023
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",660000,1016400,0.57,0.88,1144,22650.821333999418,Montería,2023
+6,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,2271,31066.518725857084,Pasto,2023
+1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2918,38610.319832071415,Pasto,2023
+8,Construcción,1000000,1540000,0.86,1.33,562,7913.5519542415,Pasto,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",940000,1447600,0.81,1.25,1114,14924.349748106,Pasto,2023
+2,Industrias manufactureras,900000,1386000,0.78,1.19,843,11342.195389793333,Pasto,2023
+0,Alojamiento y servicios de comida,850000,1309000,0.73,1.13,866,11049.586654696333,Pasto,2023
+4,Transporte y almacenamiento,800000,1232000,0.69,1.06,1085,14754.588039659666,Pasto,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",650000,1001000,0.56,0.86,1193,15203.519051250083,Pasto,2023
+6,"Administración pública y defensa, educación y atención de la salud humana",2080000,3203200,1.79,2.76,1862,40042.855690996665,Pereira A.M.,2023
+11,Actividades financieras y de seguros,2000000,3080000,1.72,2.66,235,5066.764994237583,Pereira A.M.,2023
+12,Información y comunicaciones,1500000,2310000,1.29,1.99,325,6880.184155723,Pereira A.M.,2023
+0,Industrias manufactureras,1200000,1848000,1.03,1.59,1569,37183.2479477755,Pereira A.M.,2023
+8,Construcción,1200000,1848000,1.03,1.59,1080,24756.5988886555,Pereira A.M.,2023
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1200000,1848000,1.03,1.59,1510,32733.220247523415,Pereira A.M.,2023
+3,Transporte y almacenamiento,1200000,1848000,1.03,1.59,838,20258.798276739668,Pereira A.M.,2023
+1,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2695,61614.51088520617,Pereira A.M.,2023
+4,"Agricultura, ganadería, caza, silvicultura y pesca",1160000,1786400,1.0,1.54,231,5914.582893161083,Pereira A.M.,2023
+2,Alojamiento y servicios de comida,1100000,1694000,0.95,1.46,1024,23849.21644277175,Pereira A.M.,2023
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1100000,1694000,0.95,1.46,1252,27085.521800351835,Pereira A.M.,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",2400000,3696000,2.07,3.19,2238,28587.9845383145,Popayán,2023
+2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2197,26351.88745601925,Popayán,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,887,10594.1473608045,Popayán,2023
+10,Construcción,960000,1478400,0.83,1.27,730,9313.492039286333,Popayán,2023
+7,Industrias manufactureras,850000,1309000,0.73,1.13,573,6975.290897534834,Popayán,2023
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",760000,1170400,0.66,1.01,1065,12527.902869106667,Popayán,2023
+5,Transporte y almacenamiento,720000,1108800,0.62,0.96,927,11512.425021936584,Popayán,2023
+0,Alojamiento y servicios de comida,600000,924000,0.52,0.8,1080,12714.0106849535,Popayán,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.98,3.05,1805,8366.413372649416,Quibdó,2023
+2,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,1471,6638.328785214,Quibdó,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1522,10525.323049805,Riohacha,2023
+2,Comercio y reparación de vehículos,850000,1309000,0.73,1.13,1800,12571.152589629666,Riohacha,2023
+4,Transporte y almacenamiento,800000,1232000,0.69,1.06,1038,7346.425925796833,Riohacha,2023
+1,Alojamiento y servicios de comida,600000,924000,0.52,0.8,781,5271.989287037167,Riohacha,2023
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,1095,7415.150959939583,Riohacha,2023
+3,Alojamiento y servicios de comida,1300000,2002000,1.12,1.73,1127,5183.289546114416,San Andrés,2023
+4,Comercio y reparación de vehículos,1100000,1694000,0.95,1.46,573,5372.4343489725,San José del Guaviare,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",1900000,2926000,1.64,2.52,1375,27708.39444979192,Santa Marta,2023
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",1160000,1786400,1.0,1.54,266,5487.95814203075,Santa Marta,2023
+3,Industrias manufactureras,1160000,1786400,1.0,1.54,621,12498.825752673083,Santa Marta,2023
+0,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,1163,23298.688107326834,Santa Marta,2023
+4,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2296,46193.3648952385,Santa Marta,2023
+6,Construcción,1000000,1540000,0.86,1.33,840,17311.456888776167,Santa Marta,2023
+8,Transporte y almacenamiento,1000000,1540000,0.86,1.33,1192,24925.944547229832,Santa Marta,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1000000,1540000,0.86,1.33,907,17991.492340322082,Santa Marta,2023
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,1182,23013.519390538833,Santa Marta,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1670,18613.110562060585,Sincelejo,2023
+2,Comercio y reparación de vehículos,900000,1386000,0.78,1.19,2189,24558.70692465925,Sincelejo,2023
+8,Construcción,800000,1232000,0.69,1.06,716,8370.3660623015,Sincelejo,2023
+0,Transporte y almacenamiento,750000,1155000,0.65,1.0,1337,15533.299684705,Sincelejo,2023
+6,Industrias manufactureras,650000,1001000,0.56,0.86,592,6370.623884143667,Sincelejo,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",600000,924000,0.52,0.8,660,7209.78209785975,Sincelejo,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,1174,12914.5897669965,Sincelejo,2023
+5,Alojamiento y servicios de comida,550000,847000,0.47,0.73,704,7784.57831054925,Sincelejo,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,2.16,3.32,2536,21785.71332293525,Tunja,2023
+2,Construcción,1160000,1786400,1.0,1.54,696,6250.703493864917,Tunja,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,939,8129.320620516167,Tunja,2023
+6,Transporte y almacenamiento,1160000,1786400,1.0,1.54,636,5508.7910886075,Tunja,2023
+5,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,1786,15037.77730428325,Tunja,2023
+10,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.78,1.19,684,5584.6771487535,Tunja,2023
+0,"Administración pública y defensa, educación y atención de la salud humana",1600000,2464000,1.38,2.12,1369,29698.824327752918,Valledupar,2023
+3,Industrias manufactureras,1000000,1540000,0.86,1.33,561,12613.237761009666,Valledupar,2023
+1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,1954,43761.900573741914,Valledupar,2023
+5,Construcción,900000,1386000,0.78,1.19,687,15930.356181519084,Valledupar,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",800000,1232000,0.69,1.06,598,12943.077649791834,Valledupar,2023
+4,Transporte y almacenamiento,800000,1232000,0.69,1.06,941,21566.630301188834,Valledupar,2023
+8,Alojamiento y servicios de comida,800000,1232000,0.69,1.06,630,13106.728208451,Valledupar,2023
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",600000,924000,0.52,0.8,1045,22283.287897726415,Valledupar,2023
+2,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,1554,34756.08379673675,Villavicencio,2023
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",1300000,2002000,1.12,1.73,334,8054.6690808765,Villavicencio,2023
+8,Construcción,1200000,1848000,1.03,1.59,902,22437.143293801335,Villavicencio,2023
+4,Transporte y almacenamiento,1200000,1848000,1.03,1.59,785,18565.89697278,Villavicencio,2023
+0,Industrias manufactureras,1160000,1786400,1.0,1.54,711,16629.54050882075,Villavicencio,2023
+3,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,2500,58116.24058646283,Villavicencio,2023
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,941,21277.425422400083,Villavicencio,2023
+7,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,1088,24560.726236278,Villavicencio,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,949,21159.24699251225,Villavicencio,2023
+7,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,2.16,3.32,426,12778.477877295,Yopal,2023
+4,Industrias manufactureras,1300000,2002000,1.12,1.73,163,5251.825954263333,Yopal,2023
+6,Construcción,1240000,1909600,1.07,1.65,210,6784.045896459166,Yopal,2023
+1,Comercio y reparación de vehículos,1200000,1848000,1.03,1.59,540,16691.117697624166,Yopal,2023
+5,Transporte y almacenamiento,1200000,1848000,1.03,1.59,188,6084.928082850834,Yopal,2023
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,314,9317.4092896775,Yopal,2023
+3,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,321,9695.008981635001,Yopal,2023
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1000000,1540000,0.86,1.33,207,6272.485326751666,Yopal,2023

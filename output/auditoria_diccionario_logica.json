@@ -1,0 +1,94 @@
+{
+  "estado": "APROBADO",
+  "variables_documentadas": 57,
+  "indicadores_documentados": 21,
+  "cobertura_por_anio": {
+    "2022": {
+      "requeridas": 56,
+      "faltantes": []
+    },
+    "2023": {
+      "requeridas": 56,
+      "faltantes": []
+    },
+    "2024": {
+      "requeridas": 56,
+      "faltantes": []
+    },
+    "2025": {
+      "requeridas": 56,
+      "faltantes": []
+    },
+    "2026": {
+      "requeridas": 56,
+      "faltantes": []
+    }
+  },
+  "identidades_por_anio": {
+    "2022": {
+      "FT_cruda_distinta_OCI_o_DSI": 0,
+      "PET_faltantes_reparados_con_edad": 0,
+      "FT_analitica_fuera_PET_analitica": 0,
+      "OCI_y_DSI_simultaneos": 0
+    },
+    "2023": {
+      "FT_cruda_distinta_OCI_o_DSI": 0,
+      "PET_faltantes_reparados_con_edad": 0,
+      "FT_analitica_fuera_PET_analitica": 0,
+      "OCI_y_DSI_simultaneos": 0
+    },
+    "2024": {
+      "FT_cruda_distinta_OCI_o_DSI": 0,
+      "PET_faltantes_reparados_con_edad": 0,
+      "FT_analitica_fuera_PET_analitica": 0,
+      "OCI_y_DSI_simultaneos": 0
+    },
+    "2025": {
+      "FT_cruda_distinta_OCI_o_DSI": 3147,
+      "PET_faltantes_reparados_con_edad": 53461,
+      "FT_analitica_fuera_PET_analitica": 0,
+      "OCI_y_DSI_simultaneos": 0
+    },
+    "2026": {
+      "FT_cruda_distinta_OCI_o_DSI": 10835,
+      "PET_faltantes_reparados_con_edad": 161423,
+      "FT_analitica_fuera_PET_analitica": 0,
+      "OCI_y_DSI_simultaneos": 0
+    }
+  },
+  "error_maximo_formulas_kpi_pp": {
+    "TD_pp": 1.7603696278456482e-12,
+    "TGP_pp": 1.1652900866465643e-12,
+    "TO_pp": 1.1866063687193673e-12,
+    "Informalidad_pp": 1.893596390800667e-12
+  },
+  "error_maximo_formulas_valor_agregado_pp": {
+    "Subocupacion_pp": 7.105427357601002e-15,
+    "LU3_pp": 7.105427357601002e-15,
+    "LU4_pp": 1.0658141036401503e-14,
+    "NINI_pp": 1.0658141036401503e-14,
+    "Sobrecalificacion_pp": 1.4210854715202004e-14
+  },
+  "validacion_dane_marzo_2025": {
+    "calculado": {
+      "FT_M": 26.2242100327675,
+      "OC_M": 23.702393317065855,
+      "DS_M": 2.5218167157016453,
+      "PET_M": 40.51354000000084,
+      "TD_%": 9.616368662966785,
+      "TGP_%": 64.72949545452448,
+      "TO_%": 58.50486853793908
+    },
+    "referencia": {
+      "TD_%": 9.616368662963705,
+      "TGP_%": 64.72949545452133,
+      "TO_%": 58.504868537937824
+    },
+    "diferencia_pp": {
+      "TD_%": 3.0802027595200343e-12,
+      "TGP_%": 3.154809746774845e-12,
+      "TO_%": 1.2576606422953773e-12
+    }
+  },
+  "nota_precision": "Los CV del tablero son aproximaciones MAS con DEFF fijo; no errores oficiales del diseno GEIH."
+}

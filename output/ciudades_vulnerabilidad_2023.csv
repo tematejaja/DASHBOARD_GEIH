@@ -1,227 +1,227 @@
-index,Rama,IVI,Ocupados_miles,Ciudad,Año
-0,Comercio y reparación de vehículos,42.1,7,Arauca,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",7.4,5,Arauca,2023
-7,Alojamiento y servicios de comida,34.7,11,Armenia,2023
-5,Transporte y almacenamiento,32.0,8,Armenia,2023
-3,Comercio y reparación de vehículos,29.0,28,Armenia,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",28.8,12,Armenia,2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",26.8,12,Armenia,2023
-6,Construcción,24.9,11,Armenia,2023
-0,Industrias manufactureras,21.3,12,Armenia,2023
-2,"Administración pública y defensa, educación y atención de la salud humana",5.9,22,Armenia,2023
-4,Transporte y almacenamiento,41.9,89,Barranquilla A.M.,2023
-0,Alojamiento y servicios de comida,36.7,73,Barranquilla A.M.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.5,105,Barranquilla A.M.,2023
-9,Construcción,34.1,64,Barranquilla A.M.,2023
-3,Comercio y reparación de vehículos,32.4,209,Barranquilla A.M.,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",24.5,15,Barranquilla A.M.,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",21.3,79,Barranquilla A.M.,2023
-2,Industrias manufactureras,20.0,108,Barranquilla A.M.,2023
-1,Actividades inmobiliarias,13.1,14,Barranquilla A.M.,2023
-7,Información y comunicaciones,11.7,18,Barranquilla A.M.,2023
-10,Actividades financieras y de seguros,11.0,18,Barranquilla A.M.,2023
-8,"Administración pública y defensa, educación y atención de la salud humana",8.6,114,Barranquilla A.M.,2023
-4,Alojamiento y servicios de comida,30.3,224,Bogotá D.C.,2023
-2,Transporte y almacenamiento,28.2,324,Bogotá D.C.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",24.8,317,Bogotá D.C.,2023
-1,Comercio y reparación de vehículos,24.3,740,Bogotá D.C.,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",23.5,81,Bogotá D.C.,2023
-9,Construcción,21.8,212,Bogotá D.C.,2023
-0,Industrias manufactureras,18.6,462,Bogotá D.C.,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",14.8,568,Bogotá D.C.,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",12.5,21,Bogotá D.C.,2023
-3,Actividades inmobiliarias,10.8,85,Bogotá D.C.,2023
-7,"Administración pública y defensa, educación y atención de la salud humana",8.2,687,Bogotá D.C.,2023
-11,Información y comunicaciones,7.5,165,Bogotá D.C.,2023
-10,Actividades financieras y de seguros,5.2,164,Bogotá D.C.,2023
-0,Transporte y almacenamiento,38.2,59,Bucaramanga A.M.,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",29.7,50,Bucaramanga A.M.,2023
-7,Alojamiento y servicios de comida,28.9,43,Bucaramanga A.M.,2023
-3,Comercio y reparación de vehículos,26.1,131,Bucaramanga A.M.,2023
-4,Industrias manufactureras,22.7,72,Bucaramanga A.M.,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",20.7,57,Bucaramanga A.M.,2023
-8,Construcción,20.0,37,Bucaramanga A.M.,2023
-12,"Suministro de electricidad, gas, agua y gestión de desechos^",19.2,12,Bucaramanga A.M.,2023
-6,"Agricultura, ganadería, caza, silvicultura y pesca",10.3,10,Bucaramanga A.M.,2023
-11,Actividades inmobiliarias,9.4,11,Bucaramanga A.M.,2023
-10,Información y comunicaciones,8.3,11,Bucaramanga A.M.,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",7.1,88,Bucaramanga A.M.,2023
-9,Actividades financieras y de seguros,4.9,13,Bucaramanga A.M.,2023
-0,Transporte y almacenamiento,37.1,85,Cali A.M.,2023
-9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.0,124,Cali A.M.,2023
-3,Alojamiento y servicios de comida,27.9,87,Cali A.M.,2023
-1,Comercio y reparación de vehículos,24.9,230,Cali A.M.,2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.5,91,Cali A.M.,2023
-6,Construcción,22.4,76,Cali A.M.,2023
-11,"Suministro de electricidad, gas, agua y gestión de desechos^",22.1,18,Cali A.M.,2023
-2,Industrias manufactureras,17.0,171,Cali A.M.,2023
-10,"Agricultura, ganadería, caza, silvicultura y pesca",14.5,8,Cali A.M.,2023
-5,Actividades inmobiliarias,10.4,21,Cali A.M.,2023
-7,"Administración pública y defensa, educación y atención de la salud humana",9.7,153,Cali A.M.,2023
-8,Información y comunicaciones,8.7,21,Cali A.M.,2023
-12,Actividades financieras y de seguros,6.9,23,Cali A.M.,2023
-1,Transporte y almacenamiento,41.5,59,Cartagena,2023
-2,Construcción,35.6,35,Cartagena,2023
-5,Comercio y reparación de vehículos,34.0,83,Cartagena,2023
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.4,48,Cartagena,2023
-6,Alojamiento y servicios de comida,30.9,45,Cartagena,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.3,37,Cartagena,2023
-8,Industrias manufactureras,21.7,32,Cartagena,2023
-9,"Suministro de electricidad, gas, agua y gestión de desechos^",17.8,9,Cartagena,2023
-10,Actividades inmobiliarias,13.9,7,Cartagena,2023
-3,Actividades financieras y de seguros,10.0,6,Cartagena,2023
-4,"Administración pública y defensa, educación y atención de la salud humana",6.6,52,Cartagena,2023
-4,Transporte y almacenamiento,48.4,32,Cúcuta A.M.,2023
-6,Construcción,44.4,33,Cúcuta A.M.,2023
-7,Alojamiento y servicios de comida,43.3,34,Cúcuta A.M.,2023
-8,"Agricultura, ganadería, caza, silvicultura y pesca",42.6,5,Cúcuta A.M.,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",39.5,36,Cúcuta A.M.,2023
-2,Industrias manufactureras,37.8,57,Cúcuta A.M.,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",37.1,33,Cúcuta A.M.,2023
-0,Comercio y reparación de vehículos,35.5,110,Cúcuta A.M.,2023
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",27.4,12,Cúcuta A.M.,2023
-10,Actividades financieras y de seguros,18.7,5,Cúcuta A.M.,2023
-9,"Administración pública y defensa, educación y atención de la salud humana",9.7,49,Cúcuta A.M.,2023
-4,Transporte y almacenamiento,49.0,5,Florencia,2023
-0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.5,7,Florencia,2023
-5,Alojamiento y servicios de comida,35.1,5,Florencia,2023
-6,Construcción,35.1,5,Florencia,2023
-2,Comercio y reparación de vehículos,34.7,16,Florencia,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.3,5,Florencia,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",10.3,12,Florencia,2023
-6,Transporte y almacenamiento,37.9,11,Ibagué,2023
-2,Construcción,32.7,13,Ibagué,2023
-3,Alojamiento y servicios de comida,30.9,11,Ibagué,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.5,11,Ibagué,2023
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",28.0,15,Ibagué,2023
-0,Comercio y reparación de vehículos,25.5,30,Ibagué,2023
-8,Industrias manufactureras,22.9,10,Ibagué,2023
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",13.2,5,Ibagué,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",5.6,25,Ibagué,2023
-2,Transporte y almacenamiento,26.1,13,Manizales A.M.,2023
-3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",25.8,20,Manizales A.M.,2023
-4,Alojamiento y servicios de comida,24.8,15,Manizales A.M.,2023
-5,Comercio y reparación de vehículos,24.4,39,Manizales A.M.,2023
-6,Construcción,20.2,16,Manizales A.M.,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",13.1,30,Manizales A.M.,2023
-8,Industrias manufactureras,8.4,33,Manizales A.M.,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",5.6,36,Manizales A.M.,2023
-1,Información y comunicaciones,5.3,6,Manizales A.M.,2023
-5,Transporte y almacenamiento,32.3,155,Medellín A.M.,2023
-8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.6,179,Medellín A.M.,2023
-4,Alojamiento y servicios de comida,24.1,134,Medellín A.M.,2023
-3,Comercio y reparación de vehículos,23.6,399,Medellín A.M.,2023
-9,Construcción,21.7,139,Medellín A.M.,2023
-10,"Suministro de electricidad, gas, agua y gestión de desechos^",20.5,33,Medellín A.M.,2023
-12,"Agricultura, ganadería, caza, silvicultura y pesca",17.7,12,Medellín A.M.,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",15.9,218,Medellín A.M.,2023
-0,Industrias manufactureras,14.9,337,Medellín A.M.,2023
-7,Actividades inmobiliarias,11.3,39,Medellín A.M.,2023
-11,Información y comunicaciones,9.0,52,Medellín A.M.,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",8.4,243,Medellín A.M.,2023
-6,Actividades financieras y de seguros,4.4,56,Medellín A.M.,2023
-2,Transporte y almacenamiento,53.2,19,Montería,2023
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.8,23,Montería,2023
-6,Alojamiento y servicios de comida,32.7,14,Montería,2023
-0,Construcción,28.7,12,Montería,2023
-1,Comercio y reparación de vehículos,27.9,39,Montería,2023
-5,Industrias manufactureras,26.3,11,Montería,2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",23.2,14,Montería,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",4.5,31,Montería,2023
-4,Transporte y almacenamiento,47.6,15,Pasto,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.3,15,Pasto,2023
-3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.4,15,Pasto,2023
-1,Comercio y reparación de vehículos,30.7,39,Pasto,2023
-0,Alojamiento y servicios de comida,29.8,11,Pasto,2023
-2,Industrias manufactureras,29.7,11,Pasto,2023
-7,Construcción,27.6,8,Pasto,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",8.0,31,Pasto,2023
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.0,27,Pereira A.M.,2023
-3,Transporte y almacenamiento,28.6,20,Pereira A.M.,2023
-2,Alojamiento y servicios de comida,28.4,24,Pereira A.M.,2023
-1,Comercio y reparación de vehículos,24.2,62,Pereira A.M.,2023
-7,Construcción,21.3,25,Pereira A.M.,2023
-4,"Agricultura, ganadería, caza, silvicultura y pesca",20.4,6,Pereira A.M.,2023
-8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",18.9,33,Pereira A.M.,2023
-0,Industrias manufactureras,14.2,37,Pereira A.M.,2023
-10,Información y comunicaciones,6.6,7,Pereira A.M.,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",6.2,40,Pereira A.M.,2023
-9,Actividades financieras y de seguros,5.0,5,Pereira A.M.,2023
-4,Transporte y almacenamiento,49.5,12,Popayán,2023
-7,Construcción,37.1,9,Popayán,2023
-1,Comercio y reparación de vehículos,33.6,26,Popayán,2023
-3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.6,13,Popayán,2023
-6,Industrias manufactureras,33.1,7,Popayán,2023
-0,Alojamiento y servicios de comida,32.7,13,Popayán,2023
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.8,11,Popayán,2023
-2,"Administración pública y defensa, educación y atención de la salud humana",8.8,29,Popayán,2023
-0,Comercio y reparación de vehículos,30.9,7,Quibdó,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",4.1,8,Quibdó,2023
-2,Transporte y almacenamiento,55.5,7,Riohacha,2023
-0,Alojamiento y servicios de comida,43.7,5,Riohacha,2023
-1,Comercio y reparación de vehículos,42.3,13,Riohacha,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",37.6,7,Riohacha,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",7.3,11,Riohacha,2023
-0,Alojamiento y servicios de comida,12.9,5,San Andrés,2023
-0,Comercio y reparación de vehículos,31.1,5,San José del Guaviare,2023
-8,Transporte y almacenamiento,43.7,25,Santa Marta,2023
-6,Construcción,43.0,17,Santa Marta,2023
-2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.6,23,Santa Marta,2023
-0,Alojamiento y servicios de comida,32.8,23,Santa Marta,2023
-4,Comercio y reparación de vehículos,32.7,46,Santa Marta,2023
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.1,18,Santa Marta,2023
-3,Industrias manufactureras,30.1,12,Santa Marta,2023
-1,"Suministro de electricidad, gas, agua y gestión de desechos^",26.5,5,Santa Marta,2023
-5,"Administración pública y defensa, educación y atención de la salud humana",7.9,28,Santa Marta,2023
-0,Transporte y almacenamiento,53.3,16,Sincelejo,2023
-7,Construcción,42.6,8,Sincelejo,2023
-4,Alojamiento y servicios de comida,38.2,8,Sincelejo,2023
-5,Industrias manufactureras,35.5,6,Sincelejo,2023
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.5,7,Sincelejo,2023
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.0,13,Sincelejo,2023
-2,Comercio y reparación de vehículos,31.5,25,Sincelejo,2023
-3,"Administración pública y defensa, educación y atención de la salud humana",5.6,19,Sincelejo,2023
-7,Transporte y almacenamiento,38.7,1706,Todas (Panorama Nacional),2023
-2,"Agricultura, ganadería, caza, silvicultura y pesca",37.2,3280,Todas (Panorama Nacional),2023
-3,Alojamiento y servicios de comida,32.7,1639,Todas (Panorama Nacional),2023
-8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.6,1925,Todas (Panorama Nacional),2023
-1,Comercio y reparación de vehículos,30.1,4020,Todas (Panorama Nacional),2023
-6,Construcción,29.3,1565,Todas (Panorama Nacional),2023
-5,"Suministro de electricidad, gas, agua y gestión de desechos^",24.0,589,Todas (Panorama Nacional),2023
-4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.4,1822,Todas (Panorama Nacional),2023
-9,Industrias manufactureras,22.2,2401,Todas (Panorama Nacional),2023
-11,Actividades inmobiliarias,11.0,275,Todas (Panorama Nacional),2023
-12,Información y comunicaciones,8.6,403,Todas (Panorama Nacional),2023
-0,"Administración pública y defensa, educación y atención de la salud humana",8.1,2738,Todas (Panorama Nacional),2023
-10,Actividades financieras y de seguros,6.9,422,Todas (Panorama Nacional),2023
-4,Transporte y almacenamiento,32.2,6,Tunja,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.1,6,Tunja,2023
-3,Comercio y reparación de vehículos,26.6,15,Tunja,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.1,8,Tunja,2023
-1,Construcción,23.3,6,Tunja,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",4.4,22,Tunja,2023
-4,Transporte y almacenamiento,47.8,22,Valledupar,2023
-5,Construcción,36.0,16,Valledupar,2023
-7,Alojamiento y servicios de comida,35.0,13,Valledupar,2023
-6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.3,22,Valledupar,2023
-2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.3,13,Valledupar,2023
-1,Comercio y reparación de vehículos,29.7,44,Valledupar,2023
-3,Industrias manufactureras,29.6,13,Valledupar,2023
-0,"Administración pública y defensa, educación y atención de la salud humana",6.6,30,Valledupar,2023
-4,Transporte y almacenamiento,39.1,19,Villavicencio,2023
-6,Alojamiento y servicios de comida,34.1,25,Villavicencio,2023
-7,Construcción,33.5,22,Villavicencio,2023
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.4,21,Villavicencio,2023
-3,Comercio y reparación de vehículos,30.4,58,Villavicencio,2023
-1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.2,21,Villavicencio,2023
-0,Industrias manufactureras,27.4,17,Villavicencio,2023
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",21.7,8,Villavicencio,2023
-2,"Administración pública y defensa, educación y atención de la salud humana",9.8,35,Villavicencio,2023
-4,Transporte y almacenamiento,33.8,6,Yopal,2023
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.1,6,Yopal,2023
-2,Alojamiento y servicios de comida,31.5,10,Yopal,2023
-1,Comercio y reparación de vehículos,30.1,17,Yopal,2023
-0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",28.9,9,Yopal,2023
-3,Industrias manufactureras,24.8,5,Yopal,2023
-5,Construcción,18.1,7,Yopal,2023
-6,"Administración pública y defensa, educación y atención de la salud humana",7.2,13,Yopal,2023
+index,Rama,IVI,Ocupados_miles,n_muestra,poblacion_estimada,Ciudad,Año
+7,Transporte y almacenamiento,38.7,1706,30648,1706425.029282142,Todas (Panorama Nacional),2023
+2,"Agricultura, ganadería, caza, silvicultura y pesca",37.2,3280,32731,3280425.5623712786,Todas (Panorama Nacional),2023
+3,Alojamiento y servicios de comida,32.7,1639,30293,1638978.5517470334,Todas (Panorama Nacional),2023
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.6,1925,34963,1924584.1330184906,Todas (Panorama Nacional),2023
+1,Comercio y reparación de vehículos,30.1,4020,71916,4019701.2832782515,Todas (Panorama Nacional),2023
+6,Construcción,29.3,1565,26372,1565360.7667884806,Todas (Panorama Nacional),2023
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",24.0,589,8573,589035.027426512,Todas (Panorama Nacional),2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.4,1822,29421,1821921.3733385636,Todas (Panorama Nacional),2023
+9,Industrias manufactureras,22.2,2401,32714,2401174.7162866294,Todas (Panorama Nacional),2023
+11,Actividades inmobiliarias,11.0,275,3846,275264.3478003424,Todas (Panorama Nacional),2023
+12,Información y comunicaciones,8.6,403,5234,402938.5307994491,Todas (Panorama Nacional),2023
+0,"Administración pública y defensa, educación y atención de la salud humana",8.1,2738,53115,2738217.098890751,Todas (Panorama Nacional),2023
+10,Actividades financieras y de seguros,6.9,422,5959,422256.85254753625,Todas (Panorama Nacional),2023
+0,Comercio y reparación de vehículos,42.1,7,426,7067.839439942167,Arauca,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",7.4,5,337,5324.681482347583,Arauca,2023
+7,Alojamiento y servicios de comida,34.7,11,817,11030.001966369917,Armenia,2023
+5,Transporte y almacenamiento,32.0,8,594,8302.652405322417,Armenia,2023
+3,Comercio y reparación de vehículos,29.0,28,2024,28012.31381524375,Armenia,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",28.8,12,871,11651.386934479417,Armenia,2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",26.8,12,917,12475.256106466582,Armenia,2023
+6,Construcción,24.9,11,784,11183.725147167082,Armenia,2023
+0,Industrias manufactureras,21.3,12,824,11658.716664098667,Armenia,2023
+2,"Administración pública y defensa, educación y atención de la salud humana",5.9,22,1538,21812.7318328925,Armenia,2023
+4,Transporte y almacenamiento,41.9,89,1204,88554.43118895084,Barranquilla A.M.,2023
+0,Alojamiento y servicios de comida,36.7,73,1059,73270.01763066417,Barranquilla A.M.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.5,105,1550,105420.45280243916,Barranquilla A.M.,2023
+9,Construcción,34.1,64,944,64405.41496626667,Barranquilla A.M.,2023
+3,Comercio y reparación de vehículos,32.4,209,2973,209491.03404346167,Barranquilla A.M.,2023
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",24.5,15,229,15409.979314055834,Barranquilla A.M.,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",21.3,79,1162,79197.57252194833,Barranquilla A.M.,2023
+2,Industrias manufactureras,20.0,108,1522,108124.13538735083,Barranquilla A.M.,2023
+1,Actividades inmobiliarias,13.1,14,192,14031.371061185,Barranquilla A.M.,2023
+7,Información y comunicaciones,11.7,18,242,18014.343602996665,Barranquilla A.M.,2023
+10,Actividades financieras y de seguros,11.0,18,254,18216.135279121667,Barranquilla A.M.,2023
+8,"Administración pública y defensa, educación y atención de la salud humana",8.6,114,1610,114200.32665673834,Barranquilla A.M.,2023
+4,Alojamiento y servicios de comida,30.3,224,743,224274.74287301666,Bogotá D.C.,2023
+2,Transporte y almacenamiento,28.2,324,1036,323765.5650022,Bogotá D.C.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",24.8,317,1028,317132.8207486917,Bogotá D.C.,2023
+1,Comercio y reparación de vehículos,24.3,740,2353,739578.0510029333,Bogotá D.C.,2023
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",23.5,81,247,80853.09532880834,Bogotá D.C.,2023
+9,Construcción,21.8,212,669,212022.48356599166,Bogotá D.C.,2023
+0,Industrias manufactureras,18.6,462,1506,462254.4217332333,Bogotá D.C.,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",14.8,568,1785,568212.088762625,Bogotá D.C.,2023
+12,"Agricultura, ganadería, caza, silvicultura y pesca",12.5,21,70,20875.53825449167,Bogotá D.C.,2023
+3,Actividades inmobiliarias,10.8,85,268,84577.98285743334,Bogotá D.C.,2023
+7,"Administración pública y defensa, educación y atención de la salud humana",8.2,687,2131,687185.6542834083,Bogotá D.C.,2023
+11,Información y comunicaciones,7.5,165,488,164789.7826846,Bogotá D.C.,2023
+10,Actividades financieras y de seguros,5.2,164,504,163744.87434926667,Bogotá D.C.,2023
+0,Transporte y almacenamiento,38.2,59,1161,59333.6816129675,Bucaramanga A.M.,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",29.7,50,1062,49856.55854471917,Bucaramanga A.M.,2023
+7,Alojamiento y servicios de comida,28.9,43,927,43085.082882384166,Bucaramanga A.M.,2023
+3,Comercio y reparación de vehículos,26.1,131,2781,131471.28031486334,Bucaramanga A.M.,2023
+4,Industrias manufactureras,22.7,72,1622,71691.02302137834,Bucaramanga A.M.,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",20.7,57,1272,56508.62390948167,Bucaramanga A.M.,2023
+8,Construcción,20.0,37,657,37129.821145823335,Bucaramanga A.M.,2023
+12,"Suministro de electricidad, gas, agua y gestión de desechos^",19.2,12,259,12387.167284031666,Bucaramanga A.M.,2023
+6,"Agricultura, ganadería, caza, silvicultura y pesca",10.3,10,177,9668.934248141666,Bucaramanga A.M.,2023
+11,Actividades inmobiliarias,9.4,11,211,11094.560876710833,Bucaramanga A.M.,2023
+10,Información y comunicaciones,8.3,11,242,10871.0930986825,Bucaramanga A.M.,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",7.1,88,1835,87521.95229960083,Bucaramanga A.M.,2023
+9,Actividades financieras y de seguros,4.9,13,289,13316.75953063,Bucaramanga A.M.,2023
+0,Transporte y almacenamiento,37.1,85,1203,85260.76006443825,Cali A.M.,2023
+9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.0,124,1593,124398.03430334391,Cali A.M.,2023
+3,Alojamiento y servicios de comida,27.9,87,1095,87479.40086200234,Cali A.M.,2023
+1,Comercio y reparación de vehículos,24.9,230,2990,230275.26473518976,Cali A.M.,2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",22.5,91,1147,90656.977160914,Cali A.M.,2023
+6,Construcción,22.4,76,948,75697.76103237826,Cali A.M.,2023
+11,"Suministro de electricidad, gas, agua y gestión de desechos^",22.1,18,244,17920.437648702333,Cali A.M.,2023
+2,Industrias manufactureras,17.0,171,2367,170716.45813035333,Cali A.M.,2023
+10,"Agricultura, ganadería, caza, silvicultura y pesca",14.5,8,124,7913.851921785,Cali A.M.,2023
+5,Actividades inmobiliarias,10.4,21,254,20774.473668250834,Cali A.M.,2023
+7,"Administración pública y defensa, educación y atención de la salud humana",9.7,153,1970,152831.8747346495,Cali A.M.,2023
+8,Información y comunicaciones,8.7,21,240,20771.01221604825,Cali A.M.,2023
+12,Actividades financieras y de seguros,6.9,23,297,23358.817114999918,Cali A.M.,2023
+1,Transporte y almacenamiento,41.5,59,1881,59461.111956821,Cartagena,2023
+2,Construcción,35.6,35,1154,35168.37011215583,Cartagena,2023
+5,Comercio y reparación de vehículos,34.0,83,2630,83231.49205090167,Cartagena,2023
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.4,48,1541,47870.98632028242,Cartagena,2023
+6,Alojamiento y servicios de comida,30.9,45,1436,44847.85145774417,Cartagena,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.3,37,1147,37171.823462017,Cartagena,2023
+8,Industrias manufactureras,21.7,32,1024,32277.472682435,Cartagena,2023
+9,"Suministro de electricidad, gas, agua y gestión de desechos^",17.8,9,268,8613.035910035,Cartagena,2023
+10,Actividades inmobiliarias,13.9,7,211,6796.150737685,Cartagena,2023
+3,Actividades financieras y de seguros,10.0,6,193,6194.094318864167,Cartagena,2023
+4,"Administración pública y defensa, educación y atención de la salud humana",6.6,52,1621,52497.186618867,Cartagena,2023
+4,Transporte y almacenamiento,48.4,32,821,32441.657568229166,Cúcuta A.M.,2023
+6,Construcción,44.4,33,829,33437.9424371075,Cúcuta A.M.,2023
+7,Alojamiento y servicios de comida,43.3,34,927,33986.960633413335,Cúcuta A.M.,2023
+8,"Agricultura, ganadería, caza, silvicultura y pesca",42.6,5,118,5034.829977720833,Cúcuta A.M.,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",39.5,36,998,35681.65146482916,Cúcuta A.M.,2023
+2,Industrias manufactureras,37.8,57,1487,57406.0861396675,Cúcuta A.M.,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",37.1,33,897,33426.25414233417,Cúcuta A.M.,2023
+0,Comercio y reparación de vehículos,35.5,110,2927,109560.67409098583,Cúcuta A.M.,2023
+5,"Suministro de electricidad, gas, agua y gestión de desechos^",27.4,12,302,11515.296895564166,Cúcuta A.M.,2023
+10,Actividades financieras y de seguros,18.7,5,143,5182.972020878334,Cúcuta A.M.,2023
+9,"Administración pública y defensa, educación y atención de la salud humana",9.7,49,1285,48576.486844018335,Cúcuta A.M.,2023
+4,Transporte y almacenamiento,49.0,5,659,5445.444075489917,Florencia,2023
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.5,7,918,6760.846413618333,Florencia,2023
+5,Alojamiento y servicios de comida,35.1,5,687,5011.21121389975,Florencia,2023
+6,Construcción,35.1,5,602,5023.550297263583,Florencia,2023
+2,Comercio y reparación de vehículos,34.7,16,1947,15546.051437997834,Florencia,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.3,5,720,5349.728682918417,Florencia,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",10.3,12,1542,12296.425805979334,Florencia,2023
+6,Transporte y almacenamiento,37.9,11,686,11142.546320916917,Ibagué,2023
+2,Construcción,32.7,13,772,12593.00472767375,Ibagué,2023
+3,Alojamiento y servicios de comida,30.9,11,706,11097.174383940583,Ibagué,2023
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.5,11,724,11302.949236952833,Ibagué,2023
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",28.0,15,988,15479.880212868084,Ibagué,2023
+0,Comercio y reparación de vehículos,25.5,30,1886,30272.009156321583,Ibagué,2023
+8,Industrias manufactureras,22.9,10,645,10300.4466252895,Ibagué,2023
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",13.2,5,305,5339.04126701275,Ibagué,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",5.6,25,1539,24628.28407181075,Ibagué,2023
+2,Transporte y almacenamiento,26.1,13,801,12720.30862363425,Manizales A.M.,2023
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",25.8,20,1269,19637.349505495833,Manizales A.M.,2023
+4,Alojamiento y servicios de comida,24.8,15,924,15123.776538451,Manizales A.M.,2023
+5,Comercio y reparación de vehículos,24.4,39,2438,39147.433983960414,Manizales A.M.,2023
+6,Construcción,20.2,16,975,16336.280431458334,Manizales A.M.,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",13.1,30,1868,29854.12110435925,Manizales A.M.,2023
+8,Industrias manufactureras,8.4,33,2072,32941.94583541125,Manizales A.M.,2023
+0,"Administración pública y defensa, educación y atención de la salud humana",5.6,36,2233,36263.579061485914,Manizales A.M.,2023
+1,Información y comunicaciones,5.3,6,384,6424.183074019833,Manizales A.M.,2023
+5,Transporte y almacenamiento,32.3,155,1289,154687.94305465667,Medellín A.M.,2023
+8,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.6,179,1517,179179.04131682834,Medellín A.M.,2023
+4,Alojamiento y servicios de comida,24.1,134,1122,134410.8499017125,Medellín A.M.,2023
+3,Comercio y reparación de vehículos,23.6,399,3344,399108.24718357,Medellín A.M.,2023
+9,Construcción,21.7,139,1196,138927.29892043083,Medellín A.M.,2023
+10,"Suministro de electricidad, gas, agua y gestión de desechos^",20.5,33,269,32746.868807364168,Medellín A.M.,2023
+12,"Agricultura, ganadería, caza, silvicultura y pesca",17.7,12,94,11622.832597489167,Medellín A.M.,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",15.9,218,1809,217781.10478085416,Medellín A.M.,2023
+0,Industrias manufactureras,14.9,337,2638,336966.416936615,Medellín A.M.,2023
+7,Actividades inmobiliarias,11.3,39,315,38584.712215663334,Medellín A.M.,2023
+11,Información y comunicaciones,9.0,52,410,51710.639856303336,Medellín A.M.,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",8.4,243,1950,242507.43446503166,Medellín A.M.,2023
+6,Actividades financieras y de seguros,4.4,56,414,56390.8709763,Medellín A.M.,2023
+2,Transporte y almacenamiento,53.2,19,906,19175.188615640665,Montería,2023
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.8,23,1144,22650.821333999418,Montería,2023
+6,Alojamiento y servicios de comida,32.7,14,729,14041.761638558084,Montería,2023
+0,Construcción,28.7,12,563,11641.221347508,Montería,2023
+1,Comercio y reparación de vehículos,27.9,39,1840,38807.410181533836,Montería,2023
+5,Industrias manufactureras,26.3,11,533,10750.361629616333,Montería,2023
+4,"Actividades profesionales, científicas, técnicas y de servicios administrativos",23.2,14,602,13530.073972286333,Montería,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",4.5,31,1482,31277.31613686992,Montería,2023
+4,Transporte y almacenamiento,47.6,15,1085,14754.588039659666,Pasto,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.3,15,1193,15203.519051250083,Pasto,2023
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.4,15,1114,14924.349748106,Pasto,2023
+1,Comercio y reparación de vehículos,30.7,39,2918,38610.319832071415,Pasto,2023
+0,Alojamiento y servicios de comida,29.8,11,866,11049.586654696333,Pasto,2023
+2,Industrias manufactureras,29.7,11,843,11342.195389793333,Pasto,2023
+7,Construcción,27.6,8,562,7913.5519542415,Pasto,2023
+6,"Administración pública y defensa, educación y atención de la salud humana",8.0,31,2271,31066.518725857084,Pasto,2023
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",30.0,27,1252,27085.521800351835,Pereira A.M.,2023
+3,Transporte y almacenamiento,28.6,20,838,20258.798276739668,Pereira A.M.,2023
+2,Alojamiento y servicios de comida,28.4,24,1024,23849.21644277175,Pereira A.M.,2023
+1,Comercio y reparación de vehículos,24.2,62,2695,61614.51088520617,Pereira A.M.,2023
+7,Construcción,21.3,25,1080,24756.5988886555,Pereira A.M.,2023
+4,"Agricultura, ganadería, caza, silvicultura y pesca",20.4,6,231,5914.582893161083,Pereira A.M.,2023
+8,"Actividades profesionales, científicas, técnicas y de servicios administrativos",18.9,33,1510,32733.220247523415,Pereira A.M.,2023
+0,Industrias manufactureras,14.2,37,1569,37183.2479477755,Pereira A.M.,2023
+10,Información y comunicaciones,6.6,7,325,6880.184155723,Pereira A.M.,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",6.2,40,1862,40042.855690996665,Pereira A.M.,2023
+9,Actividades financieras y de seguros,5.0,5,235,5066.764994237583,Pereira A.M.,2023
+4,Transporte y almacenamiento,49.5,12,927,11512.425021936584,Popayán,2023
+7,Construcción,37.1,9,730,9313.492039286333,Popayán,2023
+1,Comercio y reparación de vehículos,33.6,26,2197,26351.88745601925,Popayán,2023
+3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.6,13,1065,12527.902869106667,Popayán,2023
+6,Industrias manufactureras,33.1,7,573,6975.290897534834,Popayán,2023
+0,Alojamiento y servicios de comida,32.7,13,1080,12714.0106849535,Popayán,2023
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.8,11,887,10594.1473608045,Popayán,2023
+2,"Administración pública y defensa, educación y atención de la salud humana",8.8,29,2238,28587.9845383145,Popayán,2023
+0,Comercio y reparación de vehículos,30.9,7,1471,6638.328785214,Quibdó,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",4.1,8,1805,8366.413372649416,Quibdó,2023
+2,Transporte y almacenamiento,55.5,7,1038,7346.425925796833,Riohacha,2023
+0,Alojamiento y servicios de comida,43.7,5,781,5271.989287037167,Riohacha,2023
+1,Comercio y reparación de vehículos,42.3,13,1800,12571.152589629666,Riohacha,2023
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",37.6,7,1095,7415.150959939583,Riohacha,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",7.3,11,1522,10525.323049805,Riohacha,2023
+0,Alojamiento y servicios de comida,12.9,5,1127,5183.289546114416,San Andrés,2023
+0,Comercio y reparación de vehículos,31.1,5,573,5372.4343489725,San José del Guaviare,2023
+8,Transporte y almacenamiento,43.7,25,1192,24925.944547229832,Santa Marta,2023
+6,Construcción,43.0,17,840,17311.456888776167,Santa Marta,2023
+2,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",35.6,23,1182,23013.519390538833,Santa Marta,2023
+0,Alojamiento y servicios de comida,32.8,23,1163,23298.688107326834,Santa Marta,2023
+4,Comercio y reparación de vehículos,32.7,46,2296,46193.3648952385,Santa Marta,2023
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.1,18,907,17991.492340322082,Santa Marta,2023
+3,Industrias manufactureras,30.1,12,621,12498.825752673083,Santa Marta,2023
+1,"Suministro de electricidad, gas, agua y gestión de desechos^",26.5,5,266,5487.95814203075,Santa Marta,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",7.9,28,1375,27708.39444979192,Santa Marta,2023
+0,Transporte y almacenamiento,53.3,16,1337,15533.299684705,Sincelejo,2023
+7,Construcción,42.6,8,716,8370.3660623015,Sincelejo,2023
+4,Alojamiento y servicios de comida,38.2,8,704,7784.57831054925,Sincelejo,2023
+5,Industrias manufactureras,35.5,6,592,6370.623884143667,Sincelejo,2023
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.5,7,660,7209.78209785975,Sincelejo,2023
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.0,13,1174,12914.5897669965,Sincelejo,2023
+2,Comercio y reparación de vehículos,31.5,25,2189,24558.70692465925,Sincelejo,2023
+3,"Administración pública y defensa, educación y atención de la salud humana",5.6,19,1670,18613.110562060585,Sincelejo,2023
+4,Transporte y almacenamiento,32.2,6,636,5508.7910886075,Tunja,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.1,6,684,5584.6771487535,Tunja,2023
+3,Comercio y reparación de vehículos,26.6,15,1786,15037.77730428325,Tunja,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.1,8,939,8129.320620516167,Tunja,2023
+1,Construcción,23.3,6,696,6250.703493864917,Tunja,2023
+0,"Administración pública y defensa, educación y atención de la salud humana",4.4,22,2536,21785.71332293525,Tunja,2023
+4,Transporte y almacenamiento,47.8,22,941,21566.630301188834,Valledupar,2023
+5,Construcción,36.0,16,687,15930.356181519084,Valledupar,2023
+7,Alojamiento y servicios de comida,35.0,13,630,13106.728208451,Valledupar,2023
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.3,22,1045,22283.287897726415,Valledupar,2023
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",31.3,13,598,12943.077649791834,Valledupar,2023
+1,Comercio y reparación de vehículos,29.7,44,1954,43761.900573741914,Valledupar,2023
+3,Industrias manufactureras,29.6,13,561,12613.237761009666,Valledupar,2023
+0,"Administración pública y defensa, educación y atención de la salud humana",6.6,30,1369,29698.824327752918,Valledupar,2023
+4,Transporte y almacenamiento,39.1,19,785,18565.89697278,Villavicencio,2023
+6,Alojamiento y servicios de comida,34.1,25,1088,24560.726236278,Villavicencio,2023
+7,Construcción,33.5,22,902,22437.143293801335,Villavicencio,2023
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",31.4,21,949,21159.24699251225,Villavicencio,2023
+3,Comercio y reparación de vehículos,30.4,58,2500,58116.24058646283,Villavicencio,2023
+1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",30.2,21,941,21277.425422400083,Villavicencio,2023
+0,Industrias manufactureras,27.4,17,711,16629.54050882075,Villavicencio,2023
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",21.7,8,334,8054.6690808765,Villavicencio,2023
+2,"Administración pública y defensa, educación y atención de la salud humana",9.8,35,1554,34756.08379673675,Villavicencio,2023
+4,Transporte y almacenamiento,33.8,6,188,6084.928082850834,Yopal,2023
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",33.1,6,207,6272.485326751666,Yopal,2023
+2,Alojamiento y servicios de comida,31.5,10,321,9695.008981635001,Yopal,2023
+1,Comercio y reparación de vehículos,30.1,17,540,16691.117697624166,Yopal,2023
+0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",28.9,9,314,9317.4092896775,Yopal,2023
+3,Industrias manufactureras,24.8,5,163,5251.825954263333,Yopal,2023
+5,Construcción,18.1,7,210,6784.045896459166,Yopal,2023
+6,"Administración pública y defensa, educación y atención de la salud humana",7.2,13,426,12778.477877295,Yopal,2023

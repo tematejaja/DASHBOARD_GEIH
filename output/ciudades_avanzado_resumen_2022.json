@@ -1,6 +1,16 @@
 [
     {
         "Año":2022,
+        "Ciudad":"Todas (Panorama Nacional)",
+        "Gini":0.5048,
+        "Joven_TD_joven_%":18.7,
+        "Joven_Ocupados_joven_M":5.11,
+        "Joven_PEA_joven_M":6.28,
+        "CV_TD_joven_%":1.0,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2022,
         "Ciudad":"Armenia",
         "Gini":0.4009,
         "Joven_TD_joven_%":20.7,
@@ -197,16 +207,6 @@
         "Joven_Ocupados_joven_M":0.02,
         "Joven_PEA_joven_M":0.02,
         "CV_TD_joven_%":6.5,
-        "Precisión_DANE":"✅ Precisión alta"
-    },
-    {
-        "Año":2022,
-        "Ciudad":"Todas (Panorama Nacional)",
-        "Gini":0.5048,
-        "Joven_TD_joven_%":18.7,
-        "Joven_Ocupados_joven_M":5.11,
-        "Joven_PEA_joven_M":6.28,
-        "CV_TD_joven_%":1.0,
         "Precisión_DANE":"✅ Precisión alta"
     },
     {

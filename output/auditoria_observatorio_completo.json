@@ -1,0 +1,81 @@
+{
+  "estado": "APROBADO",
+  "pruebas": {
+    "mercado_laboral": {
+      "filas": 1545,
+      "error_maximo_pp": {
+        "TD": 1.7603696278456482e-12,
+        "TGP": 1.1652900866465643e-12,
+        "TO": 1.1866063687193673e-12,
+        "informalidad": 1.893596390800667e-12
+      }
+    },
+    "presion_calidad": {
+      "filas": 1545,
+      "error_maximo_pp": {
+        "subocupacion": 7.105427357601002e-15,
+        "LU3": 7.105427357601002e-15,
+        "LU4": 1.0658141036401503e-14,
+        "NINI": 1.0658141036401503e-14,
+        "sobrecalificacion": 1.4210854715202004e-14
+      },
+      "tasas_no_estimables_por_denominador_cero": 4
+    },
+    "indicadores_estructurales": {
+      "2022": {
+        "dominios": 24,
+        "ramas_calidad": 204,
+        "ramas_formalidad": 204,
+        "brechas_publicables": 162,
+        "mincer_no_estimable": 0,
+        "error_icf_pp": 0.06666666666667709,
+        "error_costo_cop": 0.11999999987892807,
+        "error_brecha_pp": 7.105427357601002e-15
+      },
+      "2023": {
+        "dominios": 32,
+        "ramas_calidad": 226,
+        "ramas_formalidad": 226,
+        "brechas_publicables": 201,
+        "mincer_no_estimable": 1,
+        "error_icf_pp": 0.06666666666667709,
+        "error_costo_cop": 0.0,
+        "error_brecha_pp": 7.105427357601002e-15
+      },
+      "2024": {
+        "dominios": 32,
+        "ramas_calidad": 225,
+        "ramas_formalidad": 225,
+        "brechas_publicables": 206,
+        "mincer_no_estimable": 0,
+        "error_icf_pp": 0.06666666666667709,
+        "error_costo_cop": 0.0400000000372529,
+        "error_brecha_pp": 7.105427357601002e-15
+      },
+      "2025": {
+        "dominios": 32,
+        "ramas_calidad": 230,
+        "ramas_formalidad": 230,
+        "brechas_publicables": 208,
+        "mincer_no_estimable": 0,
+        "error_icf_pp": 0.06666666666667709,
+        "error_costo_cop": 0.39999999990686774,
+        "error_brecha_pp": 7.105427357601002e-15
+      },
+      "2026": {
+        "dominios": 32,
+        "ramas_calidad": 228,
+        "ramas_formalidad": 228,
+        "brechas_publicables": 175,
+        "mincer_no_estimable": 0,
+        "error_icf_pp": 0.06666666666667709,
+        "error_costo_cop": 0.2999999998137355,
+        "error_brecha_pp": 7.105427357601002e-15
+      }
+    },
+    "redaccion": {
+      "frases_genericas_detectadas": []
+    }
+  },
+  "advertencias": []
+}
