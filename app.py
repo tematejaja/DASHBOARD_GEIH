@@ -18,28 +18,50 @@ st.set_page_config(
 # ─── Sistema de Diseño Corporativo ───
 st.markdown("""
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap');
     
     :root {
-        --primary: #14b8a6;
-        --primary-light: #5eead4;
-        --primary-subtle: rgba(20, 184, 166, 0.09);
-        --accent: #fbbf24;
-        --bg-dark: #111315;
-        --bg-surface: #191c1f;
-        --bg-card: #1d2124;
-        --text-main: #f4f4f3;
-        --text-secondary: #c6c8c9;
-        --text-muted: #92979a;
-        --border: rgba(255, 255, 255, 0.12);
-        --border-hover: rgba(94, 234, 212, 0.55);
-        --shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+        color-scheme: dark;
+        --primary: #23b5a6;
+        --primary-light: #73d9ce;
+        --primary-subtle: rgba(35, 181, 166, 0.10);
+        --accent: #e8b44f;
+        --coral: #ec7b6d;
+        --sky: #65a9d8;
+        --lime: #9cbd62;
+        --bg-dark: #0d1112;
+        --bg-surface: #13191a;
+        --bg-card: #182022;
+        --bg-raised: #202a2c;
+        --text-main: #f2f5f4;
+        --text-secondary: #bdc8c6;
+        --text-muted: #869391;
+        --border: rgba(219, 232, 229, 0.13);
+        --border-strong: rgba(219, 232, 229, 0.22);
+        --border-hover: rgba(115, 217, 206, 0.62);
+        --shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
         --radius: 6px;
-        --transition: all 0.2s ease;
+        --transition-fast: 160ms ease;
     }
 
     html, body, [class*="css"] {
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+
+    html {
+        background: var(--bg-dark);
+    }
+
+    [data-testid="stAppViewContainer"] {
+        background:
+            linear-gradient(180deg, rgba(35, 181, 166, 0.035) 0, transparent 240px),
+            var(--bg-dark);
+    }
+
+    .block-container {
+        max-width: 1480px;
+        padding-top: 1.4rem;
+        padding-bottom: 4rem;
     }
 
     /* ── Card System ── */
@@ -47,15 +69,31 @@ st.markdown("""
         background: var(--bg-card);
         border: 1px solid var(--border);
         border-radius: var(--radius);
-        padding: 1.25rem 1.5rem;
+        padding: 1.15rem 1.25rem 1.2rem;
         box-shadow: var(--shadow);
         margin-bottom: 0.75rem;
-        transition: var(--transition);
+        height: 152px;
+        position: relative;
+        overflow: hidden;
+        transition: border-color var(--transition-fast), background-color var(--transition-fast);
     }
+
+    .glass-card::before {
+        content: "";
+        position: absolute;
+        inset: 0 auto 0 0;
+        width: 3px;
+        background: var(--card-accent, var(--primary));
+    }
+
+    .glass-card[data-tone="amber"] { --card-accent: var(--accent); }
+    .glass-card[data-tone="coral"] { --card-accent: var(--coral); }
+    .glass-card[data-tone="sky"] { --card-accent: var(--sky); }
+    .glass-card[data-tone="lime"] { --card-accent: var(--lime); }
     
     .glass-card:hover {
         border-color: var(--border-hover);
-        box-shadow: var(--shadow);
+        background: var(--bg-raised);
     }
 
     /* ── KPI Metrics ── */
@@ -67,7 +105,7 @@ st.markdown("""
     }
     
     .kpi-label {
-        font-size: 0.75rem;
+        font-size: 0.78rem;
         color: var(--text-secondary);
         font-weight: 600;
         text-transform: uppercase;
@@ -75,11 +113,20 @@ st.markdown("""
     }
     
     .kpi-value {
-        font-size: 2rem;
-        font-weight: 700;
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 1.75rem;
+        font-weight: 600;
         color: var(--text-main);
         line-height: 1.1;
         font-variant-numeric: tabular-nums;
+        white-space: nowrap;
+    }
+
+    .kpi-context {
+        color: var(--text-muted);
+        font-size: 0.78rem;
+        line-height: 1.35;
+        min-height: 1.05rem;
     }
 
     /* ── Tab Navigation ── */
@@ -88,6 +135,7 @@ st.markdown("""
         background-color: transparent;
         border-bottom: 1px solid var(--border);
         padding-bottom: 0;
+        scrollbar-width: none;
     }
 
     .stTabs [data-baseweb="tab"] {
@@ -104,6 +152,7 @@ st.markdown("""
         font-weight: 500;
         font-size: 0.875rem;
         letter-spacing: 0;
+        transition: color var(--transition-fast), border-color var(--transition-fast), background-color var(--transition-fast);
     }
 
     .stTabs [aria-selected="true"] {
@@ -133,8 +182,33 @@ st.markdown("""
 
     /* ── Sidebar ── */
     section[data-testid="stSidebar"] {
-        background-color: var(--bg-dark);
+        background-color: #101617;
         border-right: 1px solid var(--border);
+    }
+
+    section[data-testid="stSidebar"] [data-testid="stSidebarContent"] {
+        padding-top: 1.25rem;
+    }
+
+    .sidebar-brand {
+        border-bottom: 1px solid var(--border);
+        margin: 0 0 1.4rem;
+        padding: 0 0 1.1rem;
+    }
+
+    .sidebar-brand strong {
+        display: block;
+        color: var(--text-main);
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    .sidebar-brand span {
+        color: var(--text-muted);
+        display: block;
+        font-size: 0.78rem;
+        margin-top: 0.25rem;
     }
 
     section[data-testid="stSidebar"] .stMarkdown h2 {
@@ -152,11 +226,116 @@ st.markdown("""
         font-variant-numeric: tabular-nums;
     }
 
+    [data-testid="stDataFrame"] {
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        overflow: hidden;
+    }
+
     /* ── Section Dividers ── */
     .section-divider {
         height: 1px;
         background: var(--border);
         margin: 1.5rem 0;
+    }
+
+    .observatory-header {
+        border-bottom: 1px solid var(--border);
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 2rem;
+        align-items: end;
+        padding: 0.35rem 0 1.25rem;
+        margin-bottom: 1rem;
+    }
+
+    .observatory-kicker {
+        color: var(--primary-light);
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 0.72rem;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .observatory-header h1 {
+        color: var(--text-main);
+        font-size: 2rem;
+        line-height: 1.08;
+        margin: 0.35rem 0 0.45rem;
+        text-wrap: balance;
+    }
+
+    .observatory-header p {
+        color: var(--text-secondary);
+        font-size: 0.92rem;
+        line-height: 1.5;
+        margin: 0;
+        max-width: 760px;
+    }
+
+    .header-stamp {
+        color: var(--text-muted);
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 0.7rem;
+        line-height: 1.55;
+        text-align: right;
+        white-space: nowrap;
+    }
+
+    .context-strip {
+        align-items: center;
+        background: var(--bg-surface);
+        border: 1px solid var(--border);
+        border-radius: var(--radius);
+        display: flex;
+        gap: 0;
+        margin: 0.35rem 0 1.15rem;
+        min-height: 52px;
+        overflow: hidden;
+    }
+
+    .context-item {
+        min-width: 0;
+        padding: 0.65rem 1rem;
+    }
+
+    .context-item + .context-item {
+        border-left: 1px solid var(--border);
+    }
+
+    .context-label {
+        color: var(--text-muted);
+        display: block;
+        font-size: 0.68rem;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+
+    .context-value {
+        color: var(--text-main);
+        display: block;
+        font-size: 0.84rem;
+        font-weight: 600;
+        margin-top: 0.15rem;
+        overflow-wrap: anywhere;
+    }
+
+    [data-testid="stAlert"] {
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+    }
+
+    .modebar-btn {
+        align-items: center !important;
+        display: inline-flex !important;
+        height: 36px !important;
+        justify-content: center !important;
+        width: 36px !important;
+    }
+
+    :is(button, [role="tab"], input, [data-baseweb="select"]):focus-visible {
+        outline: 3px solid rgba(115, 217, 206, 0.35) !important;
+        outline-offset: 2px !important;
     }
 
     h1, h2, h3, h4, p, label, button {
@@ -204,7 +383,7 @@ st.markdown("""
             overflow-x: hidden;
         }
         .block-container {
-            padding: 1.25rem 1rem 3rem;
+            padding: 0.8rem 0.85rem calc(3rem + env(safe-area-inset-bottom));
         }
         [data-testid="stHorizontalBlock"] {
             flex-wrap: wrap;
@@ -215,15 +394,36 @@ st.markdown("""
             min-width: 0;
             width: 100%;
         }
+        [data-testid="stHorizontalBlock"]:has(.glass-card) > [data-testid="stColumn"] {
+            flex: 1 1 calc(50% - 0.4rem);
+            width: calc(50% - 0.4rem);
+        }
         .stTabs [data-baseweb="tab-list"] {
             overflow-x: auto;
             scrollbar-width: thin;
         }
         .glass-card {
-            padding: 1rem;
+            height: 118px;
+            min-height: 118px;
+            padding: 0.9rem 0.85rem 0.9rem 1rem;
+        }
+        [data-testid="stSidebarCollapseButton"] button,
+        [data-testid="collapsedControl"] button,
+        [data-testid="stToolbar"] button,
+        [data-testid="stElementToolbar"] button,
+        [data-testid="stDataFrame"] button {
+            min-width: 44px;
+            min-height: 44px;
+        }
+        [data-testid="stTooltipIcon"] {
+            min-width: 44px;
+            min-height: 44px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
         }
         .kpi-value {
-            font-size: 1.5rem;
+            font-size: 1.32rem;
         }
         .header-text h1 {
             font-size: 1.35rem;
@@ -242,13 +442,58 @@ st.markdown("""
             gap: 1rem;
         }
         [data-testid="stAppViewContainer"] h1 {
-            font-size: 2rem;
+            font-size: 1.65rem;
         }
         [data-testid="stAppViewContainer"] h2 {
             font-size: 1.6rem;
         }
         [data-testid="stAppViewContainer"] h3 {
             font-size: 1.25rem;
+        }
+        .observatory-header {
+            display: block;
+            padding-bottom: 0.9rem;
+        }
+        .observatory-header h1 {
+            font-size: 1.62rem;
+            margin-top: 0.25rem;
+        }
+        .observatory-header p {
+            font-size: 0.84rem;
+        }
+        .header-stamp {
+            display: none;
+        }
+        .context-strip {
+            align-items: stretch;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        .context-item {
+            padding: 0.6rem 0.7rem;
+        }
+        .context-item + .context-item {
+            border-left: 0;
+        }
+        .context-item:nth-child(even) {
+            border-left: 1px solid var(--border);
+        }
+        .context-item:nth-child(n+3) {
+            border-top: 1px solid var(--border);
+        }
+        .stTabs [data-baseweb="tab"] {
+            min-width: max-content;
+        }
+        .modebar-btn {
+            height: 44px !important;
+            width: 44px !important;
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+            scroll-behavior: auto !important;
+            transition-duration: 0.01ms !important;
         }
     }
     </style>
@@ -258,21 +503,37 @@ def apply_plotly_style(fig):
     fig.update_layout(
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(family="Inter", color="#e7e5e4", size=12),
-        xaxis=dict(gridcolor="rgba(255,255,255,0.04)", zeroline=False),
-        yaxis=dict(gridcolor="rgba(255,255,255,0.04)", zeroline=False),
-        margin=dict(l=20, r=20, t=50, b=20),
-        colorway=["#14b8a6", "#fbbf24", "#60a5fa", "#f472b6", "#a3e635"],
-        legend=dict(font=dict(size=11))
+        font=dict(family="IBM Plex Sans", color="#dfe6e4", size=12),
+        title=dict(font=dict(size=16, color="#f2f5f4"), x=0, xanchor="left"),
+        xaxis=dict(gridcolor="rgba(219,232,229,0.07)", zeroline=False, title_font=dict(size=11)),
+        yaxis=dict(gridcolor="rgba(219,232,229,0.07)", zeroline=False, title_font=dict(size=11)),
+        margin=dict(l=20, r=16, t=58, b=28),
+        colorway=["#23b5a6", "#e8b44f", "#65a9d8", "#ec7b6d", "#9cbd62"],
+        legend=dict(font=dict(size=11), orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        hoverlabel=dict(bgcolor="#202a2c", bordercolor="#40504e", font=dict(family="IBM Plex Sans", color="#f2f5f4")),
+        hovermode="closest",
     )
     return fig
 
-def render_kpi(label, value):
+COLOR_SCALE_LABORAL = [
+    [0.00, "#273638"], [0.35, "#277f78"], [0.70, "#23b5a6"], [1.00, "#9cbd62"]
+]
+COLOR_SCALE_RIESGO = [
+    [0.00, "#334247"], [0.45, "#e8b44f"], [1.00, "#ec7b6d"]
+]
+PLOTLY_CONFIG = {
+    "displaylogo": False,
+    "modeBarButtonsToRemove": ["lasso2d", "select2d"],
+    "responsive": True,
+}
+
+def render_kpi(label, value, context="", tone="teal"):
     st.markdown(f"""
-        <div class="glass-card">
+        <div class="glass-card" data-tone="{tone}">
             <div class="kpi-container">
                 <span class="kpi-label">{label}</span>
                 <span class="kpi-value">{value}</span>
+                <span class="kpi-context">{context}</span>
             </div>
         </div>
     """, unsafe_allow_html=True)
@@ -323,10 +584,16 @@ def load_data_avanzado(anio, version: str):
 datos = load_data_base(DATA_VERSION)
 
 # ─── Header ───
-st.title("Pulso Laboral: Observatorio GEIH")
-st.caption("Cifras de empleo, ingresos y condiciones laborales construidas con los microdatos de la GEIH, marco 2018.")
-
-st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
+st.markdown("""
+    <header class="observatory-header">
+        <div>
+            <div class="observatory-kicker">Mercado laboral colombiano · GEIH marco 2018</div>
+            <h1>Pulso Laboral</h1>
+            <p>Indicadores de empleo, ingresos y condiciones laborales calculados con microdatos del DANE.</p>
+        </div>
+        <div class="header-stamp">OBSERVATORIO GEIH<br>ENERO 2022 — ABRIL 2026</div>
+    </header>
+""", unsafe_allow_html=True)
 
 if 'kpis' not in datos:
     st.markdown(
@@ -336,7 +603,13 @@ if 'kpis' not in datos:
     st.stop()
 
 # ─── Filtros (Sidebar) ───
-st.sidebar.markdown("## Filtros de Análisis")
+st.sidebar.markdown("""
+    <div class="sidebar-brand">
+        <strong>OBSERVATORIO GEIH</strong>
+        <span>Lectura territorial del mercado laboral</span>
+    </div>
+""", unsafe_allow_html=True)
+st.sidebar.markdown("## Corte de consulta")
 df_kpis = datos['kpis']
 
 anios_disponibles = sorted(df_kpis['Año'].unique().tolist(), reverse=True)
@@ -370,7 +643,7 @@ selected_ciudad = st.sidebar.selectbox("Dominio GEIH", ciudades_disponibles)
 
 # Capa de Seguridad Estadística
 st.sidebar.markdown("---")
-st.sidebar.markdown("### Precisión Muestral")
+st.sidebar.markdown("### Control de precisión")
 ver_ciudades_riesgo = st.sidebar.checkbox("Incluir dominios con baja precisión", value=False, 
                                           help="Incluye dominios con menor tamaño muestral. La clasificación es preventiva y no sustituye errores oficiales del diseño GEIH.")
 
@@ -398,22 +671,34 @@ if selected_ciudad in CIUDADES_RIESGO:
     """, unsafe_allow_html=True)
 
 # ─── Navegación Principal ───
+dominio_contexto = "Total nacional" if selected_ciudad == CIUDAD_NACIONAL else selected_ciudad
+precision_contexto = "Lectura exploratoria" if selected_ciudad in CIUDADES_RIESGO else "Control preventivo activo"
+st.markdown(f"""
+    <div class="context-strip" aria-label="Contexto de la consulta">
+        <div class="context-item"><span class="context-label">Dominio</span><span class="context-value">{dominio_contexto}</span></div>
+        <div class="context-item"><span class="context-label">Ventana</span><span class="context-value">{etiqueta_periodo.capitalize()}</span></div>
+        <div class="context-item"><span class="context-label">Año</span><span class="context-value">{selected_anio}</span></div>
+        <div class="context-item"><span class="context-label">Precisión</span><span class="context-value">{precision_contexto}</span></div>
+    </div>
+""", unsafe_allow_html=True)
+
 main_tab1, main_tab_presion, main_tab2, main_tab3 = st.tabs([
-    "Mercado",
-    "Presión",
-    "Macro",
-    "Método"
+    "Mercado laboral",
+    "Calidad del empleo",
+    "Estructura anual",
+    "Metodología"
 ])
 
 with main_tab1:
     titulo_kpi = "Panorama Nacional" if selected_ciudad == "Todas (Panorama Nacional)" else f"Panorama: {selected_ciudad}"
     st.subheader(f"{titulo_kpi} · {etiqueta_periodo} {selected_anio}")
     
-    c1, c2, c3, c4 = st.columns(4)
-    with c1: render_kpi("Tasa de desocupación", f"{td_val:.1f}%")
-    with c2: render_kpi("Ocupados", f"{oc_m:.2f} M")
-    with c3: render_kpi("Tasa Global de Participación", f"{tgp_val:.1f}%")
-    with c4: render_kpi("Desocupados", f"{des_m:.2f} M")
+    c1, c2, c3, c4, c5 = st.columns(5)
+    with c1: render_kpi("Desocupación", f"{td_val:.1f}%", "de la fuerza de trabajo", "coral")
+    with c2: render_kpi("Ocupación", f"{to_val:.1f}%", "de la población en edad de trabajar", "teal")
+    with c3: render_kpi("Participación", f"{tgp_val:.1f}%", "en la fuerza de trabajo", "sky")
+    with c4: render_kpi("Personas ocupadas", f"{oc_m:.2f} M", "población expandida", "lime")
+    with c5: render_kpi("Personas desocupadas", f"{des_m:.2f} M", "población expandida", "amber")
     
     st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
     
@@ -431,19 +716,23 @@ with main_tab1:
             if not ver_ciudades_riesgo:
                 df_plot_ranking = df_plot_ranking[~df_plot_ranking['Ciudad'].isin(CIUDADES_RIESGO)]
 
+            ranking = df_plot_ranking.nlargest(15, "TD_%").sort_values("TD_%")
             fig = px.bar(
-                df_plot_ranking.sort_values(by="TD_%", ascending=False).head(20), 
-                x="Ciudad", y="TD_%", 
+                ranking,
+                x="TD_%", y="Ciudad", orientation="h",
                 color="TD_%", 
-                color_continuous_scale="Viridis",
+                color_continuous_scale=COLOR_SCALE_RIESGO,
                 text="TD_%",
                 title=f"Dominios GEIH con mayor tasa de desocupación — {etiqueta_periodo} {selected_anio}"
             )
-            fig.update_traces(hovertemplate='<b>%{x}</b><br>Tasa de desocupación: %{y:.1f}%<extra></extra>')
+            fig.update_traces(hovertemplate='<b>%{y}</b><br>Tasa de desocupación: %{x:.1f}%<extra></extra>')
             apply_plotly_style(fig)
-            fig.update_traces(texttemplate='%{text:.1f}%', textposition='outside')
+            fig.update_traces(texttemplate='%{text:.1f}%', textposition='outside', cliponaxis=False)
+            fig.update_layout(height=500, coloraxis_showscale=False)
+            fig.update_yaxes(title=None)
+            fig.update_xaxes(title="Tasa de desocupación (%)")
             
-            st.plotly_chart(fig, width="stretch")
+            st.plotly_chart(fig, width="stretch", config=PLOTLY_CONFIG)
             
             if not ver_ciudades_riesgo:
                 st.caption(f"Se han excluido {len(CIUDADES_RIESGO)} dominios con baja precisión muestral. Active el filtro en el panel lateral para incluirlos.")
@@ -501,13 +790,13 @@ with main_tab1:
                     df_plot, 
                     x="Mediana", y="Rama", orientation='h',
                     color="Mediana_SMMLV", 
-                    color_continuous_scale="Viridis",
+                    color_continuous_scale=COLOR_SCALE_LABORAL,
                     title=f"{subtitulo} — {etiqueta_periodo} {selected_anio}",
                     hover_data=["Mediana_SMMLV"]
                 )
                 fig2.update_traces(hovertemplate='<b>%{y}</b><br>Salario Mediano: $%{x:,.0f}<br>Eq. Salario Mínimo: %{customdata[0]:.2f} SMMLV<extra></extra>')
                 apply_plotly_style(fig2)
-                st.plotly_chart(fig2, width="stretch")
+                st.plotly_chart(fig2, width="stretch", config=PLOTLY_CONFIG)
             else:
                 st.info("No hay suficientes datos salariales para esta selección.")
 
@@ -531,7 +820,7 @@ with main_tab1:
             )
             fig_tasas.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Tasa: %{y:.1f}%<extra></extra>')
             apply_plotly_style(fig_tasas)
-            st.plotly_chart(fig_tasas, width="stretch")
+            st.plotly_chart(fig_tasas, width="stretch", config=PLOTLY_CONFIG)
             
             # Volúmenes
             col1, col2 = st.columns(2)
@@ -543,7 +832,7 @@ with main_tab1:
                 )
                 fig_oc.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Ocupados: %{y:.2f} Millones<extra></extra>')
                 apply_plotly_style(fig_oc)
-                st.plotly_chart(fig_oc, width="stretch")
+                st.plotly_chart(fig_oc, width="stretch", config=PLOTLY_CONFIG)
             
             with col2:
                 fig_des = px.area(
@@ -553,7 +842,7 @@ with main_tab1:
                 )
                 fig_des.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Desocupados: %{y:.2f} Millones<extra></extra>')
                 apply_plotly_style(fig_des)
-                st.plotly_chart(fig_des, width="stretch")
+                st.plotly_chart(fig_des, width="stretch", config=PLOTLY_CONFIG)
 
             with st.expander("Ver tabla de datos históricos"):
                 cols_hist = ['Año', 'MES', 'TD_%', 'TGP_%', 'TO_%']
@@ -648,7 +937,7 @@ with main_tab_presion:
                 fig_presion.update_traces(hovertemplate='<b>%{y}</b><br>%{x:.1f}%<extra></extra>')
                 fig_presion.update_layout(showlegend=False)
                 apply_plotly_style(fig_presion)
-                st.plotly_chart(fig_presion, width="stretch")
+                st.plotly_chart(fig_presion, width="stretch", config=PLOTLY_CONFIG)
 
                 d1, d2 = st.columns(2)
                 with d1:
@@ -681,7 +970,7 @@ with main_tab_presion:
                 fig_calidad.update_traces(hovertemplate='<b>%{x}</b><br>%{y:.1f}%<extra></extra>')
                 fig_calidad.update_layout(showlegend=False)
                 apply_plotly_style(fig_calidad)
-                st.plotly_chart(fig_calidad, width="stretch")
+                st.plotly_chart(fig_calidad, width="stretch", config=PLOTLY_CONFIG)
 
                 i1, i2 = st.columns(2)
                 with i1:
@@ -707,7 +996,7 @@ with main_tab_presion:
                     fig_nini.update_traces(hovertemplate='<b>%{y}</b><br>%{x:.1f}% de jóvenes<extra></extra>')
                     fig_nini.update_layout(showlegend=False)
                     apply_plotly_style(fig_nini)
-                    st.plotly_chart(fig_nini, width="stretch")
+                    st.plotly_chart(fig_nini, width="stretch", config=PLOTLY_CONFIG)
                 with y2:
                     st.metric("Tasa NINI OIT de 15 a 24 años", pct(v['Tasa_NINI_15_24_%']))
                     st.caption("La medida 15–24 permite comparación internacional; la medida 15–28 conserva la adaptación nacional.")
@@ -816,7 +1105,7 @@ with main_tab2:
             )
             fig_b.update_traces(hovertemplate='<b>Nivel: %{x}</b><br>Género: %{data.name}<br>Ingreso Promedio: $%{y:,.0f}<br>Brecha del Nivel: %{customdata[0]:.1f}%<extra></extra>')
             apply_plotly_style(fig_b)
-            st.plotly_chart(fig_b, width="stretch")
+            st.plotly_chart(fig_b, width="stretch", config=PLOTLY_CONFIG)
             
             with st.expander("Ver tabla de datos — Brecha salarial"):
                 st.dataframe(df_b, width="stretch", hide_index=True)
@@ -837,7 +1126,7 @@ with main_tab2:
                 )
                 fig_rs.update_traces(hovertemplate='<b>Sector: %{y}</b><br>Género: %{data.name}<br>Volumen: %{x:.2f} M ocupados<extra></extra>')
                 apply_plotly_style(fig_rs)
-                st.plotly_chart(fig_rs, width="stretch")
+                st.plotly_chart(fig_rs, width="stretch", config=PLOTLY_CONFIG)
 
                 with st.expander("Ver tabla de datos — Distribución por sexo"):
                     st.dataframe(df_rs, width="stretch", hide_index=True)
@@ -857,11 +1146,11 @@ with main_tab2:
             if not df_ice.empty:
                 fig_ice = px.bar(
                     df_ice.tail(15), x="ICE", y="Rama", orientation='h',
-                    color="ICE", color_continuous_scale="Viridis",
+                    color="ICE", color_continuous_scale=COLOR_SCALE_LABORAL,
                 )
                 fig_ice.update_traces(hovertemplate='<b>%{y}</b><br>Puntaje ICE: %{x:.1f} / 100<extra></extra>')
                 apply_plotly_style(fig_ice)
-                st.plotly_chart(fig_ice, width="stretch")
+                st.plotly_chart(fig_ice, width="stretch", config=PLOTLY_CONFIG)
             else:
                 st.info("Registros insuficientes.")
         else:
@@ -874,11 +1163,11 @@ with main_tab2:
             df_ivi = datos_adv['vulnerabilidad'].sort_values("IVI", ascending=True)
             fig_ivi = px.bar(
                 df_ivi.tail(15), x="IVI", y="Rama", orientation='h',
-                color="IVI", color_continuous_scale="OrRd",
+                color="IVI", color_continuous_scale=COLOR_SCALE_RIESGO,
             )
             fig_ivi.update_traces(hovertemplate='<b>%{y}</b><br>Nivel de Vulnerabilidad: %{x:.1f}%<extra></extra>')
             apply_plotly_style(fig_ivi)
-            st.plotly_chart(fig_ivi, width="stretch")
+            st.plotly_chart(fig_ivi, width="stretch", config=PLOTLY_CONFIG)
         else:
             st.info("Datos de vulnerabilidad no disponibles.")
 
@@ -904,7 +1193,7 @@ with main_tab2:
                 )
                 fig_f.update_traces(hovertemplate='<b>Sector: %{y}</b><br>Cobertura (%{data.name}): %{x:.1f}%<extra></extra>')
                 apply_plotly_style(fig_f)
-                st.plotly_chart(fig_f, width="stretch")
+                st.plotly_chart(fig_f, width="stretch", config=PLOTLY_CONFIG)
                 
                 with st.expander("Ver tabla de datos — Formalidad"):
                     st.dataframe(df_form, width="stretch", hide_index=True)
@@ -919,11 +1208,11 @@ with main_tab2:
             if not df_costos.empty:
                 fig_c = px.bar(
                     df_costos.tail(10), x="Costo_SMMLV", y="Rama", orientation='h',
-                    color="Costo_SMMLV", color_continuous_scale="Cividis"
+                    color="Costo_SMMLV", color_continuous_scale=COLOR_SCALE_LABORAL
                 )
                 fig_c.update_traces(hovertemplate='<b>%{y}</b><br>Costo Promedio: %{x:.2f} SMMLVs<extra></extra>')
                 apply_plotly_style(fig_c)
-                st.plotly_chart(fig_c, width="stretch")
+                st.plotly_chart(fig_c, width="stretch", config=PLOTLY_CONFIG)
 
                 with st.expander("Ver tabla de datos — Costos laborales"):
                     st.dataframe(df_costos.sort_values("Costo_SMMLV", ascending=False), width="stretch", hide_index=True)
