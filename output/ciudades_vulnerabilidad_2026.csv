@@ -102,15 +102,14 @@ index,Rama,IVI,Ocupados_miles,n_muestra,poblacion_estimada,Ciudad,Año
 0,"Actividades profesionales, científicas, técnicas y de servicios administrativos",34.3,6,267,6303.65286679975,Florencia,2026
 3,Comercio y reparación de vehículos,31.4,16,648,15743.01071791125,Florencia,2026
 2,"Administración pública y defensa, educación y atención de la salud humana",8.8,14,564,13596.34051032575,Florencia,2026
-0,Construcción,34.5,13,244,12803.68615936025,Ibagué,2026
-5,Transporte y almacenamiento,32.0,12,235,12148.163431008,Ibagué,2026
-7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.5,9,190,9295.876986020001,Ibagué,2026
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",27.3,15,319,15151.228968305,Ibagué,2026
-4,Alojamiento y servicios de comida,26.7,12,236,12048.542590079,Ibagué,2026
-3,Comercio y reparación de vehículos,23.4,29,582,29389.10498716425,Ibagué,2026
-2,Industrias manufactureras,19.1,12,233,12424.78043770675,Ibagué,2026
-8,"Suministro de electricidad, gas, agua y gestión de desechos^",12.0,5,107,5373.8578925775,Ibagué,2026
-1,"Administración pública y defensa, educación y atención de la salud humana",5.1,32,656,31785.338764261,Ibagué,2026
+3,Transporte y almacenamiento,40.4,17,171,16871.75481862,Ibagué,2026
+5,Alojamiento y servicios de comida,33.3,17,181,16797.1327961225,Ibagué,2026
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",32.9,19,204,19073.20423085,Ibagué,2026
+0,Comercio y reparación de vehículos,29.7,48,502,47681.30370976,Ibagué,2026
+4,Construcción,29.5,17,172,16864.432635295,Ibagué,2026
+2,"Actividades profesionales, científicas, técnicas y de servicios administrativos",27.1,18,190,17815.1431746,Ibagué,2026
+6,Industrias manufactureras,27.1,22,226,22018.221223485,Ibagué,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",7.9,42,433,41885.056059695,Ibagué,2026
 8,Transporte y almacenamiento,30.0,15,307,15146.75211413975,Manizales A.M.,2026
 0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",28.0,22,437,21694.9238806445,Manizales A.M.,2026
 4,Comercio y reparación de vehículos,26.0,44,885,44496.73453678375,Manizales A.M.,2026
@@ -142,6 +141,15 @@ index,Rama,IVI,Ocupados_miles,n_muestra,poblacion_estimada,Ciudad,Año
 6,Industrias manufactureras,27.5,13,196,12900.14632581875,Montería,2026
 1,"Actividades profesionales, científicas, técnicas y de servicios administrativos",25.0,13,193,12881.5576765615,Montería,2026
 5,"Administración pública y defensa, educación y atención de la salud humana",7.8,37,553,37327.148678893,Montería,2026
+0,Construcción,34.5,13,244,12803.68615936025,Neiva,2026
+5,Transporte y almacenamiento,32.0,12,235,12148.163431008,Neiva,2026
+7,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",27.5,9,190,9295.876986020001,Neiva,2026
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",27.3,15,319,15151.228968305,Neiva,2026
+4,Alojamiento y servicios de comida,26.7,12,236,12048.542590079,Neiva,2026
+3,Comercio y reparación de vehículos,23.4,29,582,29389.10498716425,Neiva,2026
+2,Industrias manufactureras,19.1,12,233,12424.78043770675,Neiva,2026
+8,"Suministro de electricidad, gas, agua y gestión de desechos^",12.0,5,107,5373.8578925775,Neiva,2026
+1,"Administración pública y defensa, educación y atención de la salud humana",5.1,32,656,31785.338764261,Neiva,2026
 4,Transporte y almacenamiento,51.3,16,371,15927.796215075,Pasto,2026
 7,Industrias manufactureras,35.4,12,296,12217.1290228245,Pasto,2026
 3,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",34.2,14,331,13538.43195063825,Pasto,2026

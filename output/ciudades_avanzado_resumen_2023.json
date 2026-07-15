@@ -102,11 +102,11 @@
     {
         "Año":2023,
         "Ciudad":"Ibagué",
-        "Gini":0.4378,
-        "Joven_TD_joven_%":20.6,
-        "Joven_Ocupados_joven_M":0.03,
-        "Joven_PEA_joven_M":0.04,
-        "CV_TD_joven_%":6.4,
+        "Gini":0.4095,
+        "Joven_TD_joven_%":23.2,
+        "Joven_Ocupados_joven_M":0.04,
+        "Joven_PEA_joven_M":0.05,
+        "CV_TD_joven_%":6.7,
         "Precisión_DANE":"✅ Precisión alta"
     },
     {
@@ -177,6 +177,16 @@
         "Joven_Ocupados_joven_M":0.03,
         "Joven_PEA_joven_M":0.04,
         "CV_TD_joven_%":5.9,
+        "Precisión_DANE":"✅ Precisión alta"
+    },
+    {
+        "Año":2023,
+        "Ciudad":"Neiva",
+        "Gini":0.4378,
+        "Joven_TD_joven_%":20.6,
+        "Joven_Ocupados_joven_M":0.03,
+        "Joven_PEA_joven_M":0.04,
+        "CV_TD_joven_%":6.4,
         "Precisión_DANE":"✅ Precisión alta"
     },
     {

@@ -33,7 +33,7 @@ VARIABLES_DASHBOARD = [
 
     # Empleo, ingreso y clasificaciones
     ("Empleo", "P6430", "Posicion ocupacional", "Categorias DANE", "Ocupados", "Asalariados, independientes e informalidad"),
-    ("Empleo", "P6800", "Horas que trabaja normalmente por semana", "1 a 126", "Ocupados", "Jornada, ICE, IVI y subocupacion"),
+    ("Empleo", "P6800", "Horas que trabaja normalmente por semana", "1 a 130", "Ocupados", "Jornada, ICE, IVI y subocupacion"),
     ("Ingreso", "INGLABO", "Ingreso laboral mensual armonizado", "COP; faltante si no observable", "Ocupados", "Salarios, Gini, Mincer e ingreso real"),
     ("Actividad", "RAMA2D_R4", "Rama CIIU Rev. 4 A.C. a dos digitos", "Codigo de actividad", "Ocupados", "Sectores y clasificacion de informalidad"),
     ("Ocupacion", "OFICIO_C8", "Ocupacion CIUO-08 a cuatro digitos", "Codigo ocupacional", "Ocupados", "Informalidad y sobrecalificacion"),
@@ -85,7 +85,8 @@ FORMULAS_DASHBOARD = [
     ("Oficial DANE", "Tasa de ocupacion (TO)", "Poblacion en edad de trabajar", "OC", "PET", "OC / PET x 100", "OCI, PET, FEX_C18", "Movil 12 meses"),
     ("Oficial DANE", "Proporcion de ocupacion informal", "Poblacion ocupada", "Ocupados informales EI=0", "OC", "Informales / OC x 100", "P6430 y 20 insumos del algoritmo EI", "Movil 12 meses"),
     ("Oficial DANE", "Tasa de subocupacion", "Fuerza de trabajo", "PS", "FT", "PS / FT x 100", "P7090-P7160, P6800", "Movil 12 meses"),
-    ("OIT/DANE", "LU3: subutilizacion combinada", "Fuerza de trabajo", "SIH + DS", "FT", "(SIH + DS) / FT x 100", "P7090, P7110, P7120, P6800, DSI", "Movil 12 meses"),
+    ("OIT", "LU2: desocupacion e insuficiencia de horas", "Fuerza de trabajo", "SIH + DS", "FT", "(SIH + DS) / FT x 100", "P7090, P7110, P7120, P6800, DSI", "Movil 12 meses"),
+    ("OIT", "LU3: desocupacion y fuerza potencial", "Fuerza de trabajo ampliada", "DS + FTP", "FT + FTP", "(DS + FTP) / (FT + FTP) x 100", "FT, FFT, P6280, P6300, DSI", "Movil 12 meses"),
     ("OIT/DANE", "LU4: subutilizacion amplia", "FT mas fuerza potencial", "SIH + DS + FTP", "FT + FTP", "(SIH + DS + FTP) / (FT + FTP) x 100", "FT, FFT, P6280, P6300 y SIH", "Movil 12 meses"),
     ("Analitico", "Desempleo de larga duracion", "Desocupados con duracion observada", "P7250 >= 52 semanas", "P7250 valido", "Numerador / denominador x 100", "DSI, P7250", "Movil 12 meses"),
     ("Analitico", "Contrato escrito", "Asalariados P6430 in 1,2,3,7", "P6440=1 y P6450=2", "Asalariados", "Numerador / denominador x 100", "P6430, P6440, P6450", "Movil 12 meses"),
@@ -93,6 +94,7 @@ FORMULAS_DASHBOARD = [
     ("Analitico", "Ingreso real mediano", "Ocupados con INGLABO > 0", "Mediana ponderada", "No aplica", "Mediana ponderada de INGLABO/(IPC/100)", "INGLABO, FEX_C18, IPC DANE", "Movil 12 meses"),
     ("Analitico", "Ingreso inferior a 1 SMMLV", "Ocupados con INGLABO > 0", "INGLABO < SMMLV", "Ingreso observado positivo", "Numerador / denominador x 100", "INGLABO, SMMLV, FEX_C18", "Movil 12 meses"),
     ("OIT adaptado", "NINI 15-28", "Jovenes 15-28 con asistencia valida", "No OCI y P6170=2", "Jovenes validos", "Numerador / denominador x 100", "P6040, OCI, P6170", "Movil 12 meses"),
+    ("OIT", "NINI 15-24", "Jovenes 15-24 con asistencia valida", "No OCI y P6170=2", "Jovenes validos", "Numerador / denominador x 100", "P6040, OCI, P6170", "Movil 12 meses"),
     ("OIT normativo", "Sobrecalificacion educativa", "Ocupados con educacion y CIUO validas", "Nivel CINE superior al requerido por CIUO-08", "Ocupados clasificables", "Numerador / denominador x 100", "P3042, OFICIO_C8, OCI", "Movil 12 meses"),
     ("Analitico", "Gini de ingreso laboral", "Ocupados con INGLABO > 0", "Area entre Lorenz e igualdad", "No aplica", "Gini ponderado por FEX_ADJ", "INGLABO, OCI, FEX_ADJ", "Ano calendario/disponible"),
     ("Analitico", "Brecha salarial por educacion", "Ocupados con ingreso positivo", "Mediana mujeres - mediana hombres", "Mediana hombres", "(M-H)/H x 100", "P3271, P3042, INGLABO, FEX_ADJ", "Ano calendario/disponible"),

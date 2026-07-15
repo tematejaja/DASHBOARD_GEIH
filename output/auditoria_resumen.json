@@ -1,0 +1,12 @@
+{
+  "fecha_ejecucion": "2026-07-15",
+  "periodo": "2022-01/2026-04",
+  "variables": 57,
+  "celdas_variable": 89376,
+  "dominios_registrados": 32,
+  "comparaciones_numericas": 6,
+  "fuentes_registradas": 6,
+  "errores_criticos": 0,
+  "publicacion_habilitada": true,
+  "limitacion_muestreo": "Sin estrato ni UPM: no se estiman errores oficiales de muestreo."
+}

@@ -102,15 +102,14 @@ index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,po
 4,Transporte y almacenamiento,900000,1386000,0.78,1.19,659,5445.444075489917,Florencia,2023
 5,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,687,5011.21121389975,Florencia,2023
 0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",800000,1232000,0.69,1.06,918,6760.846413618333,Florencia,2023
-1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1539,24628.28407181075,Ibagué,2023
-7,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.47,2.26,305,5339.04126701275,Ibagué,2023
-8,Industrias manufactureras,1160000,1786400,1.0,1.54,645,10300.4466252895,Ibagué,2023
-0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,1886,30272.009156321583,Ibagué,2023
-2,Construcción,1160000,1786400,1.0,1.54,772,12593.00472767375,Ibagué,2023
-5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1150000,1771000,0.99,1.53,988,15479.880212868084,Ibagué,2023
-6,Transporte y almacenamiento,1000000,1540000,0.86,1.33,686,11142.546320916917,Ibagué,2023
-4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,724,11302.949236952833,Ibagué,2023
-3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,706,11097.174383940583,Ibagué,2023
+5,"Administración pública y defensa, educación y atención de la salud humana",2300000,3542000,1.98,3.05,1187,34275.583138735834,Ibagué,2023
+0,Construcción,1200000,1848000,1.03,1.59,579,16720.942085441668,Ibagué,2023
+1,Transporte y almacenamiento,1160000,1786400,1.0,1.54,522,14641.436900759,Ibagué,2023
+3,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,1527,42367.29016765317,Ibagué,2023
+6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1160000,1786400,1.0,1.54,572,15735.4017451825,Ibagué,2023
+7,Industrias manufactureras,1160000,1786400,1.0,1.54,686,19122.3676935675,Ibagué,2023
+10,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1160000,1786400,1.0,1.54,701,19971.1246434125,Ibagué,2023
+2,Alojamiento y servicios de comida,1000000,1540000,0.86,1.33,528,14747.085559314,Ibagué,2023
 0,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,2233,36263.579061485914,Manizales A.M.,2023
 1,Información y comunicaciones,1800000,2772000,1.55,2.39,384,6424.183074019833,Manizales A.M.,2023
 5,Construcción,1200000,1848000,1.03,1.59,975,16336.280431458334,Manizales A.M.,2023
@@ -141,6 +140,15 @@ index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,po
 2,Transporte y almacenamiento,700000,1078000,0.6,0.93,906,19175.188615640665,Montería,2023
 7,Alojamiento y servicios de comida,700000,1078000,0.6,0.93,729,14041.761638558084,Montería,2023
 9,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",660000,1016400,0.57,0.88,1144,22650.821333999418,Montería,2023
+1,"Administración pública y defensa, educación y atención de la salud humana",2000000,3080000,1.72,2.66,1539,24628.28407181075,Neiva,2023
+7,"Suministro de electricidad, gas, agua y gestión de desechos^",1700000,2618000,1.47,2.26,305,5339.04126701275,Neiva,2023
+8,Industrias manufactureras,1160000,1786400,1.0,1.54,645,10300.4466252895,Neiva,2023
+0,Comercio y reparación de vehículos,1160000,1786400,1.0,1.54,1886,30272.009156321583,Neiva,2023
+2,Construcción,1160000,1786400,1.0,1.54,772,12593.00472767375,Neiva,2023
+5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1150000,1771000,0.99,1.53,988,15479.880212868084,Neiva,2023
+6,Transporte y almacenamiento,1000000,1540000,0.86,1.33,686,11142.546320916917,Neiva,2023
+4,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",950000,1463000,0.82,1.26,724,11302.949236952833,Neiva,2023
+3,Alojamiento y servicios de comida,900000,1386000,0.78,1.19,706,11097.174383940583,Neiva,2023
 6,"Administración pública y defensa, educación y atención de la salud humana",2200000,3388000,1.9,2.92,2271,31066.518725857084,Pasto,2023
 1,Comercio y reparación de vehículos,1000000,1540000,0.86,1.33,2918,38610.319832071415,Pasto,2023
 8,Construcción,1000000,1540000,0.86,1.33,562,7913.5519542415,Pasto,2023

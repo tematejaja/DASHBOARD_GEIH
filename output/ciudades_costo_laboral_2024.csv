@@ -100,14 +100,14 @@ index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,po
 6,Transporte y almacenamiento,1000000,1540000,0.77,1.18,725,6247.53113198875,Florencia,2024
 5,Alojamiento y servicios de comida,960000,1478400,0.74,1.14,760,5882.695107840416,Florencia,2024
 10,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",900000,1386000,0.69,1.07,864,6471.566388247584,Florencia,2024
-2,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,1563,24796.254782709915,Ibagué,2024
-0,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,1874,30657.108778247915,Ibagué,2024
-6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,1006,16595.738723435832,Ibagué,2024
-4,Construcción,1300000,2002000,1.0,1.54,821,13726.533168859083,Ibagué,2024
-5,Industrias manufactureras,1300000,2002000,1.0,1.54,579,9559.35927966775,Ibagué,2024
-9,Transporte y almacenamiento,1300000,2002000,1.0,1.54,729,12155.975291147834,Ibagué,2024
-1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.92,1.42,655,10787.031761469667,Ibagué,2024
-3,Alojamiento y servicios de comida,1080000,1663200,0.83,1.28,775,12807.466609844834,Ibagué,2024
+5,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,1178,35297.762604221665,Ibagué,2024
+7,Construcción,1300000,2002000,1.0,1.54,535,16679.259716573335,Ibagué,2024
+9,Transporte y almacenamiento,1300000,2002000,1.0,1.54,546,15818.0694519775,Ibagué,2024
+3,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,723,21482.448731305834,Ibagué,2024
+4,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,1574,46473.97717607,Ibagué,2024
+11,Industrias manufactureras,1300000,2002000,1.0,1.54,638,19190.7248823725,Ibagué,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1260000,1940400,0.97,1.49,628,18146.502448101666,Ibagué,2024
+0,Alojamiento y servicios de comida,1080000,1663200,0.83,1.28,516,15110.401703691667,Ibagué,2024
 3,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,2195,37698.54740783592,Manizales A.M.,2024
 9,Actividades financieras y de seguros,2000000,3080000,1.54,2.37,296,5129.894499422084,Manizales A.M.,2024
 11,Información y comunicaciones,2000000,3080000,1.54,2.37,338,5734.330329581084,Manizales A.M.,2024
@@ -139,6 +139,14 @@ index,Rama,Mediana_COP,Costo_efectivo_COP,Mediana_SMMLV,Costo_SMMLV,n_muestra,po
 2,Alojamiento y servicios de comida,800000,1232000,0.62,0.95,794,15872.743225786084,Montería,2024
 5,Transporte y almacenamiento,800000,1232000,0.62,0.95,857,18576.752425526334,Montería,2024
 0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",775000,1193500,0.6,0.92,1140,23509.340964384584,Montería,2024
+2,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,1563,24796.254782709915,Neiva,2024
+0,Comercio y reparación de vehículos,1300000,2002000,1.0,1.54,1874,30657.108778247915,Neiva,2024
+6,"Actividades profesionales, científicas, técnicas y de servicios administrativos",1300000,2002000,1.0,1.54,1006,16595.738723435832,Neiva,2024
+4,Construcción,1300000,2002000,1.0,1.54,821,13726.533168859083,Neiva,2024
+5,Industrias manufactureras,1300000,2002000,1.0,1.54,579,9559.35927966775,Neiva,2024
+9,Transporte y almacenamiento,1300000,2002000,1.0,1.54,729,12155.975291147834,Neiva,2024
+1,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",1200000,1848000,0.92,1.42,655,10787.031761469667,Neiva,2024
+3,Alojamiento y servicios de comida,1080000,1663200,0.83,1.28,775,12807.466609844834,Neiva,2024
 6,"Administración pública y defensa, educación y atención de la salud humana",2500000,3850000,1.92,2.96,2523,33982.138314090334,Pasto,2024
 0,Comercio y reparación de vehículos,1045000,1609300,0.8,1.24,2833,37484.334212915666,Pasto,2024
 11,Construcción,1000000,1540000,0.77,1.18,594,7911.19400300425,Pasto,2024

@@ -1,7 +1,7 @@
 {
   "estado": "APROBADO",
   "variables_documentadas": 57,
-  "indicadores_documentados": 21,
+  "indicadores_documentados": 23,
   "cobertura_por_anio": {
     "2022": {
       "requeridas": 56,
@@ -64,9 +64,11 @@
   },
   "error_maximo_formulas_valor_agregado_pp": {
     "Subocupacion_pp": 7.105427357601002e-15,
-    "LU3_pp": 7.105427357601002e-15,
+    "LU2_pp": 7.105427357601002e-15,
+    "LU3_pp": 1.4210854715202004e-14,
     "LU4_pp": 1.0658141036401503e-14,
-    "NINI_pp": 1.0658141036401503e-14,
+    "NINI_pp": 1.4210854715202004e-14,
+    "NINI_15_24_pp": 1.0658141036401503e-14,
     "Sobrecalificacion_pp": 1.4210854715202004e-14
   },
   "validacion_dane_marzo_2025": {

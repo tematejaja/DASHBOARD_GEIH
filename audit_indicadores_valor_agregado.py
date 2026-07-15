@@ -49,6 +49,8 @@ def main():
     assert diciembre["NINI_Desocupados_%"] + diciembre["NINI_Fuera_FT_%"] <= diciembre["Tasa_NINI_15_28_%"] + 0.05
     assert diciembre["Proteccion_Integral_%"] <= diciembre["Contrato_Escrito_%"] + 1e-9
     assert diciembre["Tasa_Subutilizacion_LU4_%"] >= diciembre["Tasa_Subutilizacion_LU3_%"] - 1e-9
+    assert diciembre["Tasa_Subutilizacion_LU4_%"] >= diciembre["Tasa_Subutilizacion_LU2_%"] - 1e-9
+    assert pd.notna(diciembre["Tasa_NINI_15_24_%"])
 
     cobertura = d.groupby("Año")["MES"].nunique().to_dict()
     print(f"OK: {len(d):,} filas; {len(tasas)} tasas; cobertura={cobertura}")

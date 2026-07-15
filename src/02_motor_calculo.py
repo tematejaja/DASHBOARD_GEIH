@@ -6,12 +6,16 @@ import numpy as np
 from geih import (
     ConfigGEIH, ConsolidadorGEIH, PreparadorGEIH,
     IndicadoresLaborales, AnalisisSalarios,
-    AREA_A_CIUDAD,
     BrechaGenero, IndicesCompuestos,
     CostoLaboral, FormalidadSectorial, FuerzaLaboralJoven,
     CalidadEmpleo, VulnerabilidadLaboral, EcuacionMincer, AnalisisRamaSexo
 )
 import json
+
+try:
+    from src.geografia_geih import asignar_dominio
+except ModuleNotFoundError:  # Ejecucion directa: python src/02_motor_calculo.py
+    from geografia_geih import asignar_dominio
 
 VARIABLES_INFORMALIDAD_DANE = [
     'P6430', 'P3045S1', 'P3046', 'P3069', 'P6765', 'P3065', 'P3066',
@@ -129,15 +133,13 @@ def clasificar_ocupacion_informal_dane(df, anio):
 
 
 def calcular_kpi_ciudades(df, anio, n_meses_config):
-    # AREA en el dataset contiene códigos DANE de departamento (2 dígitos: '05', '11', etc.)
-    # AREA_A_CIUDAD contiene códigos municipales de 5 dígitos ('05001' -> 'Medellín')
-    # Para capitales: DPTO + '001' = código capital departamental
-    DPTO_A_CAPITAL = {code[:2]: ciudad for code, ciudad in AREA_A_CIUDAD.items() if code[2:] == '001'}
+    # AREA identifica dominios autorrepresentados GEIH; no equivale siempre a
+    # municipio ni a departamento. El registro territorial es independiente.
     
     # Optimización de memoria: copiar solo columnas necesarias
     cols_to_use = [c for c in ['AREA', 'MES', 'OCI', 'DSI', 'PET', 'FEX_ADJ', *VARIABLES_INFORMALIDAD_DANE] if c in df.columns]
     df_ciudades = df[cols_to_use].copy()
-    df_ciudades['Ciudad'] = df_ciudades['AREA'].astype(str).str.zfill(2).map(DPTO_A_CAPITAL)
+    df_ciudades['Ciudad'] = asignar_dominio(df_ciudades['AREA'])
     df_ciudades = df_ciudades.dropna(subset=['Ciudad'])
     
     if 'MES' not in df_ciudades.columns:
@@ -202,10 +204,9 @@ def calcular_kpi_nacional(df, anio, n_meses_config):
     return res.reset_index()
 
 def calcular_salarios_ciudades(df, anio, config):
-    DPTO_A_CAPITAL = {code[:2]: ciudad for code, ciudad in AREA_A_CIUDAD.items() if code[2:] == '001'}
     
     df_ciudades = df.copy()
-    df_ciudades['Ciudad'] = df_ciudades['AREA'].astype(str).str.zfill(2).map(DPTO_A_CAPITAL)
+    df_ciudades['Ciudad'] = asignar_dominio(df_ciudades['AREA'])
     df_ciudades = df_ciudades.dropna(subset=['Ciudad'])
     
     if 'MES' not in df_ciudades.columns:
@@ -258,9 +259,8 @@ def agregar_soporte(tabla, soporte, columna='Rama'):
 def calcular_estadisticas_ciudades_avanzadas(df, anio, config, ruta_output):
     print(f"[*] Computando Componente Avanzado por Ciudades ({anio})...")
     
-    DPTO_A_CAPITAL = {code[:2]: ciudad for code, ciudad in AREA_A_CIUDAD.items() if code[2:] == '001'}
     df_c = df.copy()
-    df_c['Ciudad'] = df_c['AREA'].astype(str).str.zfill(2).map(DPTO_A_CAPITAL)
+    df_c['Ciudad'] = asignar_dominio(df_c['AREA'])
     
     # Optimización extrema de memoria: Evitar concat de dataframes masivos que causa ArrayMemoryError.
     # En su lugar, creamos una lista de tuplas (nombre, DataFrame) para iterar directamente.

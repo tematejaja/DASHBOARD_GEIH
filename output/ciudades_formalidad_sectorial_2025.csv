@@ -102,15 +102,14 @@ index,Rama,ICF,Cotiza_pension_%,Ingreso_SML_%,Afiliado_salud_%,n_muestra,poblaci
 4,Transporte y almacenamiento,48.2,18.4,29.7,96.4,692,5981.320379396667,12.7,⚠️  Precisión aceptable,Florencia,2025
 6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",47.5,15.5,28.9,98.1,828,6373.006255999167,12.8,⚠️  Precisión aceptable,Florencia,2025
 0,Alojamiento y servicios de comida,43.1,9.3,23.1,97.0,736,5550.15468160075,18.2,⚠️⚠️ Precisión baja,Florencia,2025
-1,"Administración pública y defensa, educación y atención de la salud humana",95.1,91.3,94.1,100.0,1527,25061.432602088167,1.2,✅ Precisión alta,Ibagué,2025
-6,"Suministro de electricidad, gas, agua y gestión de desechos^",87.1,80.8,81.2,99.3,292,5045.8596825287495,4.5,✅ Precisión alta,Ibagué,2025
-8,Industrias manufactureras,70.7,46.9,65.6,99.7,580,9668.461554054667,7.0,✅ Precisión alta,Ibagué,2025
-2,Comercio y reparación de vehículos,68.3,44.6,61.4,99.0,1730,28076.182019296084,4.2,✅ Precisión alta,Ibagué,2025
-0,Transporte y almacenamiento,60.7,33.4,49.6,99.3,673,10782.635274344833,8.6,⚠️  Precisión aceptable,Ibagué,2025
-7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",59.5,33.5,45.8,99.3,1058,16912.9812434795,6.8,✅ Precisión alta,Ibagué,2025
-3,Construcción,59.3,20.9,58.0,99.0,946,16481.15255341775,10.0,⚠️  Precisión aceptable,Ibagué,2025
-5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.3,27.9,47.5,99.5,696,11221.220158717166,9.6,⚠️  Precisión aceptable,Ibagué,2025
-4,Alojamiento y servicios de comida,49.5,16.3,34.9,97.3,799,12993.671235436666,12.7,⚠️  Precisión aceptable,Ibagué,2025
+5,"Administración pública y defensa, educación y atención de la salud humana",91.7,89.9,85.7,99.4,1295,39405.516034649,1.5,✅ Precisión alta,Ibagué,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",65.8,48.5,52.9,96.0,611,18360.275946053334,6.6,✅ Precisión alta,Ibagué,2025
+6,Transporte y almacenamiento,62.6,45.3,48.3,94.2,587,17776.998147708335,7.2,⚠️  Precisión aceptable,Ibagué,2025
+4,Comercio y reparación de vehículos,62.0,42.0,47.3,96.6,1608,48144.318946399166,4.6,✅ Precisión alta,Ibagué,2025
+3,Construcción,61.5,37.5,52.2,94.8,574,17026.774577355834,8.5,⚠️  Precisión aceptable,Ibagué,2025
+2,Industrias manufactureras,60.6,41.2,45.8,94.9,785,22975.897463104917,6.7,✅ Precisión alta,Ibagué,2025
+0,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",52.3,24.2,37.7,95.0,647,18733.5691356675,11.0,⚠️  Precisión aceptable,Ibagué,2025
+1,Alojamiento y servicios de comida,50.0,21.7,34.9,93.6,643,18851.29682837,11.8,⚠️  Precisión aceptable,Ibagué,2025
 10,Actividades financieras y de seguros,94.3,90.5,93.0,99.6,302,5178.2661124645,2.9,✅ Precisión alta,Manizales A.M.,2025
 0,"Administración pública y defensa, educación y atención de la salud humana",94.0,91.6,90.9,99.5,2150,36036.445647184,1.0,✅ Precisión alta,Manizales A.M.,2025
 3,Información y comunicaciones,91.8,88.6,87.0,99.8,385,6601.4505797164165,2.9,✅ Precisión alta,Manizales A.M.,2025
@@ -144,6 +143,15 @@ index,Rama,ICF,Cotiza_pension_%,Ingreso_SML_%,Afiliado_salud_%,n_muestra,poblaci
 6,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",43.7,10.5,21.5,99.0,1052,21626.699324845667,14.2,⚠️  Precisión aceptable,Montería,2025
 3,Alojamiento y servicios de comida,43.1,10.8,21.3,97.2,751,15697.14167676525,16.6,⚠️⚠️ Precisión baja,Montería,2025
 2,Transporte y almacenamiento,40.5,9.9,14.4,97.2,893,18914.56962142725,16.0,⚠️⚠️ Precisión baja,Montería,2025
+1,"Administración pública y defensa, educación y atención de la salud humana",95.1,91.3,94.1,100.0,1527,25061.432602088167,1.2,✅ Precisión alta,Neiva,2025
+6,"Suministro de electricidad, gas, agua y gestión de desechos^",87.1,80.8,81.2,99.3,292,5045.8596825287495,4.5,✅ Precisión alta,Neiva,2025
+8,Industrias manufactureras,70.7,46.9,65.6,99.7,580,9668.461554054667,7.0,✅ Precisión alta,Neiva,2025
+2,Comercio y reparación de vehículos,68.3,44.6,61.4,99.0,1730,28076.182019296084,4.2,✅ Precisión alta,Neiva,2025
+0,Transporte y almacenamiento,60.7,33.4,49.6,99.3,673,10782.635274344833,8.6,⚠️  Precisión aceptable,Neiva,2025
+7,"Actividades profesionales, científicas, técnicas y de servicios administrativos",59.5,33.5,45.8,99.3,1058,16912.9812434795,6.8,✅ Precisión alta,Neiva,2025
+3,Construcción,59.3,20.9,58.0,99.0,946,16481.15255341775,10.0,⚠️  Precisión aceptable,Neiva,2025
+5,"Actividades artísticas, entretenimiento, recreación y otras actividades de servicio",58.3,27.9,47.5,99.5,696,11221.220158717166,9.6,⚠️  Precisión aceptable,Neiva,2025
+4,Alojamiento y servicios de comida,49.5,16.3,34.9,97.3,799,12993.671235436666,12.7,⚠️  Precisión aceptable,Neiva,2025
 3,"Administración pública y defensa, educación y atención de la salud humana",88.0,85.6,79.3,99.0,2323,30386.790966960416,1.3,✅ Precisión alta,Pasto,2025
 4,Comercio y reparación de vehículos,54.2,32.9,34.5,95.1,2972,39151.7500612465,4.1,✅ Precisión alta,Pasto,2025
 5,"Actividades profesionales, científicas, técnicas y de servicios administrativos",53.7,30.8,35.0,95.4,1129,14601.342416618334,7.1,⚠️  Precisión aceptable,Pasto,2025

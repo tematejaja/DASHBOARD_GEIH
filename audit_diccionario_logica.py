@@ -68,14 +68,16 @@ def main():
     valor = pd.read_csv("output/indicadores_valor_agregado.csv")
     reconstrucciones = {
         "Subocupacion_pp": valor["Subocupados_Pob"] / valor["FT_Pob"] * 100,
-        "LU3_pp": (valor["SIH_Pob"] + valor["Desocupados_Pob"]) / valor["FT_Pob"] * 100,
+        "LU2_pp": (valor["SIH_Pob"] + valor["Desocupados_Pob"]) / valor["FT_Pob"] * 100,
+        "LU3_pp": (valor["Desocupados_Pob"] + valor["FTP_Pob"]) / (valor["FT_Pob"] + valor["FTP_Pob"]) * 100,
         "LU4_pp": (valor["SIH_Pob"] + valor["Desocupados_Pob"] + valor["FTP_Pob"]) / (valor["FT_Pob"] + valor["FTP_Pob"]) * 100,
         "NINI_pp": valor["NINI_Pob"] / valor["Jovenes_15_28_Validos_Pob"] * 100,
+        "NINI_15_24_pp": valor["NINI_15_24_Pob"] / valor["Jovenes_15_24_Validos_Pob"] * 100,
         "Sobrecalificacion_pp": valor["Sobrecalificados_Pob"] / valor["Sobrecalificacion_Validos_Pob"] * 100,
     }
     columnas = {
-        "Subocupacion_pp": "Tasa_Subocupacion_%", "LU3_pp": "Tasa_Subutilizacion_LU3_%",
-        "LU4_pp": "Tasa_Subutilizacion_LU4_%", "NINI_pp": "Tasa_NINI_15_28_%",
+        "Subocupacion_pp": "Tasa_Subocupacion_%", "LU2_pp": "Tasa_Subutilizacion_LU2_%", "LU3_pp": "Tasa_Subutilizacion_LU3_%",
+        "LU4_pp": "Tasa_Subutilizacion_LU4_%", "NINI_pp": "Tasa_NINI_15_28_%", "NINI_15_24_pp": "Tasa_NINI_15_24_%",
         "Sobrecalificacion_pp": "Sobrecalificacion_%",
     }
     errores_valor = {k: _max_error(v, valor[columnas[k]]) for k, v in reconstrucciones.items()}

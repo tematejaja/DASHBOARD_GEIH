@@ -48,13 +48,16 @@ def main():
     validar_rango(va, tasas_va)
     formulas_va = {
         "subocupacion": max_abs(va["Tasa_Subocupacion_%"] - va["Subocupados_Pob"] / va["FT_Pob"] * 100),
-        "LU3": max_abs(va["Tasa_Subutilizacion_LU3_%"] - (va["SIH_Pob"] + va["Desocupados_Pob"]) / va["FT_Pob"] * 100),
+        "LU2": max_abs(va["Tasa_Subutilizacion_LU2_%"] - (va["SIH_Pob"] + va["Desocupados_Pob"]) / va["FT_Pob"] * 100),
+        "LU3": max_abs(va["Tasa_Subutilizacion_LU3_%"] - (va["Desocupados_Pob"] + va["FTP_Pob"]) / (va["FT_Pob"] + va["FTP_Pob"]) * 100),
         "LU4": max_abs(va["Tasa_Subutilizacion_LU4_%"] - (va["SIH_Pob"] + va["Desocupados_Pob"] + va["FTP_Pob"]) / (va["FT_Pob"] + va["FTP_Pob"]) * 100),
         "NINI": max_abs(va["Tasa_NINI_15_28_%"] - va["NINI_Pob"] / va["Jovenes_15_28_Validos_Pob"] * 100),
+        "NINI_15_24": max_abs(va["Tasa_NINI_15_24_%"] - va["NINI_15_24_Pob"] / va["Jovenes_15_24_Validos_Pob"] * 100),
         "sobrecalificacion": max_abs(va["Sobrecalificacion_%"] - va["Sobrecalificados_Pob"] / va["Sobrecalificacion_Validos_Pob"] * 100),
     }
     assert max(formulas_va.values()) < 1e-8
     assert ((va["NINI_Desocupados_Pob"] + va["NINI_Fuera_FT_Pob"] - va["NINI_Pob"]).abs() < 1e-6).all()
+    assert (va["NINI_15_24_Pob"] <= va["NINI_Pob"] + 1e-6).all()
     ingreso_sin_den = va["Ingreso_Bajo_SMMLV_%"].isna()
     assert va.loc[ingreso_sin_den, "Ingresos_Validos_Pob"].eq(0).all()
     resumen["pruebas"]["presion_calidad"] = {

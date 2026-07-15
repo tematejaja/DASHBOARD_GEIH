@@ -17,7 +17,12 @@ import numpy as np
 import pandas as pd
 import pyarrow.parquet as pq
 
-from geih import AREA_A_CIUDAD, ConfigGEIH
+from geih import ConfigGEIH
+
+try:
+    from src.geografia_geih import asignar_dominio
+except ModuleNotFoundError:  # Ejecucion directa: python src/03_indicadores_valor_agregado.py
+    from geografia_geih import asignar_dominio
 
 
 CIUDAD_NACIONAL = "Todas (Panorama Nacional)"
@@ -37,14 +42,6 @@ IPC_DIC_2018_100 = {
     2025: [146.24, 147.90, 148.68, 149.66, 150.14, 150.30, 150.71, 150.99, 151.48, 151.76, 151.87, 152.27],
     2026: [154.07, 155.73, 156.94, 158.17, 158.91, 159.53],
 }
-
-
-def _capitales_por_area() -> dict[str, str]:
-    return {
-        codigo[:2]: ciudad
-        for codigo, ciudad in AREA_A_CIUDAD.items()
-        if len(codigo) == 5 and codigo[2:] == "001"
-    }
 
 
 def _suma_peso(df: pd.DataFrame, condicion: pd.Series) -> float:
@@ -89,7 +86,7 @@ def _nivel_ocupacion_ciuo(oficio: pd.Series) -> pd.Series:
 
 def _preparar_indicadores(df: pd.DataFrame, anio: int) -> pd.DataFrame:
     d = df.copy()
-    d["Ciudad"] = d["AREA"].astype("string").str.strip().str.zfill(2).map(_capitales_por_area())
+    d["Ciudad"] = asignar_dominio(d["AREA"])
     # En algunos archivos 2025-2026 FT viene vacio para registros DSI=1.
     # La identidad oficial y el motor principal usan FT = OCI union DSI.
     d["ft_analitica"] = d["OCI"].eq(1) | d["DSI"].eq(1)
@@ -131,6 +128,10 @@ def _preparar_indicadores(df: pd.DataFrame, anio: int) -> pd.DataFrame:
     d["nini_desocupado"] = d["nini"] & d["DSI"].eq(1)
     d["nini_fuera_ft"] = d["nini"] & ~d["ft_analitica"]
 
+    joven_oit = d["P6040"].between(15, 24) & d["P6170"].isin([1, 2])
+    d["joven_15_24_valido"] = joven_oit
+    d["nini_15_24"] = joven_oit & ~d["OCI"].eq(1) & d["P6170"].eq(2)
+
     nivel_educ = _nivel_educativo_cualificacion(d["P3042"])
     nivel_ocup = _nivel_ocupacion_ciuo(d["OFICIO_C8"])
     d["sobrecalif_valido"] = d["OCI"].eq(1) & nivel_educ.notna() & nivel_ocup.notna()
@@ -161,6 +162,8 @@ CONTEOS = {
     "NINI": lambda d: d["nini"],
     "NINI_Desocupados": lambda d: d["nini_desocupado"],
     "NINI_Fuera_FT": lambda d: d["nini_fuera_ft"],
+    "Jovenes_15_24_Validos": lambda d: d["joven_15_24_valido"],
+    "NINI_15_24": lambda d: d["nini_15_24"],
     "Sobrecalificacion_Validos": lambda d: d["sobrecalif_valido"],
     "Sobrecalificados": lambda d: d["sobrecalificado"],
     "Ingresos_Validos": lambda d: d["ingreso_valido"],
@@ -196,6 +199,15 @@ def _tasa(numerador: float, denominador: float) -> float:
     return numerador / denominador * 100 if denominador > 0 else np.nan
 
 
+def calcular_tasas_subutilizacion(ft: float, ds: float, sih: float, ftp: float) -> dict[str, float]:
+    """Medidas LU2-LU4 segun la Resolucion de la 19a CIET."""
+    return {
+        "LU2": _tasa(sih + ds, ft),
+        "LU3": _tasa(ds + ftp, ft + ftp),
+        "LU4": _tasa(sih + ds + ftp, ft + ftp),
+    }
+
+
 def _aplicar_ventanas(conteos: pd.DataFrame, ingresos: dict, duraciones: dict) -> pd.DataFrame:
     salida = []
     for ciudad, grupo in conteos.groupby("Ciudad", sort=False):
@@ -210,11 +222,12 @@ def _aplicar_ventanas(conteos: pd.DataFrame, ingresos: dict, duraciones: dict) -
 
             out["Tasa_Subocupacion_%"] = _tasa(acumulado.Subocupados, acumulado.FT)
             out["Tasa_Insuficiencia_Horas_%"] = _tasa(acumulado.SIH, acumulado.FT)
-            out["Tasa_Subutilizacion_LU3_%"] = _tasa(acumulado.SIH + acumulado.Desocupados, acumulado.FT)
-            out["Tasa_Subutilizacion_LU4_%"] = _tasa(
-                acumulado.SIH + acumulado.Desocupados + acumulado.FTP,
-                acumulado.FT + acumulado.FTP,
+            lu = calcular_tasas_subutilizacion(
+                acumulado.FT, acumulado.Desocupados, acumulado.SIH, acumulado.FTP
             )
+            out["Tasa_Subutilizacion_LU2_%"] = lu["LU2"]
+            out["Tasa_Subutilizacion_LU3_%"] = lu["LU3"]
+            out["Tasa_Subutilizacion_LU4_%"] = lu["LU4"]
             out["Desempleo_Larga_Duracion_%"] = _tasa(acumulado.Desocupados_52_Semanas, acumulado.Desocupados_Duracion_Valida)
             out["Contrato_Escrito_%"] = _tasa(acumulado.Contrato_Escrito, acumulado.Asalariados)
             out["Contrato_Indefinido_%"] = _tasa(acumulado.Contrato_Indefinido, acumulado.Contrato_Escrito)
@@ -222,6 +235,7 @@ def _aplicar_ventanas(conteos: pd.DataFrame, ingresos: dict, duraciones: dict) -
             out["Cotiza_Pension_%"] = _tasa(acumulado.Cotizantes_Pension, acumulado.Ocupados)
             out["Proteccion_Integral_%"] = _tasa(acumulado.Proteccion_Integral, acumulado.Asalariados)
             out["Tasa_NINI_15_28_%"] = _tasa(acumulado.NINI, acumulado.Jovenes_15_28_Validos)
+            out["Tasa_NINI_15_24_%"] = _tasa(acumulado.NINI_15_24, acumulado.Jovenes_15_24_Validos)
             out["NINI_Desocupados_%"] = _tasa(acumulado.NINI_Desocupados, acumulado.Jovenes_15_28_Validos)
             out["NINI_Fuera_FT_%"] = _tasa(acumulado.NINI_Fuera_FT, acumulado.Jovenes_15_28_Validos)
             out["Sobrecalificacion_%"] = _tasa(acumulado.Sobrecalificados, acumulado.Sobrecalificacion_Validos)

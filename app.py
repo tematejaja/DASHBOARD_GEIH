@@ -365,7 +365,7 @@ cobertura_estructura = (
 )
 
 ciudades_disponibles = ["Todas (Panorama Nacional)"] + sorted(df_kpis[(df_kpis['Ciudad'] != "Todas (Panorama Nacional)")]['Ciudad'].unique().tolist())
-selected_ciudad = st.sidebar.selectbox("Ciudad capital", ciudades_disponibles)
+selected_ciudad = st.sidebar.selectbox("Dominio GEIH", ciudades_disponibles)
 
 # Capa de Seguridad Estadística
 st.sidebar.markdown("---")
@@ -419,7 +419,7 @@ with main_tab1:
     tb1, tb2, tb3 = st.tabs(["Ciudades", "Ingresos por rama", "Evolución"])
     
     with tb1:
-        st.markdown("#### Mercado Laboral por Ciudades Capitales")
+        st.markdown("#### Mercado laboral por dominios GEIH")
         st.info("Las cifras corresponden a los últimos 12 meses disponibles. Las tasas se calculan con sumas expandidas, no como promedios mensuales.")
         
         df_ciudades_mes = df_kpis[(df_kpis['Año'] == selected_anio) & (df_kpis['MES'] == selected_mes) & (df_kpis['Ciudad'] != "Todas (Panorama Nacional)")]
@@ -626,12 +626,14 @@ with main_tab_presion:
                     'Indicador': [
                         'Insuficiencia de horas',
                         'Subocupación objetiva',
-                        'LU3: desocupación + horas',
+                        'LU2: desocupación + horas',
+                        'LU3: desocupación + fuerza potencial',
                         'LU4: presión laboral amplia',
                     ],
                     'Porcentaje': [
                         v['Tasa_Insuficiencia_Horas_%'],
                         v['Tasa_Subocupacion_%'],
+                        v['Tasa_Subutilizacion_LU2_%'],
                         v['Tasa_Subutilizacion_LU3_%'],
                         v['Tasa_Subutilizacion_LU4_%'],
                     ],
@@ -639,7 +641,7 @@ with main_tab_presion:
                 fig_presion = px.bar(
                     presion, x='Porcentaje', y='Indicador', orientation='h',
                     color='Indicador',
-                    color_discrete_sequence=['#60a5fa', '#14b8a6', '#fbbf24', '#f87171'],
+                    color_discrete_sequence=['#60a5fa', '#14b8a6', '#a3e635', '#fbbf24', '#f87171'],
                     title="Escala de subutilización de la fuerza de trabajo",
                 )
                 fig_presion.update_traces(hovertemplate='<b>%{y}</b><br>%{x:.1f}%<extra></extra>')
@@ -706,6 +708,8 @@ with main_tab_presion:
                     apply_plotly_style(fig_nini)
                     st.plotly_chart(fig_nini, width="stretch")
                 with y2:
+                    st.metric("Tasa NINI OIT de 15 a 24 años", pct(v['Tasa_NINI_15_24_%']))
+                    st.caption("La medida 15–24 permite comparación internacional; la medida 15–28 conserva la adaptación nacional.")
                     st.metric("Ocupados con sobrecalificación", pct(v['Sobrecalificacion_%']))
                     st.caption("Nivel educativo superior al requerimiento normativo de la ocupación CIUO-08.")
                     st.info(
@@ -726,7 +730,7 @@ with main_tab_presion:
             columnas_valor = [
                 'Dominio', 'Tasa_Subocupacion_%', 'Tasa_Subutilizacion_LU4_%',
                 'Desempleo_Larga_Duracion_%', 'Contrato_Escrito_%',
-                'Proteccion_Integral_%', 'Tasa_NINI_15_28_%', 'Sobrecalificacion_%',
+                'Proteccion_Integral_%', 'Tasa_NINI_15_28_%', 'Tasa_NINI_15_24_%', 'Sobrecalificacion_%',
             ]
             st.dataframe(
                 tabla_valor[columnas_valor],
@@ -738,6 +742,7 @@ with main_tab_presion:
                     'Contrato_Escrito_%': st.column_config.NumberColumn('Contrato escrito (%)', format='%.1f%%', width='small'),
                     'Proteccion_Integral_%': st.column_config.NumberColumn('Protección integral (%)', format='%.1f%%', width='small'),
                     'Tasa_NINI_15_28_%': st.column_config.NumberColumn('NINI 15–28 (%)', format='%.1f%%', width='small'),
+                    'Tasa_NINI_15_24_%': st.column_config.NumberColumn('NINI 15–24, estándar OIT (%)', format='%.1f%%', width='small'),
                     'Sobrecalificacion_%': st.column_config.NumberColumn('Sobrecalif. (%)', format='%.1f%%', width='small'),
                 },
                 width="stretch",
@@ -746,6 +751,8 @@ with main_tab_presion:
 
             with st.expander("Definiciones y universos estadísticos"):
                 st.markdown(
+                    "**LU2:** insuficiencia de horas + desocupación sobre la fuerza de trabajo.  \n"
+                    "**LU3:** desocupación + fuerza de trabajo potencial sobre la fuerza de trabajo ampliada.  \n"
                     "**LU4:** insuficiencia de horas + desocupación + fuerza de trabajo potencial, "
                     "sobre fuerza de trabajo + fuerza de trabajo potencial.  \n"
                     "**Protección integral:** contrato escrito, cotización pensional y prestaciones completas entre asalariados.  \n"
@@ -979,6 +986,8 @@ with main_tab3:
         oficiales = formulas_doc[formulas_doc['Tipo'].isin(['Oficial DANE', 'OIT/DANE', 'OIT adaptado', 'OIT normativo'])]
         st.dataframe(oficiales, hide_index=True, width="stretch", height=455)
         st.latex(r"TD=\frac{DS}{FT^*}\times100\qquad TGP=\frac{FT^*}{PET^*}\times100\qquad TO=\frac{OC}{PET^*}\times100")
+        st.latex(r"LU2=\frac{SIH+DS}{FT^*}\times100")
+        st.latex(r"LU3=\frac{DS+FTP}{FT^*+FTP}\times100")
         st.latex(r"LU4=\frac{SIH+DS+FTP}{FT^*+FTP}\times100")
         st.warning(
             "La informalidad no se aproxima por pensión. Se aplica la secuencia EI del DANE marco 2018 con posición ocupacional, "
