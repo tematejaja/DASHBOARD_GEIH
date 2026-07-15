@@ -371,7 +371,7 @@ selected_ciudad = st.sidebar.selectbox("Dominio GEIH", ciudades_disponibles)
 # Capa de Seguridad Estadística
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Precisión Muestral")
-ver_ciudades_riesgo = st.sidebar.checkbox("Incluir ciudades con baja precisión", value=False, 
+ver_ciudades_riesgo = st.sidebar.checkbox("Incluir dominios con baja precisión", value=False, 
                                           help="Incluye dominios con menor tamaño muestral. La clasificación es preventiva y no sustituye errores oficiales del diseño GEIH.")
 
 CIUDADES_RIESGO = ["Inírida", "Leticia", "Mitú", "Mocoa", "Puerto Carreño", "San Andrés", "San José del Guaviare"]
@@ -417,7 +417,7 @@ with main_tab1:
     
     st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
     
-    tb1, tb2, tb3 = st.tabs(["Ciudades", "Ingresos por rama", "Evolución"])
+    tb1, tb2, tb3 = st.tabs(["Dominios GEIH", "Ingresos por rama", "Evolución"])
     
     with tb1:
         st.markdown("#### Mercado laboral por dominios GEIH")
@@ -437,7 +437,7 @@ with main_tab1:
                 color="TD_%", 
                 color_continuous_scale="Viridis",
                 text="TD_%",
-                title=f"Ciudades con mayor tasa de desocupación — {etiqueta_periodo} {selected_anio}"
+                title=f"Dominios GEIH con mayor tasa de desocupación — {etiqueta_periodo} {selected_anio}"
             )
             fig.update_traces(hovertemplate='<b>%{x}</b><br>Tasa de desocupación: %{y:.1f}%<extra></extra>')
             apply_plotly_style(fig)
@@ -446,9 +446,9 @@ with main_tab1:
             st.plotly_chart(fig, width="stretch")
             
             if not ver_ciudades_riesgo:
-                st.caption(f"Se han excluido {len(CIUDADES_RIESGO)} ciudades con baja precisión muestral. Active el filtro en el panel lateral para incluirlas.")
+                st.caption(f"Se han excluido {len(CIUDADES_RIESGO)} dominios con baja precisión muestral. Active el filtro en el panel lateral para incluirlos.")
 
-            with st.expander("Ver tabla de datos — Estadísticas por ciudad"):
+            with st.expander("Ver tabla de datos — Estadísticas por dominio GEIH"):
                 # La referencia nacional permite interpretar cada ciudad frente al total país.
                 df_tabla_comparativa = pd.concat([df_nacional_mes, df_ciudades_mes], ignore_index=True)
                 df_tabla_comparativa['Dominio'] = df_tabla_comparativa['Ciudad'].replace(
@@ -479,7 +479,7 @@ with main_tab1:
                     hide_index=True
                 )
         else:
-            st.info("No hay datos de ciudades para este periodo.")
+            st.info("No hay datos de dominios GEIH para este periodo.")
             
     with tb2:
         st.markdown("#### Ingreso laboral mediano por rama")
@@ -1094,7 +1094,7 @@ with main_tab3:
             "- Las tasas se reconstruyen con numeradores y denominadores expandidos; no se promedian porcentajes.\n"
             "- Ingresos, Gini y Mincer condicionan a ingreso laboral positivo observado.\n"
             "- Mincer es descriptivo; ICE, IVI e ICF son índices propios; el costo ampliado es una simulación.\n"
-            "- Las ciudades pequeñas requieren errores oficiales del diseño antes de publicar inferencias."
+            "- Los dominios con muestras pequeñas requieren errores oficiales del diseño antes de publicar inferencias."
         )
 
 st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
