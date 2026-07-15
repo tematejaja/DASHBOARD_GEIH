@@ -282,10 +282,11 @@ RUTA_KPIS = "output/indicadores_mensuales.csv"
 RUTA_RAMA_CIUDAD = "output/salarios_por_rama_ciudad.csv"
 RUTA_VALOR_AGREGADO = "output/indicadores_valor_agregado.csv"
 CIUDAD_NACIONAL = "Todas (Panorama Nacional)"
+DATA_VERSION = "geih-audit-2026-07-15"
 
 # ─── Funciones de Carga ───
 @st.cache_data(ttl=3600)
-def load_data_base():
+def load_data_base(version: str):
     data = {}
     if os.path.exists(RUTA_KPIS): data['kpis'] = pd.read_csv(RUTA_KPIS)
     if os.path.exists(RUTA_RAMA_CIUDAD): data['rama'] = pd.read_csv(RUTA_RAMA_CIUDAD)
@@ -297,7 +298,7 @@ def load_data_base():
     return data
 
 @st.cache_data(ttl=3600)
-def load_data_avanzado(anio):
+def load_data_avanzado(anio, version: str):
     data = {}
     if os.path.exists(f"output/ciudades_avanzado_resumen_{anio}.json"):
         import json
@@ -319,7 +320,7 @@ def load_data_avanzado(anio):
         data['ramasexo'] = pd.read_csv(f"output/ciudades_rama_sexo_{anio}.csv")
     return data
 
-datos = load_data_base()
+datos = load_data_base(DATA_VERSION)
 
 # ─── Header ───
 st.title("Pulso Laboral: Observatorio GEIH")
@@ -768,7 +769,7 @@ with main_tab2:
         "Las ramas requieren al menos 30 registros y 5.000 personas expandidas."
     )
 
-    datos_adv_raw = load_data_avanzado(selected_anio)
+    datos_adv_raw = load_data_avanzado(selected_anio, DATA_VERSION)
     datos_adv = {}
     for k, v in datos_adv_raw.items():
         if k == 'avanzado_json':
