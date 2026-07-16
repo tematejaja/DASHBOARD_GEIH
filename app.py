@@ -7,6 +7,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 from src.metodologia_dashboard import dataframe_formulas, dataframe_variables
+from src.visualizacion_dashboard import prepare_rama_sexo, wrap_label
 
 st.set_page_config(
     page_title="Observatorio GEIH | Mercado Laboral", 
@@ -42,6 +43,7 @@ st.markdown("""
         --shadow: 0 8px 24px rgba(0, 0, 0, 0.16);
         --radius: 6px;
         --transition-fast: 160ms ease;
+        --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
     }
 
     html, body, [class*="css"] {
@@ -330,7 +332,49 @@ st.markdown("""
         display: inline-flex !important;
         height: 36px !important;
         justify-content: center !important;
+        opacity: 0.72;
+        transition: opacity 140ms ease, transform 120ms var(--ease-out) !important;
         width: 36px !important;
+    }
+
+    button,
+    [role="button"],
+    summary {
+        transition: transform 120ms var(--ease-out);
+    }
+
+    button:active,
+    [role="button"]:active,
+    summary:active,
+    .modebar-btn:active {
+        transform: scale(0.97);
+    }
+
+    [role="tabpanel"] {
+        animation: panel-enter 180ms var(--ease-out) both;
+    }
+
+    @keyframes panel-enter {
+        from {
+            opacity: 0;
+            transform: translateY(4px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    @keyframes panel-fade {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    @media (hover: hover) and (pointer: fine) {
+        .modebar-btn:hover {
+            opacity: 1;
+        }
+
     }
 
     :is(button, [role="tab"], input, [data-baseweb="select"]):focus-visible {
@@ -491,28 +535,78 @@ st.markdown("""
     }
 
     @media (prefers-reduced-motion: reduce) {
-        *, *::before, *::after {
+        html:focus-within {
             scroll-behavior: auto !important;
-            transition-duration: 0.01ms !important;
+        }
+        [role="tabpanel"] {
+            animation: panel-fade 120ms ease-out both;
+        }
+        button,
+        [role="button"],
+        summary,
+        .modebar-btn {
+            transform: none !important;
+            transition: opacity 80ms linear !important;
         }
     }
     </style>
 """, unsafe_allow_html=True)
 
-def apply_plotly_style(fig):
+def apply_plotly_style(fig, *, height=None, margin=None):
+    has_title = bool(fig.layout.title and fig.layout.title.text)
+    has_legend = fig.layout.showlegend is not False and any(
+        trace.showlegend is not False for trace in fig.data
+    )
+    default_margin = {
+        "l": 20,
+        "r": 16,
+        "t": 94 if has_title and has_legend else 62,
+        "b": 42,
+    }
+    if margin:
+        default_margin.update(margin)
+
     fig.update_layout(
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
         font=dict(family="IBM Plex Sans", color="#dfe6e4", size=12),
-        title=dict(font=dict(size=16, color="#f2f5f4"), x=0, xanchor="left"),
         xaxis=dict(gridcolor="rgba(219,232,229,0.07)", zeroline=False, title_font=dict(size=11)),
         yaxis=dict(gridcolor="rgba(219,232,229,0.07)", zeroline=False, title_font=dict(size=11)),
-        margin=dict(l=20, r=16, t=58, b=28),
+        margin=default_margin,
         colorway=["#23b5a6", "#e8b44f", "#65a9d8", "#ec7b6d", "#9cbd62"],
-        legend=dict(font=dict(size=11), orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        legend=dict(
+            title_text="",
+            font=dict(size=11),
+            orientation="h",
+            yanchor="bottom",
+            y=1.13 if has_title else 1.02,
+            xanchor="left",
+            x=0,
+        ),
         hoverlabel=dict(bgcolor="#202a2c", bordercolor="#40504e", font=dict(family="IBM Plex Sans", color="#f2f5f4")),
         hovermode="closest",
+        height=height,
     )
+    if has_title:
+        fig.update_layout(
+            title_font=dict(size=16, color="#f2f5f4"),
+            title_x=0,
+            title_xanchor="left",
+        )
+    return fig
+
+
+def style_horizontal_chart(fig, x_title, *, height=500, left_margin=150, has_legend=False):
+    has_title = bool(fig.layout.title and fig.layout.title.text)
+    top_margin = 94 if has_title and has_legend else 62 if has_title else 68 if has_legend else 34
+    apply_plotly_style(
+        fig,
+        height=height,
+        margin={"l": left_margin, "r": 18, "t": top_margin, "b": 52},
+    )
+    fig.update_yaxes(title=None, automargin=True, tickfont=dict(size=10))
+    fig.update_xaxes(title=x_title, rangemode="tozero", automargin=True)
+    fig.update_layout(coloraxis_showscale=False)
     return fig
 
 COLOR_SCALE_LABORAL = [
@@ -786,16 +880,18 @@ with main_tab1:
             df_plot = df_rama_plot.sort_values("Mediana", ascending=True).tail(10) if not df_rama_plot.empty else pd.DataFrame()
             
             if not df_plot.empty:
+                df_plot = df_plot.copy()
+                df_plot['Rama_etiqueta'] = df_plot['Rama'].map(lambda value: wrap_label(value, width=42))
                 fig2 = px.bar(
                     df_plot, 
-                    x="Mediana", y="Rama", orientation='h',
+                    x="Mediana", y="Rama_etiqueta", orientation='h',
                     color="Mediana_SMMLV", 
                     color_continuous_scale=COLOR_SCALE_LABORAL,
                     title=f"{subtitulo} — {etiqueta_periodo} {selected_anio}",
-                    hover_data=["Mediana_SMMLV"]
+                    custom_data=["Rama", "Mediana_SMMLV"],
                 )
-                fig2.update_traces(hovertemplate='<b>%{y}</b><br>Salario Mediano: $%{x:,.0f}<br>Eq. Salario Mínimo: %{customdata[0]:.2f} SMMLV<extra></extra>')
-                apply_plotly_style(fig2)
+                fig2.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Ingreso laboral mediano: $%{x:,.0f}<br>Equivalente: %{customdata[1]:.2f} SMMLV<extra></extra>')
+                style_horizontal_chart(fig2, "Ingreso laboral mediano (COP)", height=520, left_margin=190)
                 st.plotly_chart(fig2, width="stretch", config=PLOTLY_CONFIG)
             else:
                 st.info("No hay suficientes datos salariales para esta selección.")
@@ -812,6 +908,11 @@ with main_tab1:
             # Serie de tasas
             df_tasas = df_hist.melt(id_vars=['Fecha'], value_vars=['TD_%', 'TGP_%', 'TO_%'], 
                                    var_name='Indicador', value_name='Porcentaje')
+            df_tasas['Indicador'] = df_tasas['Indicador'].replace({
+                'TD_%': 'Tasa de desocupación',
+                'TGP_%': 'Tasa global de participación',
+                'TO_%': 'Tasa de ocupación',
+            })
             
             fig_tasas = px.line(
                 df_tasas, x='Fecha', y='Porcentaje', color='Indicador',
@@ -820,6 +921,8 @@ with main_tab1:
             )
             fig_tasas.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Tasa: %{y:.1f}%<extra></extra>')
             apply_plotly_style(fig_tasas)
+            fig_tasas.update_xaxes(title="Periodo")
+            fig_tasas.update_yaxes(title="Porcentaje (%)")
             st.plotly_chart(fig_tasas, width="stretch", config=PLOTLY_CONFIG)
             
             # Volúmenes
@@ -832,6 +935,8 @@ with main_tab1:
                 )
                 fig_oc.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Ocupados: %{y:.2f} Millones<extra></extra>')
                 apply_plotly_style(fig_oc)
+                fig_oc.update_xaxes(title="Periodo")
+                fig_oc.update_yaxes(title="Personas ocupadas (millones)")
                 st.plotly_chart(fig_oc, width="stretch", config=PLOTLY_CONFIG)
             
             with col2:
@@ -842,6 +947,8 @@ with main_tab1:
                 )
                 fig_des.update_traces(hovertemplate='<b>%{x|%B %Y}</b><br>Desocupados: %{y:.2f} Millones<extra></extra>')
                 apply_plotly_style(fig_des)
+                fig_des.update_xaxes(title="Periodo")
+                fig_des.update_yaxes(title="Personas desocupadas (millones)")
                 st.plotly_chart(fig_des, width="stretch", config=PLOTLY_CONFIG)
 
             with st.expander("Ver tabla de datos históricos"):
@@ -936,7 +1043,7 @@ with main_tab_presion:
                 )
                 fig_presion.update_traces(hovertemplate='<b>%{y}</b><br>%{x:.1f}%<extra></extra>')
                 fig_presion.update_layout(showlegend=False)
-                apply_plotly_style(fig_presion)
+                style_horizontal_chart(fig_presion, "Porcentaje (%)", height=430, left_margin=205)
                 st.plotly_chart(fig_presion, width="stretch", config=PLOTLY_CONFIG)
 
                 d1, d2 = st.columns(2)
@@ -970,6 +1077,9 @@ with main_tab_presion:
                 fig_calidad.update_traces(hovertemplate='<b>%{x}</b><br>%{y:.1f}%<extra></extra>')
                 fig_calidad.update_layout(showlegend=False)
                 apply_plotly_style(fig_calidad)
+                fig_calidad.update_xaxes(title=None, tickangle=-18, automargin=True)
+                fig_calidad.update_yaxes(title="Cobertura (%)", rangemode="tozero")
+                fig_calidad.update_layout(margin=dict(b=82))
                 st.plotly_chart(fig_calidad, width="stretch", config=PLOTLY_CONFIG)
 
                 i1, i2 = st.columns(2)
@@ -995,7 +1105,7 @@ with main_tab_presion:
                     )
                     fig_nini.update_traces(hovertemplate='<b>%{y}</b><br>%{x:.1f}% de jóvenes<extra></extra>')
                     fig_nini.update_layout(showlegend=False)
-                    apply_plotly_style(fig_nini)
+                    style_horizontal_chart(fig_nini, "Porcentaje de jóvenes (%)", height=360, left_margin=175)
                     st.plotly_chart(fig_nini, width="stretch", config=PLOTLY_CONFIG)
                 with y2:
                     st.metric("Tasa NINI OIT de 15 a 24 años", pct(v['Tasa_NINI_15_24_%']))
@@ -1095,16 +1205,23 @@ with main_tab2:
         st.caption("Diferencia descriptiva entre medianas. No controla por ocupación, experiencia ni horas trabajadas.")
         if 'brecha' in datos_adv:
             df_b = datos_adv['brecha']
+            df_b = df_b.copy()
+            df_b['Nivel_etiqueta'] = df_b['Nivel'].map(lambda value: wrap_label(value, width=15))
             df_b_melt = df_b.melt(id_vars=['Nivel', 'Brecha_%'], value_vars=['Hombres', 'Mujeres'], var_name='Género', value_name='Ingreso')
+            df_b_melt['Nivel_etiqueta'] = df_b_melt['Nivel'].map(
+                dict(zip(df_b['Nivel'], df_b['Nivel_etiqueta']))
+            )
             fig_b = px.bar(
-                df_b_melt, x="Nivel", y="Ingreso", color="Género",
+                df_b_melt, x="Nivel_etiqueta", y="Ingreso", color="Género",
                 barmode="group",
                 color_discrete_map={"Hombres": "#14b8a6", "Mujeres": "#f472b6"},
-                title=f"Salarial por Nivel Educativo",
-                hover_data=["Brecha_%"]
+                title="Ingreso laboral mediano por nivel educativo",
+                custom_data=["Nivel", "Brecha_%"],
             )
-            fig_b.update_traces(hovertemplate='<b>Nivel: %{x}</b><br>Género: %{data.name}<br>Ingreso Promedio: $%{y:,.0f}<br>Brecha del Nivel: %{customdata[0]:.1f}%<extra></extra>')
-            apply_plotly_style(fig_b)
+            fig_b.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Sexo: %{data.name}<br>Ingreso mediano: $%{y:,.0f}<br>Brecha mujeres–hombres: %{customdata[1]:.1f}%<extra></extra>')
+            apply_plotly_style(fig_b, height=520, margin={"b": 82})
+            fig_b.update_xaxes(title=None, automargin=True)
+            fig_b.update_yaxes(title="Ingreso laboral mediano (COP)", rangemode="tozero")
             st.plotly_chart(fig_b, width="stretch", config=PLOTLY_CONFIG)
             
             with st.expander("Ver tabla de datos — Brecha salarial"):
@@ -1117,19 +1234,31 @@ with main_tab2:
         st.caption("Población ocupada por rama y sexo, en millones de personas.")
         if 'ramasexo' in datos_adv:
             df_rs = datos_adv['ramasexo']
-            if 'Hombre_M' in df_rs.columns and 'Mujer_M' in df_rs.columns:
-                df_rs_plot = df_rs.melt(id_vars=['Rama'], value_vars=['Hombre_M', 'Mujer_M'], var_name='Sexo', value_name='Personas_M')
-                df_rs_plot['Género'] = df_rs_plot['Sexo'].replace({'Hombre_M': 'Hombres', 'Mujer_M': 'Mujeres'})
+            try:
+                df_rs_plot = prepare_rama_sexo(df_rs, top_n=10)
                 fig_rs = px.bar(
-                    df_rs_plot, x="Personas_M", y="Rama", color="Género",
-                    barmode="group", color_discrete_map={'Hombres': '#14b8a6', 'Mujeres': '#f472b6'}
+                    df_rs_plot,
+                    x="Personas_M",
+                    y="Rama_etiqueta",
+                    color="Sexo",
+                    barmode="group",
+                    color_discrete_map={'Hombres': '#14b8a6', 'Mujeres': '#f472b6'},
+                    custom_data=["Rama"],
                 )
-                fig_rs.update_traces(hovertemplate='<b>Sector: %{y}</b><br>Género: %{data.name}<br>Volumen: %{x:.2f} M ocupados<extra></extra>')
-                apply_plotly_style(fig_rs)
+                fig_rs.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Sexo: %{data.name}<br>Personas ocupadas: %{x:.2f} millones<extra></extra>')
+                style_horizontal_chart(
+                    fig_rs,
+                    "Personas ocupadas (millones)",
+                    height=520,
+                    left_margin=170,
+                    has_legend=True,
+                )
                 st.plotly_chart(fig_rs, width="stretch", config=PLOTLY_CONFIG)
 
                 with st.expander("Ver tabla de datos — Distribución por sexo"):
                     st.dataframe(df_rs, width="stretch", hide_index=True)
+            except ValueError as error:
+                st.error(f"No fue posible construir esta gráfica: {error}")
         else:
             st.info("Datos no disponibles.")
 
@@ -1144,12 +1273,15 @@ with main_tab2:
         if 'calidad' in datos_adv:
             df_ice = datos_adv['calidad'].sort_values("ICE", ascending=True)
             if not df_ice.empty:
+                df_ice_plot = df_ice.tail(15).copy()
+                df_ice_plot['Rama_etiqueta'] = df_ice_plot['Rama'].map(lambda value: wrap_label(value, width=28))
                 fig_ice = px.bar(
-                    df_ice.tail(15), x="ICE", y="Rama", orientation='h',
+                    df_ice_plot, x="ICE", y="Rama_etiqueta", orientation='h',
                     color="ICE", color_continuous_scale=COLOR_SCALE_LABORAL,
+                    custom_data=["Rama"],
                 )
-                fig_ice.update_traces(hovertemplate='<b>%{y}</b><br>Puntaje ICE: %{x:.1f} / 100<extra></extra>')
-                apply_plotly_style(fig_ice)
+                fig_ice.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Puntaje ICE: %{x:.1f} / 100<extra></extra>')
+                style_horizontal_chart(fig_ice, "Puntaje ICE (0–100)", height=520, left_margin=170)
                 st.plotly_chart(fig_ice, width="stretch", config=PLOTLY_CONFIG)
             else:
                 st.info("Registros insuficientes.")
@@ -1161,12 +1293,15 @@ with main_tab2:
         st.caption("Promedio de cuatro señales de riesgo laboral. Es un índice comparativo propio, sin umbral oficial.")
         if 'vulnerabilidad' in datos_adv:
             df_ivi = datos_adv['vulnerabilidad'].sort_values("IVI", ascending=True)
+            df_ivi_plot = df_ivi.tail(15).copy()
+            df_ivi_plot['Rama_etiqueta'] = df_ivi_plot['Rama'].map(lambda value: wrap_label(value, width=28))
             fig_ivi = px.bar(
-                df_ivi.tail(15), x="IVI", y="Rama", orientation='h',
+                df_ivi_plot, x="IVI", y="Rama_etiqueta", orientation='h',
                 color="IVI", color_continuous_scale=COLOR_SCALE_RIESGO,
+                custom_data=["Rama"],
             )
-            fig_ivi.update_traces(hovertemplate='<b>%{y}</b><br>Nivel de Vulnerabilidad: %{x:.1f}%<extra></extra>')
-            apply_plotly_style(fig_ivi)
+            fig_ivi.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Índice de vulnerabilidad: %{x:.1f} / 100<extra></extra>')
+            style_horizontal_chart(fig_ivi, "Índice de vulnerabilidad (0–100)", height=520, left_margin=170)
             st.plotly_chart(fig_ivi, width="stretch", config=PLOTLY_CONFIG)
         else:
             st.info("Datos de vulnerabilidad no disponibles.")
@@ -1182,17 +1317,28 @@ with main_tab2:
         if 'formalidad' in datos_adv:
             df_form = datos_adv['formalidad'].sort_values("Afiliado_salud_%", ascending=False)
             if 'Cotiza_pension_%' in df_form.columns and 'Afiliado_salud_%' in df_form.columns:
-                df_form_top = df_form.head(10).copy()
+                df_form_top = df_form.head(10).sort_values("Afiliado_salud_%").copy()
+                df_form_top['Rama_etiqueta'] = df_form_top['Rama'].map(lambda value: wrap_label(value, width=28))
                 df_form_top_melt = df_form_top.melt(id_vars=['Rama'], value_vars=['Afiliado_salud_%', 'Cotiza_pension_%'], var_name='Cobertura', value_name='Porcentaje')
+                df_form_top_melt['Rama_etiqueta'] = df_form_top_melt['Rama'].map(
+                    dict(zip(df_form_top['Rama'], df_form_top['Rama_etiqueta']))
+                )
                 df_form_top_melt['Tipo'] = df_form_top_melt['Cobertura'].replace({'Afiliado_salud_%': 'Salud', 'Cotiza_pension_%': 'Pensión'})
                 
                 fig_f = px.bar(
-                    df_form_top_melt, x='Porcentaje', y='Rama', color='Tipo',
+                    df_form_top_melt, x='Porcentaje', y='Rama_etiqueta', color='Tipo',
                     orientation='h', barmode='group',
-                    color_discrete_map={'Salud': '#14b8a6', 'Pensión': '#fbbf24'}
+                    color_discrete_map={'Salud': '#14b8a6', 'Pensión': '#fbbf24'},
+                    custom_data=['Rama'],
                 )
-                fig_f.update_traces(hovertemplate='<b>Sector: %{y}</b><br>Cobertura (%{data.name}): %{x:.1f}%<extra></extra>')
-                apply_plotly_style(fig_f)
+                fig_f.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Cobertura de %{data.name}: %{x:.1f}%<extra></extra>')
+                style_horizontal_chart(
+                    fig_f,
+                    "Población ocupada con cobertura (%)",
+                    height=500,
+                    left_margin=170,
+                    has_legend=True,
+                )
                 st.plotly_chart(fig_f, width="stretch", config=PLOTLY_CONFIG)
                 
                 with st.expander("Ver tabla de datos — Formalidad"):
@@ -1206,12 +1352,15 @@ with main_tab2:
         if 'costos' in datos_adv:
             df_costos = datos_adv['costos'].sort_values("Costo_SMMLV", ascending=True)
             if not df_costos.empty:
+                df_costos_plot = df_costos.tail(10).copy()
+                df_costos_plot['Rama_etiqueta'] = df_costos_plot['Rama'].map(lambda value: wrap_label(value, width=28))
                 fig_c = px.bar(
-                    df_costos.tail(10), x="Costo_SMMLV", y="Rama", orientation='h',
-                    color="Costo_SMMLV", color_continuous_scale=COLOR_SCALE_LABORAL
+                    df_costos_plot, x="Costo_SMMLV", y="Rama_etiqueta", orientation='h',
+                    color="Costo_SMMLV", color_continuous_scale=COLOR_SCALE_LABORAL,
+                    custom_data=["Rama"],
                 )
-                fig_c.update_traces(hovertemplate='<b>%{y}</b><br>Costo Promedio: %{x:.2f} SMMLVs<extra></extra>')
-                apply_plotly_style(fig_c)
+                fig_c.update_traces(hovertemplate='<b>%{customdata[0]}</b><br>Costo laboral simulado: %{x:.2f} SMMLV<extra></extra>')
+                style_horizontal_chart(fig_c, "Costo laboral simulado (SMMLV)", height=500, left_margin=170)
                 st.plotly_chart(fig_c, width="stretch", config=PLOTLY_CONFIG)
 
                 with st.expander("Ver tabla de datos — Costos laborales"):
